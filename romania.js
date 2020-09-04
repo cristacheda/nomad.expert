@@ -1,5 +1,7 @@
 {
     "Bulgaria" : "ID, Passport",
-    "Ucraina" : "ID",
-    "" : "",
+    "Cehia" : "ID, Passport",
+    "Ungaria" : "ID, Passport",
+    "Franta" : "ID, Passport",
+            
 }
