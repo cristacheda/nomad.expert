@@ -10,22 +10,22 @@
     "Olanda" : ["Carte de Identitate, Pașaport", "https://haga.mae.ro/node/177", "Cetățenii români nu au nevoie de viză pentru a călători în Olanda, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate. Este important de menționat faptul că poliția, controlorii de bilete, inspectorii de muncă, furnizorii de servicii medicale sau alte oficialități vă pot solicita identificareae. Conform legii, sunteți obligat să aveți asupra dumneavoastră în orice moment un document de identitate valabil în original, lipsa acestuia pedepsindu-se cu o amendă de 60 EUR."],
     "Grecia" : ["Carte de Identitate, Pașaport", "https://www.mae.ro/travel-conditions/3701", "Cetățenii români nu au nevoie de viză pentru a călători în Grecia, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate."],
     "Croația" : ["Carte de Identitate, Pașaport", "https://www.mae.ro/travel-conditions/3688", "Cetățenii români nu au nevoie de viză pentru a călători în Croația, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate. Este important de menționat faptul că cetățenii români care doresc să rămână în Croația pentru perioade mai lungi de 90 de zile trebuie să se înregistreze, în funcție de scopul șederii, la autoritățile croate competente. Mai multe informații pe site-ul oficial MAE."],
-    "Danemarca" : "Carte de Identitate, Pașaport"
-    "Irlanda" : "Carte de Identitate, Pașaport"
-    "Portugalia" : "Carte de Identitate, Pașaport"
-    "Belgia" : "Carte de Identitate, Pașaport"
-    "Austria" : "Carte de Identitate, Pașaport"
-    "Finlanda" : "Carte de Identitate, Pașaport"
-    "Cipru" : "Carte de Identitate, Pașaport"
-    "Luxemburg" : "Carte de Identitate, Pașaport"
-    "Lituania" : "Carte de Identitate, Pașaport"
-    "Slovenia" : "Carte de Identitate, Pașaport"
-    "Malta" : "Carte de Identitate, Pașaport"
-    "Slovacia" : "Carte de Identitate, Pașaport"
-    "Letonia" : "Carte de Identitate, Pașaport"
-    "Estonia" : "Carte de Identitate, Pașaport"
-    "Suedia" : "Carte de Identitate, Pașaport"
-    "Rusia"
+    "Danemarca" : ["Carte de Identitate, Pașaport", "https://www.mae.ro/travel-conditions/3690", "Cetățenii români nu au nevoie de viză pentru a călători în Danemarca, ci doar de cartea de identitate sau de pașaport, valabile cel puțin 3 luni. Perioada maximă de ședere pentru deținătorii acestor documente este de 3 luni."],
+    "Irlanda" : ["Carte de Identitate, Pașaport", "https://www.mae.ro/travel-conditions/3708", "Cetățenii români nu au nevoie de viză pentru a călători în Irlanda, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate."],
+    "Portugalia" : ["Carte de Identitate, Pașaport", "https://www.mae.ro/travel-conditions/3736", "Cetățenii români nu au nevoie de viză pentru a călători în Portugalia, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate."],
+    "Belgia" : ["Carte de Identitate, Pașaport", "https://www.mae.ro/travel-conditions/3673", "Cetățenii români nu au nevoie de viză pentru a călători în Belgia, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate."],
+    "Austria" : ["Carte de Identitate, Pașaport", "https://www.mae.ro/travel-conditions/3670", "Cetățenii români nu au nevoie de viză pentru a călători în Austria, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate."],
+    "Finlanda" : ["Carte de Identitate, Pașaport", "https://www.mae.ro/travel-conditions/3697", "Cetățenii români nu au nevoie de viză pentru a călători în Finlanda, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate. Cetățenii statelor membre UE, deci și cetățenii români, pot rămâne pe teritoriul Finlandei trei luni fără a îndeplini vreo formalitate, dacă au o carte de identitate sau un pașaport valabil și dețin resurse ecnonomice suficiente pentru a se întreține pe sine și, eventual, membrii familiei. Pentru șederi mai lungi de 3 luni, cetățenii UE trebuie să se înregistreze la secția de poliție din jurisdicția în care locuiesc. Mai multe detalii pe site-ul oficial MAE."],
+    "Cipru" : ["Carte de Identitate, Pașaport", "https://www.mae.ro/travel-conditions/3682", "Cetățenii români nu au nevoie de viză pentru a călători în Cipru, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate."],
+    "Luxemburg" : ["Carte de Identitate, Pașaport", "https://www.mae.ro/travel-conditions/3720", "Cetățenii români nu au nevoie de viză pentru a călători în Marele Ducat de Luxemburg, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate și pentru șederi de până la 3 luni."],
+    "Lituania" : ["Carte de Identitate, Pașaport", "https://www.mae.ro/travel-conditions/3719", "Cetățenii români nu au nevoie de viză pentru a călători în Lituania, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate."],
+    "Slovenia" : ["Carte de Identitate, Pașaport", "https://www.mae.ro/travel-conditions/3746", "Cetățenii români nu au nevoie de viză pentru a călători în Slovenia, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate pentru șederi de până la 3 luni. Toți cetățenii străini, inclusiv cetățenii UE, au obligația să se înregistreze la secția de poliție pe raza căreia locuiesc în termen de 3 zile de la sosirea în Slovenia. Această formalitate nu este necesară pentru cei care se cazează la hotel."],
+    "Malta" : ["Carte de Identitate, Pașaport", "https://www.mae.ro/travel-conditions/3724", "Cetățenii români nu au nevoie de viză pentru a călători în Malta, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate."],
+    "Slovacia" : ["Carte de Identitate, Pașaport", "https://www.mae.ro/travel-conditions/3745", "Cetățenii români nu au nevoie de viză pentru a călători în Slovacia, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate."],
+    "Letonia" : ["Carte de Identitate, Pașaport", "https://www.mae.ro/travel-conditions/3715", "Cetățenii români nu au nevoie de viză pentru a călători în Letonia, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate."],
+    "Estonia" : ["Carte de Identitate, Pașaport", "https://www.mae.ro/travel-conditions/3694", "Cetățenii români nu au nevoie de viză pentru a călători în Estonia, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate. Cetățenii statelor membre UE, deci și cetățenii români, pot rămâne pe teritoriul Estoniei trei luni fără a îndeplini vreo formalitate, dacă au o carte de identitate sau un pașaport valabil și dețin resurse ecnonomice suficiente pentru a se întreține pe sine și, eventual, membrii familiei. Pentru șederi mai lungi de 3 luni, cetățenii UE trebuie să se înregistreze la administrația locală în care locuiesc. Mai multe detalii pe site-ul oficial MAE."],
+    "Suedia" : ["Carte de Identitate, Pașaport", "http://www.mae.ro/travel-conditions/3750", "Cetățenii români nu au nevoie de viză pentru a călători în Suedia, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate."],
+    "Rusia" ["Pașaport, Viză", "https://www.mae.ro/travel-conditions/3740", "Cetățenii români au nevoie atât de un document de călătorie (pașaport simplu electronic, pașaport simplu temporar, pașaport de serviciu, pașaport diplomatic), cât și de viză pentru a intra pe teritoriul Federației Ruse. Pentru obținerea vizei, te poți adresa Secției Consulare a Ambasadei Federației Ruse la București - aceasta se obține pe baza unei invitații. Află toate detaliile pe site-ul oficial MAE."],
     "Ucraina" : ["Pașaport", "https://www.mae.ro/travel-conditions/3755", "Cetățenii români nu au nevoie de viză de intrare în Ucraina pentru călătorii de scurtă durată, maximul fiind de 90 de zile. Așadar, cetățenii români pot intra pe teritoriul Ucrainei cu un pașaport valabil minimum 90 de zile. Totodată, străinii trebuie să demonstreze Poliției de Frontieră că dețin resursele financiare necesare pe durata șederii în Ucraina. Summa necesară este de aproximativ 2000 EUR/lună, respectiv 400 EUR/săptămână sau echivalentul în orice altă valută. Mai multe informații pe site-ul oficial MAE."],
     "Norvegia"
     "Regatul Unit al Marii Britanii"
@@ -120,7 +120,7 @@
     "Thailanda"
     "Turkmenistan"
     "Uzbekistan"
-    "Irak" ["Document de călătorie, Viză", "https://www.mae.ro/travel-conditions/3706", "Cetățenii români care doresc să călătorească în Republica Irak trebuie să dețină un document de călătorie cu o valabilitatet mai mare de 6 luni, precum și de viză ce poate fi obținută de la Ambasada Republicii Irak la București. Este extrem de important de menționat faptul că Ministerul Afacerilor externe recomandă prudență sau chiar evitarea călătoriilor în Irak, situația de securitate din această țară fiind grav afectată zilnic de acțiuni cu caracter terorist. Mai multe informații pe site-ul oficical MAE."],
+    "Irak" : ["Document de călătorie, Viză", "https://www.mae.ro/travel-conditions/3706", "Cetățenii români care doresc să călătorească în Republica Irak trebuie să dețină un document de călătorie cu o valabilitate mai mare de 6 luni, precum și o viză ce poate fi obținută de la Ambasada Republicii Irak la București. Este extrem de important de menționat faptul că Ministerul Afacerilor Externe recomandă prudență sau chiar evitarea călătoriilor în Irak, situația de securitate din această țară fiind grav afectată zilnic de acțiuni cu caracter terorist. Mai multe informații pe site-ul oficical MAE."],
     "Japonia"
     "Vietnam"
     "Malaezia"
@@ -141,8 +141,8 @@
     "Bhutan"
     "Taiwan"
     "Israel"
-    "Kuweit"
-    "Timor-Leste"
+    "Kuwait"
+    "Republica Democrată Timorul de Est"
     "Qatar"
     "Liban"
     "Brunei"
@@ -185,7 +185,7 @@
     "Sfânta Lucia"
     "Curacao (Regatul Olandei)"
     "Aruba (Regatul Olandei)"
-    "Saint Vincent and the Grenadines"
+    "Saint Vincent și Grenadines"
     "Insulele Virgine (Statele Unite ale Americii)"
     "Grenada"
     "Antigua și Barbuda"
@@ -193,7 +193,7 @@
     "Bermuda (Regatul Unit al Marii Britanii)"
     "Insulele Cayman (Regatul Unit al Marii Britanii)"
     "Groenlanda (Danemarca)"
-    "Saint Kitts and Nevis"
+    "Saint Kitts și Nevis"
     "Sint Marteen (Regatul Olandei)"
     "Turks and Caicos Islands (Regatul Unit al Marii Britanii)"
     "Saint Martin (Franța)"
@@ -215,7 +215,7 @@
     "Samoa"
     "Guam (Statele Unite ale Americii)"
     "Kiribati"
-    "Statele Federate ale Microneziei"
+    "Micronezia"
     "Tonga"
     "Samoa Americană (Statele Unite ale Americii)"
     "Insulele Mariana de Nord (Statele Unite ale Americii)"
@@ -223,7 +223,7 @@
     "Insulele Cook (Noua Zeelandă)"
     "Wallis and Futuna (Franța)"
     "Tuvalu"
-    "Nauru"
+    "Republica Nauru"
     "Insula Norfolk (Australia)
     "Niue (Noua Zeelandă)"
     "Insulele Pitcairn (Regatul Unit al Marii Britanii)"
