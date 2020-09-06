@@ -1,0 +1,20 @@
+.btn {
+  display: inline-block;
+  padding: 10px 15px;
+  border-radius: 3px;
+  background-color: #333;
+  border: none;
+  color: #fff;
+  &:hover {
+    background-color: #333;
+    color: #fff;
+  }
+}
+
+.btn.main {
+  background-color: $buttons-main-color;
+}
+
+.btn.secondary {
+  background-color: $buttons-secondary-color;
+}

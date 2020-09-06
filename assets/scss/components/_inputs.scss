@@ -1,0 +1,39 @@
+input[disabled],
+textarea[disabled],
+select[disabled] {
+  background-color: #eee;
+  opacity: 1;
+  cursor: not-allowed;
+}
+input[type="submit"] {
+  padding: 12px 20px;
+  color: #fff;
+  background-color: $buttons-main-color;
+  border-color: transparent;
+  border-radius: 0px;
+  cursor: pointer;
+  &:hover {
+    color: #fff;
+    background-color: darken($buttons-main-color, 10%);
+  }
+}
+
+input:not([type=radio]):not([type=checkbox]):not([type=submit]):not([type=button]):not([type=image]):not([type=file]),
+textarea,
+select {
+  display: inline-block;
+  box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1);
+  padding: 5px 4px;
+  border: 1px solid #ccc;
+}
+select {
+  -webkit-appearance: none;
+  background: white url('img/chevron-down.svg') no-repeat;
+  background-position: right 10px center;
+  background-size: 12px;
+}
+textarea {
+  padding: 6px 8px;
+  line-height: 1.5;
+  resize: none;
+}
