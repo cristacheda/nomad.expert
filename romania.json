@@ -1,5 +1,5 @@
 [
-        {
+    {
         "name": "Afghanistan",
         "code": "AF",
         "documents": "",
@@ -1352,7 +1352,7 @@
     },
     {
         "name": "Montenegro",
-        "code": "ME",
+        "code": "ME"
     },
     {
         "name": "Seychelles",
