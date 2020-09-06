@@ -4,231 +4,264 @@
         "code": "AF",
         "documents": "Pașaport, Viză",
         "source": "https://www.mae.ro/travel-conditions/10341",
-        "comment": "Accesul pe teritoriul Afganistanului se face pe baza documentului de călătorie și a vizei. Viza turistică este valabilă o lună și se acordă cu o singură intrare. Aceasta se poate obține de la Ambasada Afganistanului în Polonia. Având în vedere caracterul instabil al țării din punct de vedere al stării de insecuritate, pe fondul atentatelor teroriste, Ministerul Afacerilor Externe recomandă cetățenilor români să evite călătoriile în această țară."
+        "comment": "Accesul pe teritoriul Afganistanului se face pe baza documentului de călătorie și a vizei. Viza turistică este valabilă o lună și se acordă cu o singură intrare. Aceasta se poate obține de la Ambasada Afganistanului în Polonia. Având în vedere caracterul instabil al țării din punct de vedere al stării de insecuritate, pe fondul atentatelor teroriste, Ministerul Afacerilor Externe recomandă cetățenilor români să evite călătoriile în această țară.",
+        "warning" : ""
     },
     {
         "name": "Åland Islands",
         "code": "AX",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Albania",
         "code": "AL",
         "documents": "",
         "source": "https://www.mae.ro/travel-conditions/3664",
-        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Albania, ci doar de cartea de identitate sau de pașaport - a căror valabilitate trebuie să fie de minimum 3 luni de la data intrării. Șederea nu trebuie să fie mai lungă de 90 de zile, într-un interval de 6 luni. Pentru șederile care depășesc 90 de zile, este necesară obținerea unui permis de ședere, eliberat de Ministerul Albanez al Afacerilor Interne. Mai multe detalii pe site-ul oficial MAE."
+        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Albania, ci doar de cartea de identitate sau de pașaport - a căror valabilitate trebuie să fie de minimum 3 luni de la data intrării. Șederea nu trebuie să fie mai lungă de 90 de zile, într-un interval de 6 luni. Pentru șederile care depășesc 90 de zile, este necesară obținerea unui permis de ședere, eliberat de Ministerul Albanez al Afacerilor Interne. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : ""
     },
     {
         "name": "Algeria",
         "code": "DZ",
         "documents": "Pașaport, Viză",
         "source": "https://www.mae.ro/travel-conditions/3665",
-        "comment": "În Republica Algeriană Democratică și Populară, viza de intrare este obligatorie pentru cetățenii români posesori de pașapoarte simple și pașapoarte de serviciu. Vizele nu se eliberează la frontieră, ci doar de la misiunile algeriene acreditate în străinătate și se acordă cu o valabilitate de 1 lună, 3 luni, 6 luni, 1 an sau 2 ani. În România, viza se poate obține de la Secția Consulară a Ambasadei Algeriei la București. Perioada de ședere în Algeria nu poate depăși 90 de zile. Mai multe detalii pe site-ul oficial MAE."
+        "comment": "În Republica Algeriană Democratică și Populară, viza de intrare este obligatorie pentru cetățenii români posesori de pașapoarte simple și pașapoarte de serviciu. Vizele nu se eliberează la frontieră, ci doar de la misiunile algeriene acreditate în străinătate și se acordă cu o valabilitate de 1 lună, 3 luni, 6 luni, 1 an sau 2 ani. În România, viza se poate obține de la Secția Consulară a Ambasadei Algeriei la București. Perioada de ședere în Algeria nu poate depăși 90 de zile. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : ""
     },
     {
         "name": "American Samoa",
         "code": "AS",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "AndorrA",
         "code": "AD",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Angola",
         "code": "AO",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Anguilla",
         "code": "AI",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Antarctica",
         "code": "AQ",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Antigua and Barbuda",
         "code": "AG",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Argentina",
         "code": "AR",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Armenia",
         "code": "AM",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Aruba",
         "code": "AW",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Australia",
         "code": "AU",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Austria",
         "code": "AT",
         "documents": "Carte de Identitate, Pașaport",
         "source": "https://www.mae.ro/travel-conditions/3670",
-        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Austria, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate."
+        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Austria, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate.",
+        "warning" : ""
     },
     {
         "name": "Azerbaijan",
         "code": "AZ",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Bahamas",
         "code": "BS",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Bahrain",
         "code": "BH",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Bangladesh",
         "code": "BD",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Barbados",
         "code": "BB",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Belarus",
         "code": "BY",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Belgium",
         "code": "BE",
         "documents": "Carte de Identitate, Pașaport",
         "source": "https://www.mae.ro/travel-conditions/3673",
-        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Belgia, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate."
+        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Belgia, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate.",
+        "warning" : ""
     },
     {
         "name": "Belize",
         "code": "BZ",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Benin",
         "code": "BJ",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Bermuda",
         "code": "BM",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Bhutan",
         "code": "BT",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Bolivia",
         "code": "BO",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Bosnia and Herzegovina",
         "code": "BA",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Botswana",
         "code": "BW",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Bouvet Island",
         "code": "BV",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Brazil",
         "code": "BR",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "British Indian Ocean Territory",
         "code": "IO",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Brunei Darussalam",
         "code": "BN",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Bulgaria",
@@ -242,1460 +275,1669 @@
         "code": "BF",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Burundi",
         "code": "BI",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Cambodia",
         "code": "KH",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Cameroon",
         "code": "CM",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Canada",
         "code": "CA",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Cape Verde",
         "code": "CV",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Cayman Islands",
         "code": "KY",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Central African Republic",
         "code": "CF",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Chad",
         "code": "TD",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Chile",
         "code": "CL",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "China",
         "code": "CN",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Christmas Island",
         "code": "CX",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Cocos (Keeling) Islands",
         "code": "CC",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Colombia",
         "code": "CO",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Comoros",
         "code": "KM",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Congo",
         "code": "CG",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Congo, The Democratic Republic of the",
         "code": "CD",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Cook Islands",
         "code": "CK",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Costa Rica",
         "code": "CR",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Cote D'Ivoire",
         "code": "CI",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Croatia",
         "code": "HR",
         "documents": "Carte de Identitate, Pașaport",
         "source": "https://www.mae.ro/travel-conditions/3688",
-        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Croația, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate. Este important de menționat faptul că cetățenii români care doresc să rămână în Croația pentru perioade mai lungi de 90 de zile trebuie să se înregistreze, în funcție de scopul șederii, la autoritățile croate competente. Mai multe informații pe site-ul oficial MAE."
+        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Croația, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate. Este important de menționat faptul că cetățenii români care doresc să rămână în Croația pentru perioade mai lungi de 90 de zile trebuie să se înregistreze, în funcție de scopul șederii, la autoritățile croate competente. Mai multe informații pe site-ul oficial MAE.",
+        "warning" : ""
     },
     {
         "name": "Cuba",
         "code": "CU",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Cyprus",
         "code": "CY",
         "documents": "Carte de Identitate, Pașaport",
         "source": "https://www.mae.ro/travel-conditions/3682",
-        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Cipru, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate."
+        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Cipru, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate.",
+        "warning" : ""
     },
     {
         "name": "Czech Republic",
         "code": "CZ",
         "documents": "Carte de Identitate, Pașaport",
         "source": "https://www.mae.ro/travel-conditions/3679",
-        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Republica Cehă. Intrarea este permisă cu cartea de identitate sau cu pașaportul, valabile pentru o perioadă de cel puțin 3 luni. Perioada maximă de ședere este de 3 luni, fiind necesară obținerea unui permis de ședere pentru perioade mai lungi. Mai multe informații pe site-ul oficial MAE."
+        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Republica Cehă. Intrarea este permisă cu cartea de identitate sau cu pașaportul, valabile pentru o perioadă de cel puțin 3 luni. Perioada maximă de ședere este de 3 luni, fiind necesară obținerea unui permis de ședere pentru perioade mai lungi. Mai multe informații pe site-ul oficial MAE.",
+        "warning" : ""
     },
     {
         "name": "Denmark",
         "code": "DK",
         "documents": "Carte de Identitate, Pașaport",
         "source": "https://www.mae.ro/travel-conditions/3690",
-        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Danemarca, ci doar de cartea de identitate sau de pașaport, valabile cel puțin 3 luni. Perioada maximă de ședere pentru deținătorii acestor documente este de 3 luni."
+        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Danemarca, ci doar de cartea de identitate sau de pașaport, valabile cel puțin 3 luni. Perioada maximă de ședere pentru deținătorii acestor documente este de 3 luni.",
+        "warning" : ""
     },
     {
         "name": "Djibouti",
         "code": "DJ",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Dominica",
         "code": "DM",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Dominican Republic",
         "code": "DO",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Ecuador",
         "code": "EC",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Egypt",
         "code": "EG",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "El Salvador",
         "code": "SV",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Equatorial Guinea",
         "code": "GQ",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Eritrea",
         "code": "ER",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Estonia",
         "code": "EE",
         "documents": "Carte de Identitate, Pașaport",
         "source": "https://www.mae.ro/travel-conditions/3694",
-        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Estonia, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate. Cetățenii statelor membre UE, deci și cetățenii români, pot rămâne pe teritoriul Estoniei trei luni fără a îndeplini vreo formalitate, dacă au o carte de identitate sau un pașaport valabil și dețin resurse ecnonomice suficiente pentru a se întreține pe sine și, eventual, membrii familiei. Pentru șederi mai lungi de 3 luni, cetățenii UE trebuie să se înregistreze la administrația locală în care locuiesc. Mai multe detalii pe site-ul oficial MAE."
+        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Estonia, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate. Cetățenii statelor membre UE, deci și cetățenii români, pot rămâne pe teritoriul Estoniei trei luni fără a îndeplini vreo formalitate, dacă au o carte de identitate sau un pașaport valabil și dețin resurse ecnonomice suficiente pentru a se întreține pe sine și, eventual, membrii familiei. Pentru șederi mai lungi de 3 luni, cetățenii UE trebuie să se înregistreze la administrația locală în care locuiesc. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : ""
     },
     {
         "name": "Ethiopia",
         "code": "ET",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Falkland Islands (Malvinas)",
         "code": "FK",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Faroe Islands",
         "code": "FO",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Fiji",
         "code": "FJ",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Finland",
         "code": "FI",
         "documents": "Carte de Identitate, Pașaport",
         "source": "https://www.mae.ro/travel-conditions/3697",
-        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Finlanda, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate. Cetățenii statelor membre UE, deci și cetățenii români, pot rămâne pe teritoriul Finlandei trei luni fără a îndeplini vreo formalitate, dacă au o carte de identitate sau un pașaport valabil și dețin resurse ecnonomice suficiente pentru a se întreține pe sine și, eventual, membrii familiei. Pentru șederi mai lungi de 3 luni, cetățenii UE trebuie să se înregistreze la secția de poliție din jurisdicția în care locuiesc. Mai multe detalii pe site-ul oficial MAE."
+        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Finlanda, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate. Cetățenii statelor membre UE, deci și cetățenii români, pot rămâne pe teritoriul Finlandei trei luni fără a îndeplini vreo formalitate, dacă au o carte de identitate sau un pașaport valabil și dețin resurse ecnonomice suficiente pentru a se întreține pe sine și, eventual, membrii familiei. Pentru șederi mai lungi de 3 luni, cetățenii UE trebuie să se înregistreze la secția de poliție din jurisdicția în care locuiesc. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : ""
     },
     {
         "name": "France",
         "code": "FR",
         "documents": "Carte de Identitate, Pașaport",
         "source": "https://www.mae.ro/travel-conditions/3698",
-        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Franța, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate."
+        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Franța, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate.",
+        "warning" : ""
     },
     {
         "name": "French Guiana",
         "code": "GF",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "French Polynesia",
         "code": "PF",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "French Southern Territories",
         "code": "TF",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Gabon",
         "code": "GA",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Gambia",
         "code": "GM",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Georgia",
         "code": "GE",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Germany",
         "code": "DE",
         "documents": "Carte de Identitate, Pașaport",
         "source": "https://www.mae.ro/travel-conditions/3700",
-        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Germania, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate."
+        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Germania, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate.",
+        "warning" : ""
     },
     {
         "name": "Ghana",
         "code": "GH",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Gibraltar",
         "code": "GI",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Greece",
         "code": "GR",
         "documents": "Carte de Identitate, Pașaport",
         "source": "https://www.mae.ro/travel-conditions/3701",
-        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Grecia, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate."
+        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Grecia, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate.",
+        "warning" : ""
     },
     {
         "name": "Greenland",
         "code": "GL",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Grenada",
         "code": "GD",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Guadeloupe",
         "code": "GP",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Guam",
         "code": "GU",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Guatemala",
         "code": "GT",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Guernsey",
         "code": "GG",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Guinea",
         "code": "GN",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Guinea-Bissau",
         "code": "GW",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Guyana",
         "code": "GY",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Haiti",
         "code": "HT",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Heard Island and Mcdonald Islands",
         "code": "HM",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Holy See (Vatican City State)",
         "code": "VA",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Honduras",
         "code": "HN",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Hong Kong",
         "code": "HK",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Hungary",
         "code": "HU",
         "documents": "Carte de Identitate, Pașaport",
         "source": "https://www.mae.ro/travel-conditions/3756",
-        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Ungaria, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate."
+        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Ungaria, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate.",
+        "warning" : ""
     },
     {
         "name": "Iceland",
         "code": "IS",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "India",
         "code": "IN",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Indonesia",
         "code": "ID",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Iran, Islamic Republic Of",
         "code": "IR",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Iraq",
         "code": "IQ",
         "documents": "Document de călătorie, Viză",
         "source": "https://www.mae.ro/travel-conditions/3706",
-        "comment": "Cetățenii români care doresc să călătorească în Republica Irak trebuie să dețină un document de călătorie cu o valabilitate mai mare de 6 luni, precum și o viză ce poate fi obținută de la Ambasada Republicii Irak la București. Este extrem de important de menționat faptul că Ministerul Afacerilor Externe recomandă prudență sau chiar evitarea călătoriilor în Irak, situația de securitate din această țară fiind grav afectată zilnic de acțiuni cu caracter terorist. Mai multe informații pe site-ul oficical MAE."
+        "comment": "Cetățenii români care doresc să călătorească în Republica Irak trebuie să dețină un document de călătorie cu o valabilitate mai mare de 6 luni, precum și o viză ce poate fi obținută de la Ambasada Republicii Irak la București. Este extrem de important de menționat faptul că Ministerul Afacerilor Externe recomandă prudență sau chiar evitarea călătoriilor în Irak, situația de securitate din această țară fiind grav afectată zilnic de acțiuni cu caracter terorist. Mai multe informații pe site-ul oficical MAE.",
+        "warning" : ""
     },
     {
         "name": "Ireland",
         "code": "IE",
         "documents": "Carte de Identitate, Pașaport",
         "source": "https://www.mae.ro/travel-conditions/3708",
-        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Irlanda, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate."
+        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Irlanda, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate.",
+        "warning" : ""
     },
     {
         "name": "Isle of Man",
         "code": "IM",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Israel",
         "code": "IL",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Italy",
         "code": "IT",
         "documents": "Carte de Identitate, Pașaport",
         "source": "https://www.mae.ro/travel-conditions/3711",
-        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Italia, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate."
+        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Italia, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate.",
+        "warning" : ""
     },
     {
         "name": "Jamaica",
         "code": "JM",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Japan",
         "code": "JP",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Jersey",
         "code": "JE",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Jordan",
         "code": "JO",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Kazakhstan",
         "code": "KZ",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Kenya",
         "code": "KE",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Kiribati",
         "code": "KI",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Korea, Democratic People's Republic of",
         "code ": "KP",
         "documents": "Document de călătorie, Viză de Intraree/Ieșire",
         "source": "https://www.mae.ro/travel-conditions/3685",
-        "comment": "Pentru a călători în Republica Populară Democrată Coreeană este necesară obținerea vizei de intrare/ieșire. Viza se acordă numai pe baza unei invitații oficiale adresate de o instituție sau persoană fizică cu reședința în Coreea de Nord sau la solicitarea scrisă a unei instituții din România. Viza se poate obține de la una dintre ambasadele sau agențiile de turism nord-coreene din străinătate, cu perioada de procesare a vizei de minimum 10 zile. Dată fiind natura extrem de delicată a călătoriilor în acest stat, îți recomandăm să afli mai multe detalii pe site-ul oficial MAE."
+        "comment": "Pentru a călători în Republica Populară Democrată Coreeană este necesară obținerea vizei de intrare/ieșire. Viza se acordă numai pe baza unei invitații oficiale adresate de o instituție sau persoană fizică cu reședința în Coreea de Nord sau la solicitarea scrisă a unei instituții din România. Viza se poate obține de la una dintre ambasadele sau agențiile de turism nord-coreene din străinătate, cu perioada de procesare a vizei de minimum 10 zile. Dată fiind natura extrem de delicată a călătoriilor în acest stat, îți recomandăm să afli mai multe detalii pe site-ul oficial MAE.",
+        "warning" : ""
     },
     {
         "name": "Korea, Republic of",
         "code": "KR",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Kuwait",
         "code": "KW",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Kyrgyzstan",
         "code": "KG",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Lao,  People's Democratic Republic",
         "code": "LA",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Latvia",
         "code": "LV",
         "documents": "Carte de Identitate, Pașaport",
         "source": "https://www.mae.ro/travel-conditions/3715",
-        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Letonia, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate."
+        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Letonia, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate.",
+        "warning" : ""
     },
     {
         "name": "Lebanon",
         "code": "LB",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Lesotho",
         "code": "LS",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Liberia",
         "code": "LR",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Libyan Arab Jamahiriya",
         "code": "LY",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Liechtenstein",
         "code": "LI",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Lithuania",
         "code": "LT",
         "documents": "Carte de Identitate, Pașaport",
         "source": "https://www.mae.ro/travel-conditions/3719",
-        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Lituania, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate."
+        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Lituania, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate.",
+        "warning" : ""
     },
     {
         "name": "Luxembourg",
         "code": "LU",
         "documents": "Carte de Identitate, Pașaport",
         "source": "https://www.mae.ro/travel-conditions/3720",
-        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Marele Ducat de Luxemburg, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate și pentru șederi de până la 3 luni."
+        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Marele Ducat de Luxemburg, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate și pentru șederi de până la 3 luni.",
+        "warning" : ""
     },
     {
         "name": "Macao",
         "code": "MO",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Macedonia, The Former Yugoslav Republic of",
         "code": "MK",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Madagascar",
         "code": "MG",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Malawi",
         "code": "MW",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Malaysia",
         "code": "MY",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Maldives",
         "code": "MV",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Mali",
         "code": "ML",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Malta",
         "code": "MT",
         "documents": "Carte de Identitate, Pașaport",
         "source": "https://www.mae.ro/travel-conditions/3724",
-        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Malta, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate."
+        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Malta, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate.",
+        "warning" : ""
     },
     {
         "name": "Marshall Islands",
         "code": "MH",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Martinique",
         "code": "MQ",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Mauritania",
         "code": "MR",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Mauritius",
         "code": "MU",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Mayotte",
         "code": "YT",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Mexico",
         "code": "MX",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Micronesia, Federated States of",
         "code": "FM",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Moldova, Republic of",
         "code": "MD",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Monaco",
         "code": "MC",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Mongolia",
         "code": "MN",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Montserrat",
         "code": "MS",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Morocco",
         "code": "MA",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Mozambique",
         "code": "MZ",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Myanmar",
         "code": "MM",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Namibia",
         "code": "NA",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Nauru",
         "code": "NR",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Nepal",
         "code": "NP",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Netherlands",
         "code": "NL",
         "documents": "Carte de Identitate, Pașaport",
         "source": "https://haga.mae.ro/node/177",
-        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Olanda, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate. Este important de menționat faptul că poliția, controlorii de bilete, inspectorii de muncă, furnizorii de servicii medicale sau alte oficialități vă pot solicita identificareae. Conform legii, sunteți obligat să aveți asupra dumneavoastră în orice moment un document de identitate valabil în original, lipsa acestuia pedepsindu-se cu o amendă de 60 EUR."
+        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Olanda, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate. Este important de menționat faptul că poliția, controlorii de bilete, inspectorii de muncă, furnizorii de servicii medicale sau alte oficialități vă pot solicita identificareae. Conform legii, sunteți obligat să aveți asupra dumneavoastră în orice moment un document de identitate valabil în original, lipsa acestuia pedepsindu-se cu o amendă de 60 EUR.",
+        "warning" : ""
     },
     {
         "name": "Netherlands Antilles",
         "code": "AN",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "New Caledonia",
         "code": "NC",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "New Zealand",
         "code": "NZ",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Nicaragua",
         "code": "NI",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Niger",
         "code": "NE",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Nigeria",
         "code": "NG",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Niue",
         "code": "NU",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Norfolk Island",
         "code": "NF",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Northern Mariana Islands",
         "code": "MP",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Norway",
         "code": "NO",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Oman",
         "code": "OM",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Pakistan",
         "code": "PK",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Palau",
         "code": "PW",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Palestinian Territory, Occupied",
         "code": "PS",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Panama",
         "code": "PA",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Papua New Guinea",
         "code": "PG",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Paraguay",
         "code": "PY",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Peru",
         "code": "PE",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Philippines",
         "code": "PH",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Pitcairn",
         "code": "PN",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Poland",
         "code": "PL",
         "documents": "Carte de Identitate, Pașaport",
         "source": "https://www.mae.ro/travel-conditions/3735",
-        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Polonia, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate. Pentru o perioadă mai mare de 3 luni, este necesară înregistrarea la Oficiul pentru Străini (Urząd ds. Cudzoziemców) al fiecărei regiuni (voievodat) și obținerea adeverinței privind înregistrarea șederii cetățeanului UE. Mai multe informații pe site-ul oficial MAE."
+        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Polonia, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate. Pentru o perioadă mai mare de 3 luni, este necesară înregistrarea la Oficiul pentru Străini (Urząd ds. Cudzoziemców) al fiecărei regiuni (voievodat) și obținerea adeverinței privind înregistrarea șederii cetățeanului UE. Mai multe informații pe site-ul oficial MAE.",
+        "warning" : ""
     },
     {
         "name": "Portugal",
         "code": "PT",
         "documents": "Carte de Identitate, Pașaport",
         "source": "https://www.mae.ro/travel-conditions/3736",
-        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Portugalia, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate."
+        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Portugalia, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate.",
+        "warning" : ""
     },
     {
         "name": "Puerto Rico",
         "code": "PR",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Qatar",
         "code": "QA",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Reunion",
         "code": "RE",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Romania",
         "code": "RO",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Russian Federation",
         "code": "RU",
         "documents": "Pașaport, Viză",
         "source": "https://www.mae.ro/travel-conditions/3740",
-        "comment": "Cetățenii români au nevoie atât de un document de călătorie (pașaport simplu electronic, pașaport simplu temporar, pașaport de serviciu, pașaport diplomatic), cât și de viză pentru a intra pe teritoriul Federației Ruse. Pentru obținerea vizei, te poți adresa Secției Consulare a Ambasadei Federației Ruse la București - aceasta se obține pe baza unei invitații. Află toate detaliile pe site-ul oficial MAE."
+        "comment": "Cetățenii români au nevoie atât de un document de călătorie (pașaport simplu electronic, pașaport simplu temporar, pașaport de serviciu, pașaport diplomatic), cât și de viză pentru a intra pe teritoriul Federației Ruse. Pentru obținerea vizei, te poți adresa Secției Consulare a Ambasadei Federației Ruse la București - aceasta se obține pe baza unei invitații. Află toate detaliile pe site-ul oficial MAE.",
+        "warning" : ""
     },
     {
         "name": "RWANDA",
         "code": "RW",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Saint Helena",
         "code": "SH",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Saint Kitts and Nevis",
         "code": "KN",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Saint Lucia",
         "code": "LC",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Saint Pierre and Miquelon",
         "code": "PM",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Saint Vincent and the Grenadines",
         "code": "VC",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Samoa",
         "code": "WS",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "San Marino",
         "code": "SM",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Sao Tome and Principe",
         "code": "ST",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Saudi Arabia",
         "code": "SA",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Senegal",
         "code": "SN",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Serbia",
         "code": "RS",
         "documents": "Carte de Identitate, Pașaport",
         "source": "https://www.mae.ro/travel-conditions/3742",
-        "comment": "Cetățenii români nu au nevoie de viză de intrare în Serbia pentru călătorii de scurtă durată, maximul fiind de 90 de zile. Accesul pe teritoriul Serbiei se poate face pe baza cărții de identitate sau a unui pașaport temporar. Totodată, cetățenii străini trebuie să facă dovada mijloacelor suficiente de întreținere pe durata șederii în acest stat și pentru returnarea în țara de origine sau pentru continuarea călătoriei, precum și a existenței unei asigurări medicale de călătorie valabile pe durata șederii în Serbia, respectiv a tranzitării acestei țări. Mai multe informații pe site-ul oficial MAE."
+        "comment": "Cetățenii români nu au nevoie de viză de intrare în Serbia pentru călătorii de scurtă durată, maximul fiind de 90 de zile. Accesul pe teritoriul Serbiei se poate face pe baza cărții de identitate sau a unui pașaport temporar. Totodată, cetățenii străini trebuie să facă dovada mijloacelor suficiente de întreținere pe durata șederii în acest stat și pentru returnarea în țara de origine sau pentru continuarea călătoriei, precum și a existenței unei asigurări medicale de călătorie valabile pe durata șederii în Serbia, respectiv a tranzitării acestei țări. Mai multe informații pe site-ul oficial MAE.",
+        "warning" : ""
     },
     {
         "name": "Montenegro",
-        "code": "ME"
+        "code": "ME",
+        "warning" : ""
     },
     {
         "name": "Seychelles",
         "code": "SC",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Sierra Leone",
         "code": "SL",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Singapore",
         "code": "SG",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Slovakia",
         "code": "SK",
         "documents": "Carte de Identitate, Pașaport",
         "source": "https://www.mae.ro/travel-conditions/3745",
-        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Slovacia, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate."
+        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Slovacia, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate.",
+        "warning" : ""
     },
     {
         "name": "Slovenia",
         "code": "SI",
         "documents": "Carte de Identitate, Pașaport",
         "source": "https://www.mae.ro/travel-conditions/3746",
-        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Slovenia, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate pentru șederi de până la 3 luni. Toți cetățenii străini, inclusiv cetățenii UE, au obligația să se înregistreze la secția de poliție pe raza căreia locuiesc în termen de 3 zile de la sosirea în Slovenia. Această formalitate nu este necesară pentru cei care se cazează la hotel."
+        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Slovenia, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate pentru șederi de până la 3 luni. Toți cetățenii străini, inclusiv cetățenii UE, au obligația să se înregistreze la secția de poliție pe raza căreia locuiesc în termen de 3 zile de la sosirea în Slovenia. Această formalitate nu este necesară pentru cei care se cazează la hotel.",
+        "warning" : ""
     },
     {
         "name": "Solomon Islands",
         "code": "SB",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Somalia",
         "code": "SO",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "South Africa",
         "code": "ZA",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "South Georgia and the South Sandwich Islands",
         "code": "GS",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Spain",
         "code": "ES",
         "documents": "Carte de Identitate, Pașaport",
         "source": "https://www.mae.ro/travel-conditions/3747",
-        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Spania, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate."
+        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Spania, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate.",
+        "warning" : ""
     },
     {
         "name": "Sri Lanka",
         "code": "LK",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Sudan",
         "code": "SD",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Suriname",
         "code": "SR",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Svalbard and Jan Mayen",
         "code": "SJ",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Swaziland",
         "code": "SZ",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Sweden",
         "code": "SE",
         "documents": "Carte de Identitate, Pașaport",
         "source": "http://www.mae.ro/travel-conditions/3750",
-        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Suedia, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate."
+        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Suedia, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate.",
+        "warning" : ""
     },
     {
         "name": "Switzerland",
         "code": "CH",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Syrian Arab Republic",
         "code": "SY",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Taiwan, Province of China",
         "code": "TW",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Tajikistan",
         "code": "TJ",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Tanzania, United Republic of",
         "code": "TZ",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Thailand",
         "code": "TH",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Timor-Leste",
         "code": "TL",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Togo",
         "code": "TG",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Tokelau",
         "code": "TK",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Tonga",
         "code": "TO",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Trinidad and Tobago",
         "code": "TT",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Tunisia",
         "code": "TN",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Turkey",
         "code": "TR",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Turkmenistan",
         "code": "TM",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Turks and Caicos Islands",
         "code": "TC",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Tuvalu",
         "code": "TV",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Uganda",
         "code": "UG",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Ukraine",
         "code": "UA",
         "documents": "Pașaport",
         "source": "https://www.mae.ro/travel-conditions/3755",
-        "comment": "Cetățenii români nu au nevoie de viză de intrare în Ucraina pentru călătorii de scurtă durată, maximul fiind de 90 de zile. Așadar, cetățenii români pot intra pe teritoriul Ucrainei cu un pașaport valabil minimum 90 de zile. Totodată, străinii trebuie să demonstreze Poliției de Frontieră că dețin resursele financiare necesare pe durata șederii în Ucraina. Summa necesară este de aproximativ 2000 EUR/lună, respectiv 400 EUR/săptămână sau echivalentul în orice altă valută. Mai multe informații pe site-ul oficial MAE."
+        "comment": "Cetățenii români nu au nevoie de viză de intrare în Ucraina pentru călătorii de scurtă durată, maximul fiind de 90 de zile. Așadar, cetățenii români pot intra pe teritoriul Ucrainei cu un pașaport valabil minimum 90 de zile. Totodată, străinii trebuie să demonstreze Poliției de Frontieră că dețin resursele financiare necesare pe durata șederii în Ucraina. Summa necesară este de aproximativ 2000 EUR/lună, respectiv 400 EUR/săptămână sau echivalentul în orice altă valută. Mai multe informații pe site-ul oficial MAE.",
+        "warning" : ""
     },
     {
         "name": "United Arab Emirates",
         "code": "AE",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "United Kingdom",
         "code": "GB",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "United States",
         "code": "US",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "United States Minor Outlying Islands",
         "code": "UM",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Uruguay",
         "code": "UY",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Uzbekistan",
         "code": "UZ",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Vanuatu",
         "code": "VU",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Venezuela",
         "code": "VE",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Viet Nam",
         "code": "VN",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Virgin Islands, British",
         "code": "VG",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Virgin Islands, U.S.",
         "code": "VI",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Wallis and Futuna",
         "code": "WF",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Western Sahara",
         "code": "EH",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Yemen",
         "code": "YE",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Zambia",
         "code": "ZM",
         "documents": "",
         "source": "",
-        "comment": ""
+        "comment": "",
+        "warning" : ""
     },
     {
         "name": "Zimbabwe",
