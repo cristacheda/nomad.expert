@@ -28,12 +28,16 @@ select {
 }
 select {
   -webkit-appearance: none;
-  background: white url('img/chevron-down.svg') no-repeat;
+  background: white url('../img/chevron-down.svg') no-repeat;
   background-position: right 10px center;
   background-size: 12px;
+  padding-right: 25px;
 }
 textarea {
   padding: 6px 8px;
   line-height: 1.5;
   resize: none;
+}
+input + label {
+  font-weight: $bold;
 }

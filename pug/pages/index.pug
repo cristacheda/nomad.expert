@@ -9,11 +9,13 @@ include ../includes/components/variables.pug
     
     main
         .container
-            h1.text-center Buletin? Pașaport? Viză? Acum știi. 
+            h1.text-center Buletin? Pașaport? Viză? Acum știi.
             .row
                 .col-md-6.col-12
+                  label(for="origin-country-selector") Din ce țară călătorești?
                   select#origin-country-selector
                 .col-md-6.col-12
+                  label(for="destination-country-selector") și în ce țară vrei să ajungi?
                   select#destination-country-selector
                 .col-12
                   #result
