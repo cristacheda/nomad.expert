@@ -5,7 +5,7 @@
         "documents": "Pașaport, Viză",
         "source": "https://www.mae.ro/travel-conditions/10341",
         "comment": "Accesul pe teritoriul Afganistanului se face pe baza documentului de călătorie și a vizei. Viza turistică este valabilă o lună și se acordă cu o singură intrare. Aceasta se poate obține de la Ambasada Afganistanului în Polonia. Având în vedere caracterul instabil al țării din punct de vedere al stării de insecuritate, pe fondul atentatelor teroriste, Ministerul Afacerilor Externe recomandă cetățenilor români să evite călătoriile în această țară.",
-        "warning" : ""
+        "warning" : "Alertă de călătorie! Pe fondul evoluției stării de insecuritate din Afganistan, Ministerul Afacerilor Externe recomandă cetățenilor români să evite călătoriile în această țară! Având în vedere riscul crescut de atentate teroriste și răpiri, MAE recomandă cetățenilor români care sunt nevoiți să se deplaseze în Afganistan să fie extrem de prudenți și să își anunțe prezența în regiune adresându-se Ambasadei României la Kabul."
     },
     {
         "name": "Åland Islands",
@@ -29,22 +29,22 @@
         "documents": "Pașaport, Viză",
         "source": "https://www.mae.ro/travel-conditions/3665",
         "comment": "În Republica Algeriană Democratică și Populară, viza de intrare este obligatorie pentru cetățenii români posesori de pașapoarte simple și pașapoarte de serviciu. Vizele nu se eliberează la frontieră, ci doar de la misiunile algeriene acreditate în străinătate și se acordă cu o valabilitate de 1 lună, 3 luni, 6 luni, 1 an sau 2 ani. În România, viza se poate obține de la Secția Consulară a Ambasadei Algeriei la București. Perioada de ședere în Algeria nu poate depăși 90 de zile. Mai multe detalii pe site-ul oficial MAE.",
-        "warning" : ""
+        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă, pentru siguranța cetățenilor români, evitarea deplasărilor în cartierele populare din marile orașe și deplasarea cu mașina pe timpul nopții în afara localităților. Dacă sunteți nevoit să vă deplasați în Algeria, MAE recomandă anunțarea prezenței în regiune adresându-vă Ambasadei Romîniei la Alger."
     },
     {
         "name": "American Samoa",
         "code": "AS",
-        "documents": "",
-        "source": "",
-        "comment": "",
+        "documents": "Pașaport, Viză",
+        "source": "https://www.mae.ro/travel-conditions/30372",
+        "comment": "Accesul în țară se face pe baza unui pașaport valabil cel puțin 6 luni, un bilet de întoarcere, precum și o viză de intrare pentru sejururi mai mici de 90 de zile.",
         "warning" : ""
     },
     {
         "name": "AndorrA",
         "code": "AD",
-        "documents": "",
-        "source": "",
-        "comment": "",
+        "documents": "Carte de Identitate, Pașaport",
+        "source": "https://www.mae.ro/travel-conditions/28306",
+        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Andorra, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate. Aceștia au dreptul legal de ședere pentru o perioadă de 90 de zile într-un interval de 6 luni.",
         "warning" : ""
     },
     {
@@ -1609,7 +1609,7 @@
         "documents": "",
         "source": "",
         "comment": "",
-        "warning" : ""
+        "warning" : "Atenție! Pe fondul nivelului de criminalitate foarte ridicat din Africa de Sud, Ministerul Afacerilor Externe recomandă cetățenilor români să fie extrem de prudenți. Cetățenii români care doresc să călătorească în Africa de Sud sau se află deja pe teritoriul acestui stat sunt sfătuiți să se adreseze Ambasadei României la Pretoria sau Consulatului General de la Cape Town pentru a-și anunța prezența în regiune."
     },
     {
         "name": "South Georgia and the South Sandwich Islands",
