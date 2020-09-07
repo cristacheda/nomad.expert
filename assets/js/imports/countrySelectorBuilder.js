@@ -26,7 +26,7 @@ buildOriginCountrySelector(availableCountries);
 
 originCountrySelector.change(function () {
     fileName = $(this).val();
-    $.getJSON(location.href + 'data/documents/' + fileName, function (json) {
+    $.getJSON(location.protocol + '//' + location.host + '/data/documents/' + fileName, function (json) {
         result = json;
         buildDestinationCountrySelector(result);
     })  
