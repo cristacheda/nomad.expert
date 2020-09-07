@@ -26,7 +26,9 @@ buildOriginCountrySelector(availableCountries);
 
 originCountrySelector.change(function () {
     fileName = $(this).val();
-    $.getJSON(location.protocol + '//' + location.host + '/data/documents/' + fileName, function (json) {
+    $.getJSON('https://cristacheda.github.io/nomad.expert' +
+            '/data/documents/' + fileName,
+            function (json) {
         result = json;
         buildDestinationCountrySelector(result);
     })  
