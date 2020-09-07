@@ -1,26 +1,30 @@
 include ../includes/components/variables.pug
 - var pagetitle = "Home"
 - var pagedescription = ""
+- var bodyclass = "page-home"
   
   include ../includes/components/head.pug
   
-  body
+  body(class= bodyclass)
     include ../includes/sections/header.pug
     
     main
         .container
             h1.text-center Buletin? Pașaport? Viză? Acum știi.
-            .row
-                .col-md-6.col-12
-                  label(for="origin-country-selector") Din ce țară călătorești?
-                  select#origin-country-selector
-                .col-md-6.col-12
-                  label(for="destination-country-selector") și în ce țară vrei să ajungi?
-                  select#destination-country-selector
-                .col-12
-                  #result
-                    p#info
-                    p#comment
-                    p#source
+            #form-container
+              .row
+                  .col-md-6.col-12
+                    label(for="origin-country-selector") Din ce țară călătorești?
+                    select#origin-country-selector
+                  .col-md-6.col-12#destination-country-selector-column
+                    label(for="destination-country-selector") și în ce țară vrei să ajungi?
+                    select#destination-country-selector
+                      option(value="") Selectează o țară
+                  .col-12
+                    #result
+                      p#info
+                      p#comment.blockquote
+                      p#source
+                      p#edit
   
   include ../includes/components/footer.pug

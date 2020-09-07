@@ -1,0 +1,44 @@
+#form-container {
+    width: 100%;
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    & > .row {
+        // justify-content: center;
+    }
+    label {
+        font-weight: bold;
+        display: block;
+        width: 100%;
+        @media (max-width: 768px) {
+            margin-top: 15px;
+            margin-bottom: 5px;
+            text-align: center;
+        }
+    }
+    select {
+        width: 100%;
+        @media (max-width: 768px) {
+            text-align-last: center;
+        }
+    }
+    #result {
+        display: none;
+        margin-top: 30px;
+        #info {
+            text-align: center;
+            font-size: 22px;
+        }
+        #comment {
+            margin: 1em 0;
+        }
+        #source {
+            text-align: right;
+        }
+        #edit {
+            text-align: right;
+            font-size: 10px;
+            margin-top: -15px;
+        }
+    }
+}

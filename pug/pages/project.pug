@@ -1,16 +1,17 @@
 include ../includes/components/variables.pug
 - var pagetitle = "Despre proiect"
 - var pagedescription = ""
+- var bodyclass = "page-default"
   
   include ../includes/components/head.pug
   
-  body
+  body(class= bodyclass)
     include ../includes/sections/header.pug
     
     main
         .container
             .row
                 .col-12
-                    h1 Content
+                    h1 Despre
   
   include ../includes/components/footer.pug

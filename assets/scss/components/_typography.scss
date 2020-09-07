@@ -5,9 +5,9 @@ a {
 body {
   font-family: $font-family;
   font-size: 16px;
-  line-height: 1.4;
+  line-height: 1.5;
   word-spacing: -0.3px;
-  font-weight: $regular;
+  font-weight: $light;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -27,7 +27,7 @@ h5,
 h6,
 .h6 {
   color: black;
-  font-weight: $semi;
+  font-weight: $light;
   line-height: 1;
   margin-top: 0;
 }
@@ -143,7 +143,8 @@ table {
   background-color: transparent;
 }
 
-blockquote {
+blockquote,
+.blockquote {
   margin: 30px 0;
   border-left: 10px solid #b6b6b6;
   background-color: #ebebeb;

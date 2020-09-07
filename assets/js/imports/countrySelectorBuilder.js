@@ -1,13 +1,16 @@
-var originCountrySelector = $('#origin-country-selector');
-var destinationCountrySelector = $('#destination-country-selector');
-var result;
-var availableCountries = [
-    {
-        "code": "RO",
-        "name": "Romania",
-        "file": "romania.json"
-    }
-];
+var originCountrySelector = $('#origin-country-selector'),
+    destinationCountrySelector = $('#destination-country-selector'),
+    result,
+    fileName,
+    body = $('body'),
+    githubDbFolder = 'https://github.com/cristacheda/nomad.expert/tree/gh-pages/data/documents/',
+    availableCountries = [
+                            {
+                                "code": "RO",
+                                "name": "Romania",
+                                "file": "romania.json"
+                            }
+                        ];
 
 function buildOriginCountrySelector(countries) {
     originCountrySelector.append(`<option value="">Selectează o țară</option>`);
@@ -22,7 +25,7 @@ function buildOriginCountrySelector(countries) {
 buildOriginCountrySelector(availableCountries);
 
 originCountrySelector.change(function () {
-    var fileName = $(this).val();
+    fileName = $(this).val();
     $.getJSON('../../data/documents/' + fileName, function (json) {
         result = json;
         buildDestinationCountrySelector(result);
@@ -30,7 +33,6 @@ originCountrySelector.change(function () {
 });
 
 function buildDestinationCountrySelector(json) {
-    destinationCountrySelector.append(`<option value="">Selectează o țară</option>`);
     for (let index = 0; index < json.length; index++) {
         var country = json[index];
         if ( country.documents ) {
@@ -47,15 +49,23 @@ function findCountry(countryCode, result) {
 function buildResults(country) {
     var info = $('#info'),
         comment = $('#comment'),
-        source = $('#source');
+        source = $('#source'),
+        result = $('#result');
     
         info.text(`Pentru a călători în ${country.name} ai nevoie de ${country.documents}.`);
     comment.text(country.comment);
-    source.html(`<a href="${country.source}">Sursa informațiilor</a>`);
+    source.html(`<a target="_blank" rel="noopener" href="${country.source}">Sursa informațiilor</a>`);
+    result.show();
+    body.toggleClass('results-visible');
+}
+
+function buildEditLink(fileName) {
+    $('#edit').html(`<a target="_blank" rel="noopener" href="${githubDbFolder}/${fileName}"><i class="fal fa-edit"></i> Corectează informațiile</a>`);
 }
 
 destinationCountrySelector.change(function() {
     var countryCode = $(this).val();
     var country = findCountry(countryCode, result);
     buildResults(country);
+    buildEditLink(fileName);
 });

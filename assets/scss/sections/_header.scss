@@ -1,21 +1,38 @@
 #logo {
     margin: 0;
     font-weight: $light;
+    a {
+        color: inherit;
+    }
 }
 
 header {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
+    // position: fixed;
+    // top: 0;
+    // left: 0;
+    // width: 100%;
     background-color: #fff;
     padding-top: 10px;
     padding-bottom: 10px;
     border-bottom: 1px solid rgb(235, 235, 235);
+    .branding-column {
+        @media (max-width: 768px) {
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+        }
+    }
     .navigation-column {
         display: flex;
         flex-direction: column;
         justify-content: center;
+        @media (max-width: 768px) {
+            max-height: 0;
+            min-height: unset;
+            overflow: hidden;
+
+            transition: max-height 1s ease-in-out;
+        }
     }
     nav {
         ul {
@@ -32,6 +49,34 @@ header {
             &:last-of-type {
                 margin-right: 0;
             }
+        }
+        @media (max-width: 768px) {
+            margin-top: 15px;
+            margin-bottom: -10px;
+            ul {
+                flex-direction: column;
+            }
+            li {
+                display: block;
+                margin-right: 0;
+                border-top: 1px solid rgb(235, 235, 235);
+                a {
+                    display: block;
+                    font-size: 18px;
+                    padding-top: 8px;
+                    padding-bottom: 8px;
+                    line-height: 1;
+                }
+
+            }
+        }
+    }
+}
+
+body.menu-visible {
+    header {
+        .navigation-column {
+            max-height: unset;
         }
     }
 }

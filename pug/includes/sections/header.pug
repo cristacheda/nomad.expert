@@ -3,9 +3,12 @@ include ../components/variables.pug
 header
     .container
         .row    
-            .col-4.branding-column
-                h1#logo #{sitetitle}
-            .col-8.navigation-column
+            .col-md-4.col-12.branding-column
+                .h1#logo
+                    a(href="/") #{sitetitle}
+                button#toggle-menu
+                    i.fal.fa-bars
+            .col-md-8.col-12.navigation-column
                 nav
                     ul  
                         li
