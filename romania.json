@@ -2,23 +2,15 @@
     {
         "name": "Afghanistan",
         "code": "AF",
-        "documents": "Pașaport, Viză",
+        "documents": "Pașaport și Viză",
         "source": "https://www.mae.ro/travel-conditions/10341",
         "comment": "Accesul pe teritoriul Afganistanului se face pe baza documentului de călătorie și a vizei. Viza turistică este valabilă o lună și se acordă cu o singură intrare. Aceasta se poate obține de la Ambasada Afganistanului în Polonia. Având în vedere caracterul instabil al țării din punct de vedere al stării de insecuritate, pe fondul atentatelor teroriste, Ministerul Afacerilor Externe recomandă cetățenilor români să evite călătoriile în această țară.",
         "warning" : "Alertă de călătorie! Pe fondul evoluției stării de insecuritate din Afganistan, Ministerul Afacerilor Externe recomandă cetățenilor români să evite călătoriile în această țară! Având în vedere riscul crescut de atentate teroriste și răpiri, MAE recomandă cetățenilor români care sunt nevoiți să se deplaseze în Afganistan să fie extrem de prudenți și să își anunțe prezența în regiune adresându-se Ambasadei României la Kabul."
     },
     {
-        "name": "Åland Islands",
-        "code": "AX",
-        "documents": "",
-        "source": "",
-        "comment": "",
-        "warning" : ""
-    },
-    {
         "name": "Albania",
         "code": "AL",
-        "documents": "",
+        "documents": "Carte de Identitate sau Pașaport",
         "source": "https://www.mae.ro/travel-conditions/3664",
         "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Albania, ci doar de cartea de identitate sau de pașaport - a căror valabilitate trebuie să fie de minimum 3 luni de la data intrării. Șederea nu trebuie să fie mai lungă de 90 de zile, într-un interval de 6 luni. Pentru șederile care depășesc 90 de zile, este necesară obținerea unui permis de ședere, eliberat de Ministerul Albanez al Afacerilor Interne. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : ""
@@ -26,7 +18,7 @@
     {
         "name": "Algeria",
         "code": "DZ",
-        "documents": "Pașaport, Viză",
+        "documents": "Pașaport și Viză",
         "source": "https://www.mae.ro/travel-conditions/3665",
         "comment": "În Republica Algeriană Democratică și Populară, viza de intrare este obligatorie pentru cetățenii români posesori de pașapoarte simple și pașapoarte de serviciu. Vizele nu se eliberează la frontieră, ci doar de la misiunile algeriene acreditate în străinătate și se acordă cu o valabilitate de 1 lună, 3 luni, 6 luni, 1 an sau 2 ani. În România, viza se poate obține de la Secția Consulară a Ambasadei Algeriei la București. Perioada de ședere în Algeria nu poate depăși 90 de zile. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă, pentru siguranța cetățenilor români, evitarea deplasărilor în cartierele populare din marile orașe și deplasarea cu mașina pe timpul nopții în afara localităților. Dacă sunteți nevoit să vă deplasați în Algeria, MAE recomandă anunțarea prezenței în regiune adresându-vă Ambasadei Romîniei la Alger."
@@ -34,7 +26,7 @@
     {
         "name": "American Samoa",
         "code": "AS",
-        "documents": "Pașaport, Viză",
+        "documents": "Pașaport și Viză",
         "source": "https://www.mae.ro/travel-conditions/30372",
         "comment": "Accesul în țară se face pe baza unui pașaport valabil cel puțin 6 luni, un bilet de întoarcere, precum și o viză de intrare pentru sejururi mai mici de 90 de zile.",
         "warning" : ""
@@ -42,7 +34,7 @@
     {
         "name": "AndorrA",
         "code": "AD",
-        "documents": "Carte de Identitate, Pașaport",
+        "documents": "Carte de Identitate sau Pașaport",
         "source": "https://www.mae.ro/travel-conditions/28306",
         "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Andorra, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate. Aceștia au dreptul legal de ședere pentru o perioadă de 90 de zile într-un interval de 6 luni.",
         "warning" : ""
@@ -50,10 +42,10 @@
     {
         "name": "Angola",
         "code": "AO",
-        "documents": "",
-        "source": "",
-        "comment": "",
-        "warning" : ""
+        "documents": "Pașaport și Viză",
+        "source": "https://www.mae.ro/travel-conditions/14431",
+        "comment": "Cetățenii români care vor să intre pe teritoriul Angolei au nevoiee de pașaport (valabil cel puțin 6 luni de la data ultimei zile a vizei) și viză turistică. Decretul prezidențial Nr. 56/18 stabilește că cetățenii din 61 de țări, inclusiv cele din Uniunea Europeană, vor trebui să prezinte pentru obținerea vizei doar o dovadă de cazare și mijloace de subzistență dacă intenționează să călătorească în scop turistic. Pentru obținerea vizei turistice va trebui să te adresezi misiunii diplomatice a Angolei în Serbia, la Belgrad. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Alertă de călătorie! Infestarea cu febră galbenă și malarie, precum și riscul de securitate ca urmmare a creșterii numărului actelor de sechestrare de persoane în vederea răscumpărării și a crimelor ce au avut loc în rândul cetățenilor străini îndeamnă la prudență maximă."
     },
     {
         "name": "Anguilla",
@@ -74,26 +66,26 @@
     {
         "name": "Antigua and Barbuda",
         "code": "AG",
-        "documents": "",
-        "source": "",
-        "comment": "",
+        "documents": "Pașaport",
+        "source": "https://www.mae.ro/travel-conditions/48633",
+        "comment": "Cetățenii români nu au nevoie de viză de intrare pentru a călători în Antigua și Barbuda în scop turistic, însă perioada nu trebuie să depășească 90 de zile. Pașaportul trebuie să aibă o valabilitate de minumum 6 luni de la data ieșirii ide pe teritoriul caraibian. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : ""
     },
     {
         "name": "Argentina",
         "code": "AR",
-        "documents": "",
-        "source": "",
-        "comment": "",
-        "warning" : ""
+        "documents": "Pașaport",
+        "source": "https://www.mae.ro/travel-conditions/3667",
+        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Argentina, ci doar de pașaport. Perioada de ședere nu trebuie să depășească 90 de zile într-un interval de 6 luni de la data primei intrări. Viza de intrare este acordată doar în scopuri de afaceri, pentru rezidență temporară sau pentru muncă și studii. Mai multe detalii pe site-ul MAE.",
+        "warning" : "Alertă de călătorie! Cetățenii români sunt sfătuiți insistent să evite călătoriile în Argentina, iar cei care sse află deja în acest stat să îl părăsească de urgență! Mai multe detalii pe site-ul MAE."
     },
     {
         "name": "Armenia",
         "code": "AM",
-        "documents": "",
-        "source": "",
-        "comment": "",
-        "warning" : ""
+        "documents": "Pașaport",
+        "source": "https://www.mae.ro/travel-conditions/3668",
+        "comment": "Cetățenii români nu au nevoie de viză de intrare pentru șederile mai scurte de 180 de zile, ci doar de un pașaport simplu.",
+        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români să se abțină de la orice deplasare în apropierea frontiere Armeniei cu Azerbaidjan, în dreptul regiunii separatiste Nagorno-Karabah și zona adiacentă acesteia, unde au loc ciocniri ale forțelor armate ddin cele două țări. Mai multe informații pe site-ul oficial MAE."
     },
     {
         "name": "Aruba",
@@ -106,15 +98,15 @@
     {
         "name": "Australia",
         "code": "AU",
-        "documents": "",
-        "source": "",
-        "comment": "",
+        "documents": "Pașaport și Viză",
+        "source": "https://www.mae.ro/travel-conditions/3669",
+        "comment": "Cetățenii români au nevoie de pașaport și viză pentru călătorii în Australia. Începând cu 2008, Departamentul Australian pentru Imigrare și Cetățenie a inclus România pe lista statelor care beneficiază de sistemul electronic de acordare a vizelor 'auto-grant facility'. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : ""
     },
     {
         "name": "Austria",
         "code": "AT",
-        "documents": "Carte de Identitate, Pașaport",
+        "documents": "Carte de Identitate sau Pașaport",
         "source": "https://www.mae.ro/travel-conditions/3670",
         "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Austria, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate.",
         "warning" : ""
@@ -122,26 +114,26 @@
     {
         "name": "Azerbaijan",
         "code": "AZ",
-        "documents": "",
-        "source": "",
-        "comment": "",
-        "warning" : ""
+        "documents": "Pașaport și Viză",
+        "source": "https://www.mae.ro/travel-conditions/3671",
+        "comment": "Cetățenii români au nevoie de pașaport simplu electronic sau temporar, valabil cel puțin 3 luni de la data expirării vizei de intrare, precum și de viză. Viza de intrare poate fi obținută electronic sau fizic la Ambasada Republicii Azerbaidjan la București. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români să se abțină de la orice deplasare în apropierea frontiere Armeniei cu Azerbaidjan, în dreptul regiunii separatiste Nagorno-Karabah și zona adiacentă acesteia, unde au loc ciocniri ale forțelor armate ddin cele două țări. Mai multe informații pe site-ul oficial MAE."
     },
     {
         "name": "Bahamas",
         "code": "BS",
-        "documents": "",
-        "source": "",
-        "comment": "",
+        "documents": "Pașaport",
+        "source": "https://www.mae.ro/travel-conditions/48634",
+        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în scop turistic în Bahamas, ci doar de pașaport. Perioada de ședere nu trebuie să depășească 90 de zile, iar pașaportul să aibă o valabilitate de minimum 6 luni de la data preconizată de plecare din Bahamas. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : ""
     },
     {
         "name": "Bahrain",
         "code": "BH",
-        "documents": "",
-        "source": "",
-        "comment": "",
-        "warning" : ""
+        "documents": "Pașaport și Viză",
+        "source": "https://www.mae.ro/travel-conditions/25187",
+        "comment": "Cetățenii români au nevoie atât de pașaport, cât și de viză ăde intrare - indiferent de scopul călătoriei și de tipul pașaportului deținut. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români să evite călătoriile în Regatul Bahrain pe fondul riscului permanent de izbucnire a unor proteste violente în orice zonă a țării. Mai multe detalii pe site-ul oficial MAE."
     },
     {
         "name": "Bangladesh",
@@ -170,7 +162,7 @@
     {
         "name": "Belgium",
         "code": "BE",
-        "documents": "Carte de Identitate, Pașaport",
+        "documents": "Carte de Identitate sau Pașaport",
         "source": "https://www.mae.ro/travel-conditions/3673",
         "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Belgia, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate.",
         "warning" : ""
@@ -266,7 +258,7 @@
     {
         "name": "Bulgaria",
         "code": "BG",
-        "documents": "Carte de Identitate, Pașaport",
+        "documents": "Carte de Identitate sau Pașaport",
         "source": "https://www.mae.ro/travel-conditions/3677",
         "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Bulgaria, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate.",
     },
@@ -433,7 +425,7 @@
     {
         "name": "Croatia",
         "code": "HR",
-        "documents": "Carte de Identitate, Pașaport",
+        "documents": "Carte de Identitate sau Pașaport",
         "source": "https://www.mae.ro/travel-conditions/3688",
         "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Croația, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate. Este important de menționat faptul că cetățenii români care doresc să rămână în Croația pentru perioade mai lungi de 90 de zile trebuie să se înregistreze, în funcție de scopul șederii, la autoritățile croate competente. Mai multe informații pe site-ul oficial MAE.",
         "warning" : ""
@@ -449,7 +441,7 @@
     {
         "name": "Cyprus",
         "code": "CY",
-        "documents": "Carte de Identitate, Pașaport",
+        "documents": "Carte de Identitate sau Pașaport",
         "source": "https://www.mae.ro/travel-conditions/3682",
         "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Cipru, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate.",
         "warning" : ""
@@ -457,7 +449,7 @@
     {
         "name": "Czech Republic",
         "code": "CZ",
-        "documents": "Carte de Identitate, Pașaport",
+        "documents": "Carte de Identitate sau Pașaport",
         "source": "https://www.mae.ro/travel-conditions/3679",
         "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Republica Cehă. Intrarea este permisă cu cartea de identitate sau cu pașaportul, valabile pentru o perioadă de cel puțin 3 luni. Perioada maximă de ședere este de 3 luni, fiind necesară obținerea unui permis de ședere pentru perioade mai lungi. Mai multe informații pe site-ul oficial MAE.",
         "warning" : ""
@@ -465,7 +457,7 @@
     {
         "name": "Denmark",
         "code": "DK",
-        "documents": "Carte de Identitate, Pașaport",
+        "documents": "Carte de Identitate sau Pașaport",
         "source": "https://www.mae.ro/travel-conditions/3690",
         "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Danemarca, ci doar de cartea de identitate sau de pașaport, valabile cel puțin 3 luni. Perioada maximă de ședere pentru deținătorii acestor documente este de 3 luni.",
         "warning" : ""
@@ -537,7 +529,7 @@
     {
         "name": "Estonia",
         "code": "EE",
-        "documents": "Carte de Identitate, Pașaport",
+        "documents": "Carte de Identitate sau Pașaport",
         "source": "https://www.mae.ro/travel-conditions/3694",
         "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Estonia, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate. Cetățenii statelor membre UE, deci și cetățenii români, pot rămâne pe teritoriul Estoniei trei luni fără a îndeplini vreo formalitate, dacă au o carte de identitate sau un pașaport valabil și dețin resurse ecnonomice suficiente pentru a se întreține pe sine și, eventual, membrii familiei. Pentru șederi mai lungi de 3 luni, cetățenii UE trebuie să se înregistreze la administrația locală în care locuiesc. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : ""
@@ -577,7 +569,7 @@
     {
         "name": "Finland",
         "code": "FI",
-        "documents": "Carte de Identitate, Pașaport",
+        "documents": "Carte de Identitate sau Pașaport",
         "source": "https://www.mae.ro/travel-conditions/3697",
         "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Finlanda, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate. Cetățenii statelor membre UE, deci și cetățenii români, pot rămâne pe teritoriul Finlandei trei luni fără a îndeplini vreo formalitate, dacă au o carte de identitate sau un pașaport valabil și dețin resurse ecnonomice suficiente pentru a se întreține pe sine și, eventual, membrii familiei. Pentru șederi mai lungi de 3 luni, cetățenii UE trebuie să se înregistreze la secția de poliție din jurisdicția în care locuiesc. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : ""
@@ -585,7 +577,7 @@
     {
         "name": "France",
         "code": "FR",
-        "documents": "Carte de Identitate, Pașaport",
+        "documents": "Carte de Identitate sau Pașaport",
         "source": "https://www.mae.ro/travel-conditions/3698",
         "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Franța, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate.",
         "warning" : ""
@@ -641,7 +633,7 @@
     {
         "name": "Germany",
         "code": "DE",
-        "documents": "Carte de Identitate, Pașaport",
+        "documents": "Carte de Identitate sau Pașaport",
         "source": "https://www.mae.ro/travel-conditions/3700",
         "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Germania, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate.",
         "warning" : ""
@@ -665,7 +657,7 @@
     {
         "name": "Greece",
         "code": "GR",
-        "documents": "Carte de Identitate, Pașaport",
+        "documents": "Carte de Identitate sau Pașaport",
         "source": "https://www.mae.ro/travel-conditions/3701",
         "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Grecia, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate.",
         "warning" : ""
@@ -785,7 +777,7 @@
     {
         "name": "Hungary",
         "code": "HU",
-        "documents": "Carte de Identitate, Pașaport",
+        "documents": "Carte de Identitate sau Pașaport",
         "source": "https://www.mae.ro/travel-conditions/3756",
         "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Ungaria, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate.",
         "warning" : ""
@@ -825,7 +817,7 @@
     {
         "name": "Iraq",
         "code": "IQ",
-        "documents": "Document de călătorie, Viză",
+        "documents": "Pașaport și Viză",
         "source": "https://www.mae.ro/travel-conditions/3706",
         "comment": "Cetățenii români care doresc să călătorească în Republica Irak trebuie să dețină un document de călătorie cu o valabilitate mai mare de 6 luni, precum și o viză ce poate fi obținută de la Ambasada Republicii Irak la București. Este extrem de important de menționat faptul că Ministerul Afacerilor Externe recomandă prudență sau chiar evitarea călătoriilor în Irak, situația de securitate din această țară fiind grav afectată zilnic de acțiuni cu caracter terorist. Mai multe informații pe site-ul oficical MAE.",
         "warning" : ""
@@ -833,7 +825,7 @@
     {
         "name": "Ireland",
         "code": "IE",
-        "documents": "Carte de Identitate, Pașaport",
+        "documents": "Carte de Identitate sau Pașaport",
         "source": "https://www.mae.ro/travel-conditions/3708",
         "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Irlanda, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate.",
         "warning" : ""
@@ -857,7 +849,7 @@
     {
         "name": "Italy",
         "code": "IT",
-        "documents": "Carte de Identitate, Pașaport",
+        "documents": "Carte de Identitate sau Pașaport",
         "source": "https://www.mae.ro/travel-conditions/3711",
         "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Italia, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate.",
         "warning" : ""
@@ -921,7 +913,7 @@
     {
         "name": "Korea, Democratic People's Republic of",
         "code ": "KP",
-        "documents": "Document de călătorie, Viză de Intraree/Ieșire",
+        "documents": "Pașaport și Viză de Intrare/Ieșire",
         "source": "https://www.mae.ro/travel-conditions/3685",
         "comment": "Pentru a călători în Republica Populară Democrată Coreeană este necesară obținerea vizei de intrare/ieșire. Viza se acordă numai pe baza unei invitații oficiale adresate de o instituție sau persoană fizică cu reședința în Coreea de Nord sau la solicitarea scrisă a unei instituții din România. Viza se poate obține de la una dintre ambasadele sau agențiile de turism nord-coreene din străinătate, cu perioada de procesare a vizei de minimum 10 zile. Dată fiind natura extrem de delicată a călătoriilor în acest stat, îți recomandăm să afli mai multe detalii pe site-ul oficial MAE.",
         "warning" : ""
@@ -961,7 +953,7 @@
     {
         "name": "Latvia",
         "code": "LV",
-        "documents": "Carte de Identitate, Pașaport",
+        "documents": "Carte de Identitate sau Pașaport",
         "source": "https://www.mae.ro/travel-conditions/3715",
         "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Letonia, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate.",
         "warning" : ""
@@ -1009,7 +1001,7 @@
     {
         "name": "Lithuania",
         "code": "LT",
-        "documents": "Carte de Identitate, Pașaport",
+        "documents": "Carte de Identitate sau Pașaport",
         "source": "https://www.mae.ro/travel-conditions/3719",
         "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Lituania, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate.",
         "warning" : ""
@@ -1017,7 +1009,7 @@
     {
         "name": "Luxembourg",
         "code": "LU",
-        "documents": "Carte de Identitate, Pașaport",
+        "documents": "Carte de Identitate sau Pașaport",
         "source": "https://www.mae.ro/travel-conditions/3720",
         "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Marele Ducat de Luxemburg, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate și pentru șederi de până la 3 luni.",
         "warning" : ""
@@ -1081,7 +1073,7 @@
     {
         "name": "Malta",
         "code": "MT",
-        "documents": "Carte de Identitate, Pașaport",
+        "documents": "Carte de Identitate sau Pașaport",
         "source": "https://www.mae.ro/travel-conditions/3724",
         "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Malta, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate.",
         "warning" : ""
@@ -1225,7 +1217,7 @@
     {
         "name": "Netherlands",
         "code": "NL",
-        "documents": "Carte de Identitate, Pașaport",
+        "documents": "Carte de Identitate sau Pașaport",
         "source": "https://haga.mae.ro/node/177",
         "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Olanda, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate. Este important de menționat faptul că poliția, controlorii de bilete, inspectorii de muncă, furnizorii de servicii medicale sau alte oficialități vă pot solicita identificareae. Conform legii, sunteți obligat să aveți asupra dumneavoastră în orice moment un document de identitate valabil în original, lipsa acestuia pedepsindu-se cu o amendă de 60 EUR.",
         "warning" : ""
@@ -1393,7 +1385,7 @@
     {
         "name": "Poland",
         "code": "PL",
-        "documents": "Carte de Identitate, Pașaport",
+        "documents": "Carte de Identitate sau Pașaport",
         "source": "https://www.mae.ro/travel-conditions/3735",
         "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Polonia, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate. Pentru o perioadă mai mare de 3 luni, este necesară înregistrarea la Oficiul pentru Străini (Urząd ds. Cudzoziemców) al fiecărei regiuni (voievodat) și obținerea adeverinței privind înregistrarea șederii cetățeanului UE. Mai multe informații pe site-ul oficial MAE.",
         "warning" : ""
@@ -1401,7 +1393,7 @@
     {
         "name": "Portugal",
         "code": "PT",
-        "documents": "Carte de Identitate, Pașaport",
+        "documents": "Carte de Identitate sau Pașaport",
         "source": "https://www.mae.ro/travel-conditions/3736",
         "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Portugalia, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate.",
         "warning" : ""
@@ -1441,7 +1433,7 @@
     {
         "name": "Russian Federation",
         "code": "RU",
-        "documents": "Pașaport, Viză",
+        "documents": "Pașaport și Viză",
         "source": "https://www.mae.ro/travel-conditions/3740",
         "comment": "Cetățenii români au nevoie atât de un document de călătorie (pașaport simplu electronic, pașaport simplu temporar, pașaport de serviciu, pașaport diplomatic), cât și de viză pentru a intra pe teritoriul Federației Ruse. Pentru obținerea vizei, te poți adresa Secției Consulare a Ambasadei Federației Ruse la București - aceasta se obține pe baza unei invitații. Află toate detaliile pe site-ul oficial MAE.",
         "warning" : ""
@@ -1537,7 +1529,7 @@
     {
         "name": "Serbia",
         "code": "RS",
-        "documents": "Carte de Identitate, Pașaport",
+        "documents": "Carte de Identitate sau Pașaport",
         "source": "https://www.mae.ro/travel-conditions/3742",
         "comment": "Cetățenii români nu au nevoie de viză de intrare în Serbia pentru călătorii de scurtă durată, maximul fiind de 90 de zile. Accesul pe teritoriul Serbiei se poate face pe baza cărții de identitate sau a unui pașaport temporar. Totodată, cetățenii străini trebuie să facă dovada mijloacelor suficiente de întreținere pe durata șederii în acest stat și pentru returnarea în țara de origine sau pentru continuarea călătoriei, precum și a existenței unei asigurări medicale de călătorie valabile pe durata șederii în Serbia, respectiv a tranzitării acestei țări. Mai multe informații pe site-ul oficial MAE.",
         "warning" : ""
@@ -1574,7 +1566,7 @@
     {
         "name": "Slovakia",
         "code": "SK",
-        "documents": "Carte de Identitate, Pașaport",
+        "documents": "Carte de Identitate sau Pașaport",
         "source": "https://www.mae.ro/travel-conditions/3745",
         "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Slovacia, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate.",
         "warning" : ""
@@ -1582,7 +1574,7 @@
     {
         "name": "Slovenia",
         "code": "SI",
-        "documents": "Carte de Identitate, Pașaport",
+        "documents": "Carte de Identitate sau Pașaport",
         "source": "https://www.mae.ro/travel-conditions/3746",
         "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Slovenia, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate pentru șederi de până la 3 luni. Toți cetățenii străini, inclusiv cetățenii UE, au obligația să se înregistreze la secția de poliție pe raza căreia locuiesc în termen de 3 zile de la sosirea în Slovenia. Această formalitate nu este necesară pentru cei care se cazează la hotel.",
         "warning" : ""
@@ -1622,7 +1614,7 @@
     {
         "name": "Spain",
         "code": "ES",
-        "documents": "Carte de Identitate, Pașaport",
+        "documents": "Carte de Identitate sau Pașaport",
         "source": "https://www.mae.ro/travel-conditions/3747",
         "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Spania, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate.",
         "warning" : ""
@@ -1670,7 +1662,7 @@
     {
         "name": "Sweden",
         "code": "SE",
-        "documents": "Carte de Identitate, Pașaport",
+        "documents": "Carte de Identitate sau Pașaport",
         "source": "http://www.mae.ro/travel-conditions/3750",
         "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Suedia, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate.",
         "warning" : ""
