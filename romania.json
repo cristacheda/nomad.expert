@@ -138,26 +138,26 @@
     {
         "name": "Bangladesh",
         "code": "BD",
-        "documents": "",
-        "source": "",
-        "comment": "",
-        "warning" : ""
+        "documents": "Pașaport și Viză",
+        "source": "https://www.mae.ro/travel-conditions/45400",
+        "comment": "Cetățenii români posesori de pașapoarte turistice și temporare au nevoie de viză de intrare în Republica Populară Bangladesh. Pentru detalii despre obținerea vizei, va trebui să iei legătura cu Ambasada Republicii Populare Bangladesh la Berlin, care asigură și reprezentarea Republicii Populare Bangladesh în România.",
+        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români să evite călătoriile care nu sunt necesare în Bangladesh, pe fondul instabilității politice și a ratei de infracțiuni crescute. Mai multe detalii pe site-ul oficial MAE."
     },
     {
         "name": "Barbados",
         "code": "BB",
-        "documents": "",
-        "source": "",
-        "comment": "",
+        "documents": "Pașaport",
+        "source": "https://www.mae.ro/travel-conditions/48635",
+        "comment": "Cetățenii români nu au nevoie de viză de intrare pentru a călători în Barbados în scop turistic, ci doar de pașaport. Perioada maximă de ședere este de 90 de zile. Mai multe detalii despre condițiile de intrare, pe site-ul oficial MAE.",
         "warning" : ""
     },
     {
         "name": "Belarus",
         "code": "BY",
-        "documents": "",
-        "source": "",
-        "comment": "",
-        "warning" : ""
+        "documents": "Pașaport",
+        "source": "https://www.mae.ro/travel-conditions/3672",
+        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Belarus, ci doar de pașaport pentru o perioadă de cel mult 30 de zilede la trecerea prin punctul de control de la Aeroportul Național Minsk-2 - și numai dacă ieșirea se face prin același loc. Măsura se aplică doar călătoriilor cu avionul. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români să evite călătoriile neesențiale în Belarus pe fondul instabilității politice."
     },
     {
         "name": "Belgium",
@@ -170,18 +170,18 @@
     {
         "name": "Belize",
         "code": "BZ",
-        "documents": "",
-        "source": "",
-        "comment": "",
+        "documents": "Pașaport",
+        "source": "https://www.mae.ro/travel-conditions/33006",
+        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Belize, ci doar de pașaport - pentru o perioadă de 30 de zile și doar în scop turistic sau de afaceri. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : ""
     },
     {
         "name": "Benin",
         "code": "BJ",
-        "documents": "",
-        "source": "",
-        "comment": "",
-        "warning" : ""
+        "documents": "Pașaport și Viză",
+        "source": "https://www.mae.ro/travel-conditions/30215",
+        "comment": "Cetățenii români au nevoie de viză și pașaport simplu, de serviciu, oficial sau diplomatic pentru a călători în Benin. Perioada de ședere nu poate depăși 90 de zile, iar viza se poate obține de la Secția Consulară a Ammbasadei Beninului în Germania. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români să evite deplasările în Republica Benin pe fondul violențelor stradale, a acțiunilor teroriste și în special a riscului ridicat de îmbolnăvire cu malarie, febră tifoidă, febră galbenă, polioliemită, holeră și altele. Mai multe detalii pe site-ul oficial MAE."
     },
     {
         "name": "Bermuda",
@@ -194,25 +194,25 @@
     {
         "name": "Bhutan",
         "code": "BT",
-        "documents": "",
-        "source": "",
-        "comment": "",
+        "documents": "Pașaport și Viză",
+        "source": "https://www.mae.ro/travel-conditions/44984",
+        "comment": "Cetățenii români au nevoie de pașaport și viză pentru a intra în Regatul Bhutan. Vizele turistice se pot obține doar prin contactarea unui operator turistic local acreditat. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : ""
     },
     {
         "name": "Bolivia",
         "code": "BO",
-        "documents": "",
-        "source": "",
-        "comment": "",
-        "warning" : ""
+        "documents": "Pașaport și Viză",
+        "source": "https://www.mae.ro/travel-conditions/3674",
+        "comment": "Cetățenii români au nevoie de pașaport și viză pentru a călători în Bolivia, oricare ar fi scopul călătoriei. Pașaportul trebuie să aibă o valabilitate de 6 luni din momentul intrării în acest stat, însă Ministerul Afacerilor Externe recomandă ca valabilitatea documentului să fie cât mai mare. Solicitarea de viză se face în prealabil online. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe informează cetățenii români că trebuie să acorde o atenție deosebită pe teritoriul acestui stat din cauza manifestațiilor de protest ale organizațiilor sindicale, precum și din cauza nivelului crescut de infracțiuni stradale. Mai multe detalii pe site-ul oficial MAE."
     },
     {
         "name": "Bosnia and Herzegovina",
         "code": "BA",
-        "documents": "",
-        "source": "",
-        "comment": "",
+        "documents": "Carte de Identitate sau Pașaport",
+        "source": "https://www.mae.ro/travel-conditions/3675",
+        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Bosnia și Herțegovina, ci doar de carte de identitate sau pașaport. Chiar și așa, documentul de călătorie trebuie să aibă o valabilitate de 3 luni peste perioada declarată de ședere în acest stat, iar toți cetățenii români trebuie să facă dovada deținerii sumei de 150 BAM (mărci convertibile) sau de 75 EUR/fiecare zi de ședere în țară. De asemenea, cetățenii străini care doresc să rămână mai mult de 3 zile în Bosnia și Herțegovina  trebuie să se înregistreze la birourile teritoriale ale Serviciului pentru Străini aparținând de Ministerul Securității. Mai multe detalii pe site-ul oficial MAE. ",
         "warning" : ""
     },
     {
@@ -234,10 +234,10 @@
     {
         "name": "Brazil",
         "code": "BR",
-        "documents": "",
-        "source": "",
-        "comment": "",
-        "warning" : ""
+        "documents": "Pașaport",
+        "source": "https://www.mae.ro/travel-conditions/3676",
+        "comment": "Cetățenii români care doresc să călătorească în Brazilia nu au nevoie de viză, ci doar de pașaport. Perioada legală de ședere este de 90 de zile. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă evitarea călătoriilor în Brazilia pe fondul cazurilor de febră Dengue."
     },
     {
         "name": "British Indian Ocean Territory",
@@ -250,9 +250,9 @@
     {
         "name": "Brunei Darussalam",
         "code": "BN",
-        "documents": "",
-        "source": "",
-        "comment": "",
+        "documents": "Pașaport",
+        "source": "https://www.mae.ro/travel-conditions/29494",
+        "comment": "Cetățenii care călătoresc în Brunei pentru o perioadă de mai puțin de 90 de zile nu au nevoie de viză de intrare, ci doar de pașaport - acesta trebuie să fie valabil cel puțin 6 luni înainte de a intra în Brunei și să justifice doar scopuri de afaceri sau vizită. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : ""
     },
     {
@@ -265,18 +265,18 @@
     {
         "name": "Burkina Faso",
         "code": "BF",
-        "documents": "",
-        "source": "",
-        "comment": "",
-        "warning" : ""
+        "documents": "Pașaport și Viză",
+        "source": "https://www.mae.ro/travel-conditions/29271",
+        "comment": "Cetățenii români care vor să intre pe teritoriul Burkina Faso au nevoie de pașaport și viză. Pașaportul trebuie să fie valabil cel puțin 6 luni de la data depunerii cererii de viză; viza se acordă pentru o perioadă de mmaximum 90 de zile și poate fi obținută de la Ambasada Republicii Burkina Faso la Bruxelles, care asigură reprezentarea diplomatică și consulară a Republicii Burkina Faso în România. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă să evite călătoriile în Burkina Faso pe fondul tentativei de lovitură de stat de la finele anului 2015 și al atentatelor teroriste de la Bamako, Ouagadougou și Grand-Bassam. Mai multe detalii pe site-ul oficial MAE."
     },
     {
         "name": "Burundi",
         "code": "BI",
-        "documents": "",
-        "source": "",
-        "comment": "",
-        "warning" : ""
+        "documents": "Pașaport și Viză",
+        "source": "https://www.mae.ro/travel-conditions/30844",
+        "comment": "Cetățenii români au nevoie de pașaport și viză pentru a călători în Burundi. Viza se poate obține atât la aterizare, direct pe aeroportul din Bujumbura, cât și la misiunile diplomatice burundeze. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români să evite călătoriile în Burundi pe fondul instabilității politice, a numeroaselor conflicte violente între forțele de securitate și rebeli, precum și a infracționalității crescute. De asemenea, MAE recomandă să nu vă deplasați în zonele de frontieră cu Republica Democrată Congo. Mai multe detalii pe site-ul oficial MAE."
     },
     {
         "name": "Cambodia",
