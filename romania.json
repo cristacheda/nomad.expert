@@ -281,25 +281,25 @@
     {
         "name": "Cambodia",
         "code": "KH",
-        "documents": "",
-        "source": "",
-        "comment": "",
-        "warning" : ""
+        "documents": "Pașaport și Viză",
+        "source": "https://www.mae.ro/travel-conditions/31518",
+        "comment": "Cetățenii români au nevoie de pașaport și viză pentru a călători în Regatul Cambodgiei. Poți aplica pentru o viză turistică online, cu o singură intrare, pentru o perioadă de maximum 30 de zile. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români să fie precauți atunci când călătoresc în Cambodgia și să evite apropierea de templul Preah Vihear, la frontiera cu Thailanda, pe fondul riscului declanșării de acte de violență. Mai multe detalii pe site-ul oficial MAE."
     },
     {
         "name": "Cameroon",
         "code": "CM",
-        "documents": "",
-        "source": "",
-        "comment": "",
-        "warning" : ""
+        "documents": "Pașaport și Viză",
+        "source": "https://www.mae.ro/travel-conditions/49990",
+        "comment": "Cetățenii români care doresc să călătorească în Camerun au nevoie de pașaport și viză. Viza de intrare poate fi obținută de la misiunile diplomatice cameruneze din Berlin și Moscova. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români să fie extrem de vigilenți. Situația de securitate din regiune este puternic afectată de acțiunile teroriste violente practicate de către gruparea teroristtă Boko Haram, iar riscul infectării cu virusul polio sălbatic este și el ridicat. Mai multe detalii pe site-ul oficial MAE."
     },
     {
         "name": "Canada",
         "code": "CA",
-        "documents": "",
-        "source": "",
-        "comment": "",
+        "documents": "Pașaport/Pașaport și Viză",
+        "source": "https://www.mae.ro/travel-conditions/3678",
+        "comment": "Cetățenii români nu au nevoie de viză de intrare pentru a călători în Canada, ci doar de pașaport simplu electronic. Posesorii de pașaport simplu nebiometric sau pașaport temporar au nevoie de viză de intrare. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : ""
     },
     {
@@ -866,7 +866,7 @@
         "name": "Japan",
         "code": "JP",
         "documents": "",
-        "source": "",
+        "source": "https://www.mae.ro/travel-conditions/3712",
         "comment": "",
         "warning" : ""
     },
