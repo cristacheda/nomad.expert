@@ -369,34 +369,34 @@
     {
         "name": "Colombia",
         "code": "CO",
-        "documents": "",
-        "source": "",
-        "comment": "",
-        "warning" : ""
+        "documents": "Pașaport",
+        "source": "https://www.mae.ro/travel-conditions/3684",
+        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Columbia, ci doar de pașaport. Pașaportul trebuie să fie valabil cel puțin 6 luni de la momentul intrării, scopul călătoriei să fie turistic, iar cetățenii români s ă facă dovada unui bilet de călătorie dus-întors. Perioada maximă de ședere este de 90 de zile. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe informează cetățenii români de rapoarte de febră Dengue. Mai multe detalii pe site-ul oficial MAE."
     },
     {
         "name": "Comoros",
         "code": "KM",
-        "documents": "",
-        "source": "",
-        "comment": "",
+        "documents": "Pașaport și Viză",
+        "source": "https://www.mae.ro/travel-conditions/12234",
+        "comment": "Cetățenii români au nevoie de pașaport și viză pentru a călători în Insulele Comore. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : ""
     },
     {
         "name": "Congo",
         "code": "CG",
-        "documents": "",
-        "source": "",
-        "comment": "",
+        "documents": "Pașaport și Viză",
+        "source": "https://www.mae.ro/travel-conditions/30130",
+        "comment": "Cetățenii români posesori de pașaport simplu au nevoie de viză de intrare - excepție fac posesorii de pașapoarte de serviciu, oficiale și diplomatice. Perioada de ședere nu poate depăși 90 de zile. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : ""
     },
     {
         "name": "Congo, The Democratic Republic of the",
         "code": "CD",
-        "documents": "",
-        "source": "",
-        "comment": "",
-        "warning" : ""
+        "documents": "Pașaport și Viză",
+        "source": "https://www.mae.ro/travel-conditions/30131",
+        "comment": "Cetățenii români au nevoie de pașaport și viză pentru a călători în Republica Democrată Congo. Perioada de ședere nu poate depăși 90 de zile. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Alertă de călătorie!! MMinisterul Afacerilor Externe informează cetățenii români asupra riscului de infectare cu Ebola din cauza epidemiei prezente în Republica Democrată Congo. Mai multe detalii pe site-ul oficial MAE."
     },
     {
         "name": "Cook Islands",
@@ -409,18 +409,18 @@
     {
         "name": "Costa Rica",
         "code": "CR",
-        "documents": "",
-        "source": "",
-        "comment": "",
-        "warning" : ""
+        "documents": "Pașaport",
+        "source": "https://www.mae.ro/travel-conditions/3687",
+        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Republica Costa Rica, ci doar de pașaport. Perioada maximă de ședere este de 90 de zile, scopul călătoriei trebuie să fie turistic, iar la sosirea la punctul de trecere a frontierei trebuie să prezinți documentele care demonstrează scopul vizitei, precum și mijloace financiare suficiente pentru întreținerea pe perioada șederii. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români vigilență sporită pe fondul jafurilor și al infracțiunilor violente în locurile publice la adresa turiștilor. Mai multe detalii pe site-ul oficial MAE."
     },
     {
         "name": "Cote D'Ivoire",
         "code": "CI",
-        "documents": "",
-        "source": "",
-        "comment": "",
-        "warning" : ""
+        "documents": "Pașaport și Viză",
+        "source": "https://www.mae.ro/travel-conditions/3683",
+        "comment": "Cetățenii români au nevoie de pașaport și viză pentru a călători în Coasta de Fildeș. Viza se acordă de către misiunile diplomatice și oficiile Consulare ale Republicii Coasta de Fildeș - reprezentarea diplomatică și consulară a Republicii Coasta de Fildeș în România este asigurată de Ambasada Republicii Coasta de Fildeș în Germania. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă vigilență sporită pe fondul insecurității țării, cu focare de tensiune la nivel local. De asemenea, riscul de răspândire al virusului polio sălbatic și/sau derivat din vaccin este destul de ridicat. Mai multe detalii pe site-ul oficial MAE."
     },
     {
         "name": "Croatia",
@@ -433,9 +433,9 @@
     {
         "name": "Cuba",
         "code": "CU",
-        "documents": "",
-        "source": "",
-        "comment": "",
+        "documents": "Pașaport și Viză",
+        "source": "https://www.mae.ro/travel-conditions/3689",
+        "comment": "Cetățenii români au nevoie de pașaport și viză pentru a călători în Cuba. Viza se poate obține de la ambasadele sau consulatele Cubei în străinătate sau de la agențiile de turism sau companiile aeriene de la care s-a achiziționat pachetul turistic sau biletul de călătorie. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : ""
     },
     {
