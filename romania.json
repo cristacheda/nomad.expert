@@ -305,9 +305,9 @@
     {
         "name": "Cape Verde",
         "code": "CV",
-        "documents": "",
-        "source": "",
-        "comment": "",
+        "documents": "Pașaport",
+        "source": "https://www.mae.ro/travel-conditions/29355",
+        "comment": "Cetățenii români nu au nevoie de viză de intrare în Republica Capului Verde, ci doar de pașaport simplu electronic. Pașaportul trebuie să fie valabil pentru cel puțin încă 6 luni de la data intrării pe teritoriul acestui stat, iar perioada de ședere să nu depășească 30 de zile. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : ""
     },
     {
@@ -321,10 +321,10 @@
     {
         "name": "Central African Republic",
         "code": "CF",
-        "documents": "",
-        "source": "",
-        "comment": "",
-        "warning" : ""
+        "documents": "Pașaport și Viză",
+        "source": "https://www.mae.ro/travel-conditions/29374",
+        "comment": "Cetățenii români au nevoie de pașaport și viză de intrare pentru a călători în Repulica Centrafricană. Se va evitat utilizarea pașaportului temporar, iar toate tipurile de documente de călătorie ttrebuie să aibă o valabilitate de minimum 6 luni. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români evitarea deplasărilor în Republica Centrafricană pe fondul pericolului de jafuri armate, tâlhării, violuri și răpiri, precum și de atentate teroriste. Mai multe detalii pe site-ul oficial MAE."
     },
     {
         "name": "Chad",
@@ -337,18 +337,18 @@
     {
         "name": "Chile",
         "code": "CL",
-        "documents": "",
-        "source": "",
-        "comment": "",
+        "documents": "Pașaport",
+        "source": "https://www.mae.ro/travel-conditions/3680",
+        "comment": "Cetățenii români nu au nevoie de viză de intrare pentru a călători în Chile, ci doar de pașaport. Extrem de important, perioada de ședere este de maximum 90 de zile și scutirea de vize este valabilă doar pentru scopuri turistice, așa că cetățenii români care nu pot demonstra cu documente justificative acest fapt (rezervare hotel, sume necesare în cash sau ucarte de credit) pot fi retrimiși în țara de origine/reședință. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : ""
     },
     {
         "name": "China",
         "code": "CN",
-        "documents": "",
-        "source": "",
-        "comment": "",
-        "warning" : ""
+        "documents": "Pașaport și Viză",
+        "source": "https://www.mae.ro/travel-conditions/3681",
+        "comment": "Cetățenii români au nevoie de pașaport și viză pentru a călători în China. Viza de intrare se obține de la Centrul de Vize pentru China din București. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Alertă de călătorie! Există pericolul răspândirii virusului polio sălbatic și/sau derivat din vaccin. Mai multe detalii pe site-ul oficial MAE."
     },
     {
         "name": "Christmas Island",
