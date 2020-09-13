@@ -473,41 +473,41 @@
     {
         "name": "Dominica",
         "code": "DM",
-        "documents": "",
-        "source": "",
-        "comment": "",
+        "documents": "Pașaport",
+        "source": "https://www.mae.ro/travel-conditions/48636",
+        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în scop turistic în Dominica, ci doar de pașaport. Perioada de ședere nu trebuie să depășească 90 de zile. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : ""
     },
     {
         "name": "Dominican Republic",
         "code": "DO",
-        "documents": "",
-        "source": "",
-        "comment": "",
+        "documents": "Pașaport",
+        "source": "https://www.mae.ro/travel-conditions/3738",
+        "comment": "Cetățenii români care vor să călătorească în Republica Dominicană nu au nevoie de viză, ci doar de pașaport și card turistic. Acesta se poate obține de la consulatele Republicii Dominicane sau la punctele de trecere a frontierei. Perioada de ședere nu trebuie să depășească 90 de zile. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : ""
     },
     {
         "name": "Ecuador",
         "code": "EC",
-        "documents": "",
-        "source": "",
-        "comment": "",
-        "warning" : ""
+        "documents": "Pașaport",
+        "source": "https://www.mae.ro/travel-conditions/31517",
+        "comment": "Cetățenii români care vor să călătorească în Ecuador în scop turistic nu au nevoie de viză, ci doar de pașaport. Acesta trebuie să fie valabil minimum 6 luni, iar perioada de ședere să nu depășească 90 de zile. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă vigilență maximă pe fondul protestelor și al infracțiunilor frecvente. Mai multe detalii pe site-ul oficial MAE."
     },
     {
         "name": "Egypt",
         "code": "EG",
-        "documents": "",
-        "source": "",
-        "comment": "",
-        "warning" : ""
+        "documents": "Pașaport și Viză",
+        "source": "https://www.mae.ro/travel-conditions/3691",
+        "comment": "Cetățenii români care doresc să călătorească în Egipt au nevoie de pașaport și viză. Pașaportul simplu sau temporar trebuie să aibă o valabilitate de minimum 6 luni de la data intrării în Egipt, iar viza se poate obține la aeroport sau la sediul Ambasadei Republicii Arabe Egipt în România. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe atrage atenția asupra atentatelor teroriste din Peninsula Sinai și la frontiera cu Libia și Sudan. Mai multe detalii pe site-ul oficial MAE."
     },
     {
         "name": "El Salvador",
         "code": "SV",
-        "documents": "",
-        "source": "",
-        "comment": "",
+        "documents": "Pașaport",
+        "source": "https://www.mae.ro/travel-conditions/33020",
+        "comment": "Cetățenii români care vor să călătorească în El Salvador în scop turistic nu au nevoie de viză, ci doar de pașaport. Adițional, va trebui să prezinți documentele care demonstrează scopul vizitei și faptul că deții suficiente mijloace financiare pentru a te întreține pe perioada șederii. Perioada de ședere nu poate depăși 90 de zile. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : ""
     },
     {
@@ -537,10 +537,10 @@
     {
         "name": "Ethiopia",
         "code": "ET",
-        "documents": "",
-        "source": "",
-        "comment": "",
-        "warning" : ""
+        "documents": "Pașaport și Viză",
+        "source": "https://www.mae.ro/travel-conditions/3695",
+        "comment": "Cetățenii români care doresc să călătorească în Etiopia au nevoie de pașaport și viză. Viza turistică poate fi obținută online, cu cel puțin 3-4 zile înainte de data călătoriei. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă, pe lângă vigilența sporită, contactarea Ambasadei României la Addis Abeba atât înainte de călătorie, cât și la sosirea în Etiopia pentru semnalarea prezenței. Deși situația de securitate este stabilă, se menține riscul incidentelor și conflictelor locale. Mai multe detalii pe site-ul oficial MAE."
     },
     {
         "name": "Falkland Islands (Malvinas)",
