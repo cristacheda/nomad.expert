@@ -561,9 +561,9 @@
     {
         "name": "Fiji",
         "code": "FJ",
-        "documents": "",
-        "source": "",
-        "comment": "",
+        "documents": "Pașaport",
+        "source": "https://www.mae.ro/travel-conditions/30276",
+        "comment": "Cetățenii români care doresc să călătorească în Fiji nu au nevoie de viză, ci doar de pașaport. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : ""
     },
     {
@@ -609,18 +609,18 @@
     {
         "name": "Gabon",
         "code": "GA",
-        "documents": "",
-        "source": "",
-        "comment": "",
-        "warning" : ""
+        "documents": "Pașaport și Viză",
+        "source": "https://www.mae.ro/travel-conditions/30214",
+        "comment": "Cetățenii români posesori de pașaport simplu, de serviciu, oficial sau diplomatic au nevoie de viză de intrare pentru a călători în Gabon. Perioada de ședere nu poate depăși 90 de zile, iar viza de poate obține de la Secția Consulară a Ambasadei Gabon în Federația Rusă. De asemenea, cetățenii străini trebuie să facă dovada Certificatului Internațional de Vaccinare șa sosirea în țară. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă vigilență maximă pe fondul criminalității urbane din capitală și al tentativelor de fraudă. Mai multe detalii pe site-ul oficial MAE."
     },
     {
         "name": "Gambia",
         "code": "GM",
-        "documents": "",
-        "source": "",
-        "comment": "",
-        "warning" : ""
+        "documents": "Pașaport",
+        "source": "https://www.mae.ro/travel-conditions/29270",
+        "comment": "Cetățenii români care doresc să călătorească în Gambia în scop turistic nu au nevoie de viză de intrare, ci doar de pașaport. Pașaportul trebuie să aibă o valabilitate de minimum 6 luni de la data intrării pe teritoriul acestui stat. Reprezentarea diplomatică și consulară a Republicii Islamice Gambia în România este asigurată de Ambasada Gambiei în Franța. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă prudență maximă sau chiar anularea călătoriilor în Gambia pe fondul tensiunilor postelectorale. Mai multe detalii pe site-ul oficial MAE."
     },
     {
         "name": "Georgia",
