@@ -737,10 +737,10 @@
     {
         "name": "Haiti",
         "code": "HT",
-        "documents": "",
-        "source": "",
-        "comment": "",
-        "warning" : ""
+        "documents": "Pașaport",
+        "source": "https://mae.ro/travel-conditions/30301",
+        "comment": "Cetățenii români care doresc să călătorească în Haiti au nevoie doar de pașaport, nu și de viză. Perioada de ședere nu poate depăși 90 de zile, iar pașaportul trebuie să fie valabil cel puțin 6 luni de la momentul intrării în țară. Tichetul de sosire/plecare, acordat tuturor străinilor la sosirea pe teritoriul haitian, este solicitat de autorități la plecare - lipsa acestuia poate cauza probleme cu autoritățile locale. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recocmandă cu insistență încheierea de asigurări de călătorie, medicale și de viață pentru călătoriile în Haiti. Mai multe detalii pe site-ul oficial MAE."
     },
     {
         "name": "Heard Island and Mcdonald Islands",
