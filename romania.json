@@ -801,10 +801,10 @@
     {
         "name": "Indonesia",
         "code": "ID",
-        "documents": "",
-        "source": "",
-        "comment": "",
-        "warning" : ""
+        "documents": "Pașaport",
+        "source": "https://www.mae.ro/travel-conditions/3704",
+        "comment": "Cetățenii români posesori de pașapoarte simple ce călătoresc în Indonezia în scop turistic nu au nevoie de viză de intrare dacă perioada de ședere nu depășește maximum 30 de zile. Turiștii pot intra doar prin anumite puncte de frontieră pentru a beneficia de exceptareae de la viza de intrare. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români să fie extrem de vigilenți, atât pe fondul atacurilor teroriste, precum și din cauza frecvenței crescute a cutremurelor de intensitatet mare. De asemenea, Indonezia se află pe lista țărilor care impun cetățenilor străini vaccinarea antipoliomielită. Mai multe detalii pe site-ul oficial MAE."
     },
     {
         "name": "Iran, Islamic Republic Of",
