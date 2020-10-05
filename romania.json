@@ -785,18 +785,18 @@
     {
         "name": "Iceland",
         "code": "IS",
-        "documents": "",
-        "source": "",
-        "comment": "",
+        "documents": "Carte de Identitate sau Pașaport",
+        "source": "https://www.mae.ro/travel-conditions/3709",
+        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Islanda, ci doar de carte de identitate sau pașaport valabile. Valabilitatea documentelor de călătorie trebuie să depășească cu cel puțin trei luni data încheierii călătoriei (data ieșirii de pe teritoriul Islandei). Mai multe detalii pe site-ul MAE.",
         "warning" : ""
     },
     {
         "name": "India",
         "code": "IN",
-        "documents": "",
-        "source": "",
-        "comment": "",
-        "warning" : ""
+        "documents": "Pașaport și Viză",
+        "source": "https://www.mae.ro/travel-conditions/3703",
+        "comment": "Cetățenii români posesori de pașapoarte turistice și temporare au nevoie de viză de intrare în Republica India. Cu excepția posesorilor de pașapoarte temporare, India oferă cetățenilor români posibilitatea de a solicita e-Visa pentru scopuri de recreere, turism, vizitare a prietenilor/rudelor, tratament medical de scurtă durată sau afaceri. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă evitarea statelor Jammu și Kashmir, pe fondul revocării statutului lor special. Mai multe detalii pe site-ul oficial MAE."
     },
     {
         "name": "Indonesia",
