@@ -841,10 +841,10 @@
     {
         "name": "Israel",
         "code": "IL",
-        "documents": "",
-        "source": "",
-        "comment": "",
-        "warning" : ""
+        "documents": "Pașaport",
+        "source": "https://www.mae.ro/travel-conditions/3710",
+        "comment": "Cetățenii români care călătoresc în Israel în scop turistic nu au nevoie de viză, ci doar de pașaport. Perioada șederii nu poate depăși 90 de zile, iar pașaportul trebuie să fie valabil cel puțin 6 luni de la data prevăzută pentru intrarea în Israel. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români prudență maximă și evitarea deplasărilor care nu se impun în zona de sud a Israelului din cauza tirurilor cu rachete din Fâșia Gaza. Mai multe detalii pe site-ul oficial MAE."
     },
     {
         "name": "Italy",
