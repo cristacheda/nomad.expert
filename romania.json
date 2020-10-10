@@ -857,10 +857,10 @@
     {
         "name": "Jamaica",
         "code": "JM",
-        "documents": "",
-        "source": "",
-        "comment": "",
-        "warning" : ""
+        "documents": "Pașaport și Viză",
+        "source": "https://www.mae.ro/travel-conditions/30303",
+        "comment": "Cetățenii români care doresc să călătorească în Jamaica au nevoie de pașaport și viză. Viza poate fi obținută de la ambasadele sau consulatele Statului Jamaica din străinătate, precum și de la punctele de trecere a frontierei și poate fi prelungită pentru o perioadă de 30 de zile. Mai multe detalii pe site-ul MAE.",
+        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români să fie extrem de prudenți pe fondul ratei de criminalitate destul de ridicată. De asemenea, există o serie de vaccinuri care trebuie obligatoriu efectuată. Mai multe detalii pe site-ul oficial MAE."
     },
     {
         "name": "Japan",
