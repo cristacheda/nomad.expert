@@ -889,25 +889,25 @@
     {
         "name": "Kazakhstan",
         "code": "KZ",
-        "documents": "",
-        "source": "",
-        "comment": "",
+        "documents": "Pașaport",
+        "source": "https://www.mae.ro/travel-conditions/3713",
+        "comment": "Cetățenii români care doresc să călătorească în Kazahstan în scop turistic sau de vizită, pentru o perioadă de cel mult 30 de zile calendaristice, nu au nevoie de viză. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : ""
     },
     {
         "name": "Kenya",
         "code": "KE",
-        "documents": "",
-        "source": "",
-        "comment": "",
-        "warning" : ""
+        "documents": "Pașaport și Viză",
+        "source": "https://www.mae.ro/travel-conditions/30273",
+        "comment": "Cetățenii români care doresc să călătorască în Kenya au nevoie de pașaport și viză de intrare. Ministerul Afacerilor Externe recomandă cetățenilor români  să aplice pentru viză online, cu cel puțin o săptămâmî înaintea călătoriei. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă prudență pe fondul cazurilor de holeră și poliomielită, dar și din cauza atentatelor teroriste ce motivează anularea călătoriilor care nu sunt necesare. Mai multe detalii pe site-ul oficial MAE."
     },
     {
         "name": "Kiribati",
         "code": "KI",
-        "documents": "",
-        "source": "",
-        "comment": "",
+        "documents": "Pașaport",
+        "source": "https://www.mae.ro/travel-conditions/30369",
+        "comment": "Cetățenii români care doresc să călătorească în Republica Kiribati nu au nevoie de viză, ci doar de papșaport - perioada maximă de ședere este de 90 de zile. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : ""
     },
     {
@@ -921,26 +921,26 @@
     {
         "name": "Korea, Republic of",
         "code": "KR",
-        "documents": "",
-        "source": "",
-        "comment": "",
-        "warning" : ""
+        "documents": "Pașaport",
+        "source": "https://www.mae.ro/travel-conditions/3686",
+        "comment": "Cetățenii români care doresc să călătorească în Coreea de Sud nu au nevoie de viză, ci doar de pașaport. Perioada de ședere nu trebuie să depășească 90 de zile, iar scopul călătoriei să fie turistic, de vizită, întâlniri de afaceri, conferințe sau activități sportive din care nu rezultă câștiguri financiare. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe avertizează asupra poluării masive din Coreea de Sud, precum și asupra exercițiilor frecvente de apărare civilă. Mai multe detalii pe site-ul oficial MAE."
     },
     {
         "name": "Kuwait",
         "code": "KW",
-        "documents": "",
-        "source": "",
-        "comment": "",
+        "documents": "Pașaport și Viză",
+        "source": "https://www.mae.ro/travel-conditions/3714",
+        "comment": "Cetățenii români care doresc să călătorească în Kuwait au nevoie de pașaport și viză de intrare. Posesorii de pașapoarte simple pot obține această viză în scop turistic fie de la Ambasada Statului Kuwait la București, fie de la ambasadele acestui stat în străinătate sau chiar la punctele de trecere a frontierei kuweitiene (aeriene, rutiere și maritime) Mai multe detaii pe site-ul oficial MAE.",
         "warning" : ""
     },
     {
         "name": "Kyrgyzstan",
         "code": "KG",
-        "documents": "",
-        "source": "",
-        "comment": "",
-        "warning" : ""
+        "documents": "Pașaport și Viză",
+        "source": "https://www.mae.ro/travel-conditions/28309",
+        "comment": "Cetățenii români care doresc să călătorească în Kyrgystan au nevoie de pașaport și viză. Viza de intrare se poate obține online, prin intermediul sistemului Electronic Visa, fără a mai fi nevoie să se adreseze misiunilor diplomatice, oficiilor consulare sau birourilor de vize. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă prudență cetățenilor români care doresc să se deplaseze în zona de sud a țării pe fondul situației de securitate. Mai multe detalii pe site-ul oficial MAE."
     },
     {
         "name": "Lao,  People's Democratic Republic",
