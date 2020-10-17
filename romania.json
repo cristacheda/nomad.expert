@@ -881,10 +881,10 @@
     {
         "name": "Jordan",
         "code": "JO",
-        "documents": "",
-        "source": "",
-        "comment": "",
-        "warning" : ""
+        "documents": "Pașaport și Viză",
+        "source": "https://www.mae.ro/travel-conditions/3705",
+        "comment": "Cetățenii români care doresc să călătorească în Iordania au nevoie de viză și un pașaport cu o valabilitate de cel puțin 6 luni. Viza se poate obține de la reprezentanțele diplomatice ale Iordaniei din străinătate, dar și la frontieră, inclusiv la Aeroportul Internațional Queen Alia din Amman, la un cost de 40 de dinari iordanieni. Atenție! Cetățenii români posesori de pașapoarte simple temporare nu pot obține viza de intrare la frontieră, fiind necesar să se adreseze în prealabil unei reprezentanțe diplomatice iordaniene. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români care călătoresc în Iordania să fie vigilenți pe fondul contextului geopolitic și securitar, Iordania fiind înconjurată de conflicte militare și activități de natură teroristă. Mai multe detalii pe site-ul oficial MAE."
     },
     {
         "name": "Kazakhstan",
