@@ -961,17 +961,17 @@
     {
         "name": "Lebanon",
         "code": "LB",
-        "documents": "",
-        "source": "",
-        "comment": "",
-        "warning" : ""
+        "documents": "Pașaport și Viză",
+        "source": "https://www.mae.ro/travel-conditions/3716",
+        "comment": "Cetățenii români care doresc să călătorească în Liban au nevoie de pașaport și viză, iar perioada maximă de ședere este de 2 luni. Dacă scopul depplasării este turistic sau de vizită, iar perioada de ședere nu depășește 2 luni, viza de scurtă ședere sau de tranzit aeroportuar este acordată în punctul de frontieră (Visa on Arrival) pentru maximul 60 de zile pe pașaportul românesc (simplu, diplomatic sau de serviciu). Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români să fie extrem de vigilenți pe fondul acțiunilor constante de protest, dar și din cauza atentatelor teroriste și a conflictelor interconfesionale. Mai multe detalii pe site-ul oficial MAE."
     },
     {
         "name": "Lesotho",
         "code": "LS",
-        "documents": "",
-        "source": "",
-        "comment": "",
+        "documents": "Pașaport și Viză",
+        "source": "https://www.mae.ro/travel-conditions/12608",
+        "comment": "Cetățenii români care doresc să călătorească în Regatul Lesotho au nevoie de pașaport și viză. Guvernul acestui regat a simplificat procedura de obținere a vizelor în scop turistic și de afaceri prin lansarea portalului electronic de tip e-Visa, destinat solicitării online fără a mai fi nevoie deplasarea la sediul misiunilor diplomatice ale Regatului în străinătate. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : ""
     },
     {
@@ -985,17 +985,17 @@
     {
         "name": "Libyan Arab Jamahiriya",
         "code": "LY",
-        "documents": "",
-        "source": "",
-        "comment": "",
-        "warning" : ""
+        "documents": "Pașaport și Viză",
+        "source": "https://www.mae.ro/travel-conditions/3717",
+        "comment": "Cetățenii români care doresc să călătorească în Liberia au nevoie de pașaport și viză. Cea din urmă poate fi obținută de la Ambasada Liberiei la București, cu o valabilitatae de 3 luni și drept de ședere de 30 de zile, pentru o singură călătorie dus-întors. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Pericol major! Părăsiți imediat zona sau țara! Ministerul Afacerilor Externe recomandă cu fermitate cetățenilor români să evite orice fel de călătorie în Libia, iar celor care încă se află pe teritoriul libian să părăsească imediat țara! Situația de securitate rezultată din războiul civil este extrem de deteriorată, iar numeroase puncte de frontieră sunt închise. Mai multe detalii pe site-ul oficial MAE."
     },
     {
         "name": "Liechtenstein",
         "code": "LI",
-        "documents": "",
-        "source": "",
-        "comment": "",
+        "documents": "Carte de Identitate sau Pașaport",
+        "source": "https://www.mae.ro/travel-conditions/3718",
+        "comment": "Cetățenii români care doresc să călătorească în Principatul Liechtenstein au nevoie doar de cartea de identitate sau de pașaport. Perioada de ședere nu poate depăși 90 de zile, iar cetățenii români trebuie să dețină o asigurare medicală pe durata călătoriei și să demonstreze că au suficiente resurse financiare pentru a se întreține pe perioada călătoriei. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : ""
     },
     {
