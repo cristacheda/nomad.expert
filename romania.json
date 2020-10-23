@@ -1025,9 +1025,9 @@
     {
         "name": "Macedonia, The Former Yugoslav Republic of",
         "code": "MK",
-        "documents": "",
-        "source": "",
-        "comment": "",
+        "documents": "Carte de Identitate sau Pașaport",
+        "source": "https://www.mae.ro/travel-conditions/3721",
+        "comment": "Cetățenii români care doresc să călătorească în Macedonia de Nord au nevoie doar de cartea de identitate sau de pașaport. Șederea nu poate depăși o perioadă de 90 de zile. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : ""
     },
     {
