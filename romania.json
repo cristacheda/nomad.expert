@@ -1033,18 +1033,18 @@
     {
         "name": "Madagascar",
         "code": "MG",
-        "documents": "",
-        "source": "",
-        "comment": "",
-        "warning" : ""
+        "documents": "Pașaport și Viză",
+        "source": "https://www.mae.ro/travel-conditions/12235",
+        "comment": "Cetățenii români care doresc să călătorească în Madagascar au nevoie de pașaport și viză. Cea din urmă se poate obține de la Ambasada Republicii Madagascar la Roma. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă vigilență maximă și evitarea anumitor zone ale țării pe fondul atacurilor armate violente ale unor grupări organizate. Mai multe detalii pe site-ul oficial MAE."
     },
     {
         "name": "Malawi",
         "code": "MW",
-        "documents": "",
-        "source": "",
-        "comment": "",
-        "warning" : ""
+        "documents": "Pașaport și Viză",
+        "source": "https://www.mae.ro/travel-conditions/3723",
+        "comment": "Cetățenii români care doresc să călătorească în Malawi au nevoie de pașaport și viză. Aceasta poate fi obținută înainte de intrarea în țară, dar și la punctele de frontieră. Perioada legală de ședere este de 30 de zile, însă poate fi prelungită pentru încă 60 de zile. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe avertizează asupra pericolului de răspândire a virusului polio sălbatic și/sau derivat din vaccin, așa că vaccinarea antipoliomielită este obligatorie. Mai multe detalii pe site-ul oficial MAE."
     },
     {
         "name": "Malaysia",
