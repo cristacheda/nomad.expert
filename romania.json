@@ -1049,18 +1049,18 @@
     {
         "name": "Malaysia",
         "code": "MY",
-        "documents": "",
-        "source": "",
-        "comment": "",
-        "warning" : ""
+        "documents": "Pașaport",
+        "source": "https://www.mae.ro/travel-conditions/3722",
+        "comment": "Cetățenii români care doresc să călătorească în Malaysia au nevoie doar de pașaport, grație unui regim de scutire reciprocă de vize în cazul cetățenilor români care doresc să călătorească în Malaysia și viceversa. Perioada maximă de ședere este de 90 de zile, în scopuri nelucrative. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă vigilență maximă pe tema securității instabile. De asemenea, Malaysia are o politică extrem de dură în privința combaterii traficului și consumului de droguri, pedeapsa cu moartea fiind aplicată automat indiferent de naționalitate. Mai multe detalii pe site-ul oficial MAE."
     },
     {
         "name": "Maldives",
         "code": "MV",
-        "documents": "",
-        "source": "",
-        "comment": "",
-        "warning" : ""
+        "documents": "Pașaport și Viză",
+        "source": "https://www.mae.ro/travel-conditions/44715",
+        "comment": "Cetățenii români care doresc să călătoreasscă în Republica Maldive au nevoie de pașaport și viză de intrare. Vizele turistice se obțin pentru o perioadă de cel mult 30 de zile, direct de la punctele de trecere a frontierei (port, aeroport). Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă vigilențăț maximă pe fondul demonstrațiilor organizate sau spontane, precum și pe fondul amenințării teroriste generale. Mai multe detalii pe site-ul oficial MAE."
     },
     {
         "name": "Mali",
