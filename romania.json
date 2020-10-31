@@ -1065,10 +1065,10 @@
     {
         "name": "Mali",
         "code": "ML",
-        "documents": "",
-        "source": "",
-        "comment": "",
-        "warning" : ""
+        "documents": "Pașaport și Viză",
+        "source": "https://www.mae.ro/travel-conditions/29262",
+        "comment": "Cetățenii români care doresc să călătorească în Mali au nevoie de pașaport și viză de intrare. Pașaportul trebuie să aibă o valabilitate de cel puțin 6 luni de la data depunerii cererii de viză - cea din urmă poate fi obținută de la Ambasada Republicii Mali la Paris. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români vigilență maximă pe fondul riscului crescut de acțiuni teroriste pe teritoriul statului Mali. Mai multe detalii pe site-ul oficial MAE."
     },
     {
         "name": "Malta",
@@ -1081,9 +1081,9 @@
     {
         "name": "Marshall Islands",
         "code": "MH",
-        "documents": "",
-        "source": "",
-        "comment": "",
+        "documents": "Pașaport",
+        "source": "https://www.mae.ro/travel-conditions/31669",
+        "comment": "Cetățenii români care doresc să călătorească în Insulele Marshall au nevoie doar de pașaport simplu, temporar, diplomatic sau de serviciu - perioada de ședere nu poate depăși 90 de zile, iar pașaportul trebuie să aibă o valabilitate de cel puțin 6 luni. Mai multe detalii pe site-ul MAE.",
         "warning" : ""
     },
     {
@@ -1097,17 +1097,17 @@
     {
         "name": "Mauritania",
         "code": "MR",
-        "documents": "",
-        "source": "",
-        "comment": "",
-        "warning" : ""
+        "documents": "Pașaport și Viză",
+        "source": "https://www.mae.ro/travel-conditions/29507",
+        "comment": "Cetățenii români care doresc să călătorească în Mauritania au nevoie de pașaport și viză. Viza de intrare se poate obține de la Ambasada Republicii Islamice Mauritania la Berlin. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români să evite călătoriile în Mauritania pe fondul situației de securitate precare, precum și din cauza răpirilor de persoane. Mai multe detalii pe site-ul oficial MAE."
     },
     {
         "name": "Mauritius",
         "code": "MU",
-        "documents": "",
-        "source": "",
-        "comment": "",
+        "documents": "Pașaport",
+        "source": "https://www.mae.ro/travel-conditions/12415",
+        "comment": "Cetățenii români care doresc să călătorească în Mauritius au nevoie doar de pașaport, pentru o perioadă de 90 de zile într-un interval de 6 luni. Cu toate acestea, Ministerul Afacerilor Externe recomandă solicitarea de informații suplimentare la Ambasada Statului Mauritius la Paris. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : ""
     },
     {
@@ -1121,10 +1121,10 @@
     {
         "name": "Mexico",
         "code": "MX",
-        "documents": "",
-        "source": "",
-        "comment": "",
-        "warning" : ""
+        "documents": "Pașaport",
+        "source": "https://www.mae.ro/travel-conditions/3727",
+        "comment": "Cetățenii români care doresc să călătorească în Mexic în scop turistic și dețin pașapoarte simple sau pașapoarte simple electronice valabile nu au nevoie de viză de intrare. Perioada de ședere nu poate depăși 180 de zile într-un interval de un an. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă vigilență maximă pe fondul jafurilor și infracțiunilor violente în locurile publice - furturile de documente, bani, cărți de credit/debit sau alte bunuri sunt cele mai răspândite. Mai multe detalii pe site-ul oficial MAE."
     },
     {
         "name": "Micronesia, Federated States of",
@@ -1137,9 +1137,9 @@
     {
         "name": "Moldova, Republic of",
         "code": "MD",
-        "documents": "",
-        "source": "",
-        "comment": "",
+        "documents": "Carte de Identitate sau Pașaport",
+        "source": "https://www.mae.ro/travel-conditions/3739",
+        "comment": "Cetățenii români care doresc să călătorească în Republica Moldova au nevoie doar de cartea de identitate sau de pașaport - acestea trebuie să aibă o valabilitate de cel puțin 3 luni de la data intrării în țară. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : ""
     },
     {
