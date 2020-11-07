@@ -1241,18 +1241,18 @@
     {
         "name": "New Zealand",
         "code": "NZ",
-        "documents": "",
-        "source": "",
-        "comment": "",
+        "documents": "Pașaport",
+        "source": "https://www.mae.ro/travel-conditions/3730",
+        "comment": "Cetățenii români care doresc să călătorească în Noua Zeelandă nu au nevoie de viză, ci doar de pașaport. În schimb, aceștia au nevoie de certificatul electronic NZeTA (New Zealand Electronic Travel Authority), obținut obligatoriu anterior deplasării. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : ""
     },
     {
         "name": "Nicaragua",
         "code": "NI",
-        "documents": "",
-        "source": "",
-        "comment": "",
-        "warning" : ""
+        "documents": "Pașaport",
+        "source": "https://www.mae.ro/travel-conditions/33016",
+        "comment": "Cetățenii români care doresc să călătorească în Republica Nicaragua nu au nevoie de viză, ci doar de pașaport. Călătoria trebuie să fie efectuată doar în scopuri turistice sau de afaceri, iar perioada de ședere nu poate depăși 90 de zile într-un interval de 6 luni. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români să fie extrem de vigilenți pe fondul situației de securitate instabilă la nivel de țară. Mai multe detalii pe site-ul oficial MAE."
     },
     {
         "name": "Niger",
