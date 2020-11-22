@@ -1129,9 +1129,9 @@
     {
         "name": "Micronesia, Federated States of",
         "code": "FM",
-        "documents": "",
-        "source": "",
-        "comment": "",
+        "documents": "Pașaport",
+        "source": "https://www.mae.ro/travel-conditions/31681",
+        "comment": "Cetățenii români care doresc să călătorească în Statele Federative ale Microneziei nu au nevoie de viză, ci doar de pașaport. Perioada de ședere nu poate depăși 90 de zile în cursul oricărei perioade de 180 de zile. Atenție! Pașaportul temporar românesc nu este recunoscut de autoritățile statului, iar poliția de frontieră nu va permite intrarea titularilor acestui tip de pașaport pe teritoriul Microneziei. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : ""
     },
     {
@@ -1145,17 +1145,17 @@
     {
         "name": "Monaco",
         "code": "MC",
-        "documents": "",
-        "source": "",
-        "comment": "",
+        "documents": "Carte de Identitate sau Pașaport",
+        "source": "https://www.mae.ro/travel-conditions/28307",
+        "comment": "Cetățenii români care doresc să călătorească în Principatul Monaco au nevoie doar de o carte de identitate sau de pașaport. Perioada de ședere nu poate deepăși 90 de zile într-un interval de 6 luni. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : ""
     },
     {
         "name": "Mongolia",
         "code": "MN",
-        "documents": "",
-        "source": "",
-        "comment": "",
+        "documents": "Pașaport și Viză",
+        "source": "https://www.mae.ro/travel-conditions/12016",
+        "comment": "Cetățenii români care doresc să călătorească în Mongolia au nevoie de pașaport și viză. Viza de intrare în țară se obține prin Consulatul Onorificc al Mongoliei la București. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : ""
     },
     {
@@ -1169,26 +1169,26 @@
     {
         "name": "Morocco",
         "code": "MA",
-        "documents": "",
-        "source": "",
-        "comment": "",
-        "warning" : ""
+        "documents": "Pașaport",
+        "source": "https://www.mae.ro/travel-conditions/3726",
+        "comment": "Cetățenii români care doresc să călătorească în Maroc nu au nevoie de viză de intrare, ci doar de pașaport. Perioada maximmă de ședere este de 90 de zile, iar valabilitatea pașaportului trebuie să fie de cel puțin 3 luni de la data preconizată a ieșirii de pe teritoriul acestui stat. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Alertă de călătorie! Riscul comiterii de atentate teroriste este prezent la nivelul întregului Regat al Marocului, așa că Ministerul Afacerilor Externe recomandă cetățenilor români prudență deosebită. Mai multe detalii pe site-ul oficial MAE."
     },
     {
         "name": "Mozambique",
         "code": "MZ",
-        "documents": "",
-        "source": "",
-        "comment": "",
-        "warning" : ""
+        "documents": "Pașaport și Viză",
+        "source": "https://www.mae.ro/travel-conditions/12607",
+        "comment": "Cetățenii români care doresc să călătorească în Mozambic în scop turistic pot solicita acordarea vizei de intrare la punctele de trecere a frontierei iale acestui stat, inclusiv pe aeroporturile internaționale. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Alertă de călătorie! Este recomandată vacinarea persoanelor care călătoresc spre și dinspre Mozambic, pe fondul riscului de transmitere a polio-virusurilor. Mai multe detalii pe site-ul oficial MAE."
     },
     {
         "name": "Myanmar",
         "code": "MM",
-        "documents": "",
-        "source": "",
-        "comment": "",
-        "warning" : ""
+        "documents": "Pașaport și Viză",
+        "source": "https://www.mae.ro/travel-conditions/29457",
+        "comment": "Cetățenii români care doresc să călătorească în Myanmar au nevoie de pașaport și viză de intrare - pașaportul trebuie să fie valabil cel puțin șase luni de la data intrării în Myanmar, cu minimum o pagină liberă. Mai multe detalii pee site-ul oficial MAE.",
+        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă vaccinarea persoanelor care călătoresc în Myanmar, pe fondul riscului de transmitere a polio-virusurilor. Mai multe detalii pe site-ul oficial MAE."
     },
     {
         "name": "Namibia",
