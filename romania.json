@@ -1193,17 +1193,17 @@
     {
         "name": "Namibia",
         "code": "NA",
-        "documents": "",
-        "source": "",
-        "comment": "",
+        "documents": "Pașaport și Viză",
+        "source": "https://www.mae.ro/travel-conditions/12443",
+        "comment": "Cetățenii români care doresc să călătorească în Namibia au nevoie de pașaport și viză. Cei care dorescă să călătorească în scop turistic sau pentru o ședere scurtă pot obține viza de intrare direct la Aeroportul Internațional Hosea Kutako-Windhoek. Mai multe detalii despre obținerea vizei, pe site-ul oficial MAE.",
         "warning" : ""
     },
     {
         "name": "Nauru",
         "code": "NR",
-        "documents": "",
-        "source": "",
-        "comment": "",
+        "documents": "Pașaport și Viză",
+        "source": "https://www.mae.ro/travel-conditions/30370",
+        "comment": "Cetățenii români care doresc să călătorească în Nauru au nevoie de o viză turistică pentru un sejur mai mic de 30 de zile, care poate fi obținută de la un oficiu diplomatic al Republicii Nauru. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : ""
     },
     {
