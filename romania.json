@@ -1209,9 +1209,9 @@
     {
         "name": "Nepal",
         "code": "NP",
-        "documents": "",
-        "source": "",
-        "comment": "",
+        "documents": "Pașaport și Viză",
+        "source": "https://www.mae.ro/travel-conditions/45506",
+        "comment": "Cetățenii români care doresc să călătorească în Republica Federeală Democratică Nepal au nevoie de pașaport și viză. Pașaportul trebuie să fie valabil cel puțin 6 luni de la data intrării în Nepal și să aibă cel puțin o pagină liberă pentru aplicarea vizelor și ștampilelor la frontieră. Viza se poate obține de la misiunea diplomatică nepaleză care are în circumscripție România, respectiv Ambasada Republicii Federale Democratice Nepal în Federația Rusă. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : ""
     },
     {
