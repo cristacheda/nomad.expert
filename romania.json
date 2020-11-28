@@ -1257,10 +1257,10 @@
     {
         "name": "Niger",
         "code": "NE",
-        "documents": "",
-        "source": "",
-        "comment": "",
-        "warning" : ""
+        "documents": "Pașaport și Viză",
+        "source": "http://mae.gov.ro/travel-conditions/30216",
+        "comment": "Cetățenii români care doresc să călătorească în Republica Niger au nevoie de pașaport și viză. Cea din urmă se poate obține de la Secția Consulară a Ambasadei Nigerului în Germania. De asemenea, cetățenii străini trebuie să facă, la intrarea în țară, dovada vaccinării împotriva febrei galbene. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români evitarea oricărei deplasări pe teritoriul Nigerului pe fondul situației conflictuale din statele vecine. De asemenea, acțiunile teroriste și răpirile sunt și ele foarte răspândite. Mai multe detalii pe site-ul oficial MAE."
     },
     {
         "name": "Nigeria",
