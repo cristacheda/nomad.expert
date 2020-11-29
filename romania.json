@@ -1265,10 +1265,10 @@
     {
         "name": "Nigeria",
         "code": "NG",
-        "documents": "",
-        "source": "",
-        "comment": "",
-        "warning" : ""
+        "documents": "Pașaport și Viză",
+        "source": "https://www.mae.ro/travel-conditions/30217",
+        "comment": "Cetățenii români care doresc să călătorească în Nigeria au nevoie de pașaport și viză. Cea din urmă se poate obține de la Secția Consulară a Ambasadei Republicii Federale Nigeria din București. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români care doresc să călătorească în Nigeria să manifeste prudență sporită și să contacteze Ambasada României la Abuja pentru a-și înregistra prezența. De asemenea, climatul actual de pericol de răspândire a virusului polio sălbatic și/sau derivat din vaccin este extrem de delicat. Mai multe detalii pe site-ul oficial MAE."
     },
     {
         "name": "Niue",
@@ -1297,9 +1297,9 @@
     {
         "name": "Norway",
         "code": "NO",
-        "documents": "",
-        "source": "",
-        "comment": "",
+        "documents": "Carte de Identitate sau Pașaport",
+        "source": "https://www.mae.ro/travel-conditions/3729",
+        "comment": "Cetățenii români care doresc să călătorească în Norvegia nu au nevoie de viză, ci doar de cartea de identitate sau pașaport, aflate în curs de valabilitate. De menționat faptul că buletinele românești emise înainte de anul 2009 și pe care nu este menționată cetățenia română nu sunt recunoscute ca doccumente de călătorie în Norvegia. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : ""
     },
     {
