@@ -1305,9 +1305,9 @@
     {
         "name": "Oman",
         "code": "OM",
-        "documents": "",
-        "source": "",
-        "comment": "",
+        "documents": "Pașaport și Viză",
+        "source": "https://www.mae.ro/travel-conditions/25188",
+        "comment": "Cetățenii români care doresc să călătorească în Oman au nevoie de pașaport și viză de intrare, indiferent de scopul călătoriei. Acestea trebuie să aibă o valabilitate de minimum 6 luni de la data intrării în acest stat. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : ""
     },
     {
