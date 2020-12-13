@@ -1313,17 +1313,17 @@
     {
         "name": "Pakistan",
         "code": "PK",
-        "documents": "",
-        "source": "",
-        "comment": "",
-        "warning" : ""
+        "documents": "Pașaport și Viză",
+        "source": "https://www.mae.ro/travel-conditions/3732",
+        "comment": "Cetățenii români care doresc să călătorească în Pakistan au nevoie de pașaport și viză. De regulă, autoritățțile locale nu eliberează vize la frontieră, așa că viza de inttrare trebuie obținută de la Ambasada Pakistanului la București. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe avertizează asupra situației de securitate instabilă, care se poate deteriora brusc. De asemenea, pericolul de răspândire a virusului polio sălbatic și/sau derivat din vaccin este crescut. Mai multe detalii pe site-ul oficial MAE."
     },
     {
         "name": "Palau",
         "code": "PW",
-        "documents": "",
-        "source": "",
-        "comment": "",
+        "documents": "Pașaport",
+        "source": "https://www.mae.ro/travel-conditions/31683",
+        "comment": "Cetățenii români care doresc să călătorească în Republica Palau au nevoie doar de pașaport, grație Acordului între Uniunea Europeană și Republica Palau privind exonerarea de obligație de a deține viză de scurtă ședere. Perioada de ședere nu poate depăși 90 de zile în cursul oricărei perioade de 180 de zile. Mai multe detatlii pe site-ul oficial MAE.",
         "warning" : ""
     },
     {
