@@ -1337,25 +1337,25 @@
     {
         "name": "Panama",
         "code": "PA",
-        "documents": "",
-        "source": "",
-        "comment": "",
-        "warning" : ""
+        "documents": "Pașaport",
+        "source": "https://www.mae.ro/travel-conditions/12400",
+        "comment": "Cetățenii români care doresc să călătorească în Republica Panama în scop turistic nu au nevoie de viză de intrare. Cetățenii români trebuie să dețină un pașaport valabil cel puțin 6 luni de la momentul intrării în țară și să facă dovada unui bilet de călătorie dus-întors. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe avertizează asupra riscului crescut de răpiri, furturi sau fraude cu cărți de credit în anumite zone. Mai multe detalii pe site-ul oficial MAE."
     },
     {
         "name": "Papua New Guinea",
         "code": "PG",
-        "documents": "",
-        "source": "",
-        "comment": "",
+        "documents": "Pașaport și Viză",
+        "source": "https://www.mae.ro/travel-conditions/29356",
+        "comment": "Cetățenii români care doresc să călătorească în Papua Noua Guinee au nevoie de viză de intrare. Cei care dețin pașapoarte diplomatice și de serviciu pot obține viza la sosire, gratuit, în timp ce deținătorii pașapoartelor simple electronice obțin viza la sosire cu achitarea unei taxe. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : ""
     },
     {
         "name": "Paraguay",
         "code": "PY",
-        "documents": "",
-        "source": "",
-        "comment": "",
+        "documents": "Pașaport",
+        "source": "https://www.mae.ro/travel-conditions/3733",
+        "comment": "Cetățenii români care doresc să călătorească în Paraguay nu au nevoie de viză de intrare. Perioada de ședere nu poate depăși 90 de zile. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : ""
     },
     {
