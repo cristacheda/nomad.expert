@@ -1361,10 +1361,10 @@
     {
         "name": "Peru",
         "code": "PE",
-        "documents": "",
-        "source": "",
-        "comment": "",
-        "warning" : ""
+        "documents": "Pașaport",
+        "source": "https://www.mae.ro/travel-conditions/3734",
+        "comment": "Cetățenii români care doresc să călătorească în Republica Peru în scop turistic nu au nevoie de viză de intrare. Perioada de ședere nu poate depăși 90 de zile pentru turiștiti care provin dintr-un stat membru al Uniunii Europene, iar pașaportul trebuie să aibă o valabilitate de minimum 6 luni de la momentul intrării pe teritoriul acestui stat - deși se recomandă ca valabilitatea să fie cât mai mare. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe avertizează asupra Legii Migrației, în vigoare acum în Peru și care poate atrage sancțiuni drastice pentru încălcarea ordinii publice sau a ordinii interne. Mai multe detalii pe site-ul oficial MAE."
     },
     {
         "name": "Philippines",
