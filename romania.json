@@ -1409,9 +1409,9 @@
     {
         "name": "Qatar",
         "code": "QA",
-        "documents": "",
-        "source": "",
-        "comment": "",
+        "documents": "Pașaport",
+        "source": "https://www.mae.ro/travel-conditions/3737",
+        "comment": "Cetățenii români care doresc să călătorească în Qatar nu au nevoie de viză, ci doar de pașaport. Perioada de ședere nu poate depăși 90 de zile, iar valabilitatea minimă a pașaportului trebuie să fie de 6 luni. Posesorii de pașapoarte temporare trebuie să obțină în continuare, în prealabil, viza de intrare. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : ""
     },
     {
@@ -1441,10 +1441,10 @@
     {
         "name": "RWANDA",
         "code": "RW",
-        "documents": "",
-        "source": "",
-        "comment": "",
-        "warning" : ""
+        "documents": "Pașaport și Viză",
+        "source": "https://www.mae.ro/travel-conditions/30842",
+        "comment": "Cetățenii români care doresc să călătorească în Rwanda au nevoie de pașaport și viză. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cu insistență evitarea oricărei călătorii în zona de frontieră cu Republica Democrată Congo din cauza acțiunilor transfrontaliere ale gherilelor armate din R.D. Congo și Burundi. Mai multe detalii pe site-ul oficial MAE."
     },
     {
         "name": "Saint Helena",
@@ -1457,9 +1457,9 @@
     {
         "name": "Saint Kitts and Nevis",
         "code": "KN",
-        "documents": "",
-        "source": "",
-        "comment": "",
+        "documents": "Pașaport",
+        "source": "https://www.mae.ro/travel-conditions/48637",
+        "comment": "Cetățenii români care doresc să călătorească în Saint Kitts și Nvis nu au nevoie de viză de intrare, ci doar de pașaport. Scopul călătoriei trebuie să fie turistic, iar perioada de ședere să nu depășească 90 de zile. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : ""
     },
     {
@@ -1489,42 +1489,42 @@
     {
         "name": "Samoa",
         "code": "WS",
-        "documents": "",
-        "source": "",
-        "comment": "",
+        "documents": "Pașaport",
+        "source": "https://www.mae.ro/travel-conditions/30372",
+        "comment": "Cetățenii români care doresc să călătorească în Samoa nu au nevoie de viză de intrare, ci doar de pașaport. Pașaportul trebuie să aibă o valabilitate de cel puțin 6 luni, perioada de ședere să nu depășească 90 de zile iar biletul de întoarcere să fie prezentat la intrarea în țară. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : ""
     },
     {
         "name": "San Marino",
         "code": "SM",
-        "documents": "",
-        "source": "",
-        "comment": "",
+        "documents": "Carte de Identitate sau Pașaport",
+        "source": "https://www.mae.ro/travel-conditions/28392",
+        "comment": "Cetățenii români care doresc să călătorească în Republica San Marino au nevoie doar de cartea de identitate sau de pașaport în curs de valabilitate. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : ""
     },
     {
         "name": "Sao Tome and Principe",
         "code": "ST",
-        "documents": "",
-        "source": "",
-        "comment": "",
+        "documents": "Pașaport",
+        "source": "https://www.mae.ro/travel-conditions/28316",
+        "comment": "Cetățenii români care doresc să călătorească în Sao Tome și Principe nu au nevoie de viză de intrare, ci doar de pașaport. Perioada de ședere nu trebuie să depășească 15 zile pentru posesorii de pașapoarte simple și 90 de zile pentru posesorii ide pașapoarte diplomatice sau de serviciu. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : ""
     },
     {
         "name": "Saudi Arabia",
         "code": "SA",
-        "documents": "",
-        "source": "",
-        "comment": "",
-        "warning" : ""
+        "documents": "Pașaport și Viză",
+        "source": "https://www.mae.ro/travel-conditions/3666",
+        "comment": "Cetățenii români care doresc să călătorească în Regatul Arabiei Saudite au nevoie de pașaport și viză. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români să părăsească imediat zonele aflate la mai puțin de 10 km de frontiera cu Yemen și să evite călătoriile în zonele aflate între 10 și 80 km față de frontieră. Mai multe detalii pe site-ul oficial MAE."
     },
     {
         "name": "Senegal",
         "code": "SN",
-        "documents": "",
-        "source": "",
-        "comment": "",
-        "warning" : ""
+        "documents": "Pașaport",
+        "source": "https://www.mae.ro/travel-conditions/3741",
+        "comment": "Cetățenii români care doresc să călătorească în Republica Senegal nu au nevoie de viză de intrare, ci doar de pașaport. Perioada de ședere nu poate depăși 90 de zile. Este important de menționat faptul că accesul aerian în Senegal rămâne limitat la deținătorii unui pașaport sau permis de ședere senegalez, accesul fiind permis și pentru 'călătorii esențiale'. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români să manifeste prudență în cazul deplasărilor nocturne sau în anumite zone pe tema situației de securitate fragilă. Mai multe detalii pe site-ul oficial MAE."
     },
     {
         "name": "Serbia",
@@ -1830,9 +1830,9 @@
     {
         "name": "United States",
         "code": "US",
-        "documents": "",
-        "source": "",
-        "comment": "",
+        "documents": "Pașaport și Viză",
+        "source": "https://www.mae.ro/travel-conditions/3749",
+        "comment": "Cetățenii români care doresc să călătorească în Statele Unite ale Americii au nevoie de pașaport și viză. Viza de intrare se poate obține de la Secția Consulară a Ambasadei SUA la București, însă este important de menționat că aceasta nu garantează intrarea pe teritoriul țării - la punctul de frontieră va avea loc un scurt interviu, în urma căruia ofițerul poliției de frontieră poate returna un cetățean care nu oferă suficiente garanții că nu se va abate de la scopul vizei sau a duratei de ședere. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : ""
     },
     {
