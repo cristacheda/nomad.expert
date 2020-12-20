@@ -1369,10 +1369,10 @@
     {
         "name": "Philippines",
         "code": "PH",
-        "documents": "",
-        "source": "",
-        "comment": "",
-        "warning" : ""
+        "documents": "Pașaport",
+        "source": "https://www.mae.ro/travel-conditions/3696",
+        "comment": "Cetățenii români care doresc să călătorească în Republica Filipine nu au nevoie de viză de intrare, ci doar de pașaport. Perioada de ședere nu poate depăși 30 de zile, valabilitatea pașaportului să depășeascî cu cel puțin 6 luni perioada șederii, iar cetățeanul trebuie să prezinte și un bilet de întoarcere în țara de origine sau pentru o altă țară de destinație. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe avertizează asupra riscului de infectare cu virusul polio sălbatic și/sau derivat din vaccin, ce necesită vaccinarea antipoliomielită a celor care doresc să călătorească în Filipine. Mai multe detalii pe site-ul oficial MAE."
     },
     {
         "name": "Pitcairn",
@@ -1542,9 +1542,9 @@
     {
         "name": "Seychelles",
         "code": "SC",
-        "documents": "",
-        "source": "",
-        "comment": "",
+        "documents": "Pașaport",
+        "source": "https://www.mae.ro/travel-conditions/12441",
+        "comment": "Cetățenii români care doresc să călătorească în Insulele Seychelles nu au nevoie de viză de intrare, ci doar de pașaport. Perioada de ședere nu poate depăși 90 de zile. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : ""
     },
     {
@@ -1558,9 +1558,9 @@
     {
         "name": "Singapore",
         "code": "SG",
-        "documents": "",
-        "source": "",
-        "comment": "",
+        "documents": "Pașaport",
+        "source": "https://www.mae.ro/travel-conditions/3743",
+        "comment": "Cetățenii români care doresc să călătorească în Singapore în scop turistic, de afaceri, în vizită sau pentru activități sportive nu au nevoie de viză de intrare. Perioada de ședere nu poate depăși 90 de zile, iar pașaportul electronic sau temporar românesc trebuie să fie valabil cel puțin 6 luni la data ieșirii din Republica Singapore. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : ""
     },
     {
@@ -1590,10 +1590,10 @@
     {
         "name": "Somalia",
         "code": "SO",
-        "documents": "",
-        "source": "",
-        "comment": "",
-        "warning" : ""
+        "documents": "Pașaport și Viză",
+        "source": "https://www.mae.ro/travel-conditions/29373",
+        "comment": "Cetățenii români care doresc să călătorească în Somalia au nevoie de pașaport și viză, deși Ministerul Afacerilor Externe recomandă ferm evitarea oricărei deplasări pe fondul situației de securitate precare. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Pericol major! Ministerul Afacerilor Externe recomandă insistent cetățenilor români să evite orice călătorie în Somalia, iar persoanelor care tranzitează zona sau se află pe teritoriul țării să părăsească imediat Somalia. Situația de securitate este puternic afectatî de acțiunile de piraterile la scară largă, dar și de luptele dintre forțele guvernamentale și grupările afiliale AL Qaeda. Mai multe detalii pe site-ul oficial MAE."
     },
     {
         "name": "South Africa",
