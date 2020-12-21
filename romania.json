@@ -1537,6 +1537,9 @@
     {
         "name": "Montenegro",
         "code": "ME",
+        "documents": "Carte de Identitate sau Pașaport",
+        "source": "https://www.mae.ro/travel-conditions/3728",
+        "comment":"Cetățenii români care doresc să călătorească în Muntenegru în scop turistic au nevoie doar de cartea de identitate sau pașaport. Perioada de ședere nu poate depăși 90 de zile, iar valabilitatea cărții de vizită trebuie să fie de minimum 30 de zile de la data planificată de plecare din Muntenegru. Mai multe detalii pe site-ul oficial MAE."
         "warning" : ""
     },
     {
@@ -1598,9 +1601,9 @@
     {
         "name": "South Africa",
         "code": "ZA",
-        "documents": "",
-        "source": "",
-        "comment": "",
+        "documents": "Pașaport și Viză",
+        "source": "https://www.mae.ro/travel-conditions/3663",
+        "comment": "Cetățenii români care doresc să călătorească în Africa de Sud au nevoie de pașaport și viză. Pașaportul trebuie să aibă o valabilitate de minimum 6 luni. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "Atenție! Pe fondul nivelului de criminalitate foarte ridicat din Africa de Sud, Ministerul Afacerilor Externe recomandă cetățenilor români să fie extrem de prudenți. Cetățenii români care doresc să călătorească în Africa de Sud sau se află deja pe teritoriul acestui stat sunt sfătuiți să se adreseze Ambasadei României la Pretoria sau Consulatului General de la Cape Town pentru a-și anunța prezența în regiune."
     },
     {
@@ -1622,25 +1625,25 @@
     {
         "name": "Sri Lanka",
         "code": "LK",
-        "documents": "",
-        "source": "",
-        "comment": "",
+        "documents": "Pașaport și Viză",
+        "source": "https://www.mae.ro/travel-conditions/3748",
+        "comment": "Cetățenii români care doresc să călătorească în Sri Lanka au nevoie de pașaport și viză. Pașaportul trebuie să aibă o valabilitate de cel puțin 6 luni de la data intrării în această țară. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : ""
     },
     {
         "name": "Sudan",
         "code": "SD",
-        "documents": "",
-        "source": "",
-        "comment": "",
+        "documents": "Pașaport și Viză",
+        "source": "https://www.mae.ro/travel-conditions/29372",
+        "comment": "Cetățenii români care doresc să călătorească în Republica Sudan au nevoie de viză de intrare, indiferent de tipul de pașaport deținut - turistic, diplomatic sau de serviciu. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : ""
     },
     {
         "name": "Suriname",
         "code": "SR",
-        "documents": "",
-        "source": "",
-        "comment": "",
+        "documents": "Pașaport și Viză",
+        "source": "https://www.mae.ro/travel-conditions/29372",
+        "comment": "Cetățenii români care doresc să călătorească în Republica Suriname au nevoie de pașaport și viză, cea din urmă fiind necesară pentru toate categoriile de pașapoarte. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : ""
     },
     {
@@ -1654,9 +1657,9 @@
     {
         "name": "Swaziland",
         "code": "SZ",
-        "documents": "",
-        "source": "",
-        "comment": "",
+        "documents": "Pașaport și Viză",
+        "source": "https://www.mae.ro/travel-conditions/12609",
+        "comment": "Cetățenii români care doresc să călătorească în Regatul Eswatini au nevoie de pașaport și viză. Cea din urmă poate fi obținută de la Înaltul Comisariat al Regatului Eswatini la Londra. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : ""
     },
     {
@@ -1670,9 +1673,9 @@
     {
         "name": "Switzerland",
         "code": "CH",
-        "documents": "",
-        "source": "",
-        "comment": "",
+        "documents": "Carte de Identitate sau Pașaport",
+        "source": "https://www.mae.ro/travel-conditions/3692",
+        "comment": "Cetățenii români care doresc să călătorească în Elveția nu au nevoie de viză, ci doar de cartea de identitate sau de pașaport în curs de valabilitate. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : ""
     },
     {
@@ -1694,18 +1697,18 @@
     {
         "name": "Tajikistan",
         "code": "TJ",
-        "documents": "",
-        "source": "",
-        "comment": "",
+        "documents": "Pașaport și Viză",
+        "source": "https://www.mae.ro/travel-conditions/28308",
+        "comment": "Cetățenii români care doresc să călătoreească în Republica Tadjikistan au nevoie de pașaport și viză de intrare. În cazul pașapoartelor simple și simple temporare, viza se poate obține atât la misiunile diplomatice ale acestui stat, cât și la frontieră sau pe aeroporturi. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : ""
     },
     {
         "name": "Tanzania, United Republic of",
         "code": "TZ",
-        "documents": "",
-        "source": "",
-        "comment": "",
-        "warning" : ""
+        "documents": "Pașaport",
+        "source": "https://www.mae.ro/travel-conditions/30675",
+        "comment": "Cetățenii români care doresc să călătorească în Republica Unită Tanzania nu au nevoie de viză, ci doar de pașaport. Perioada de ședere nu poate depăși 90 de zile, iar valabilitatea pașaportului să fie de minimum 6 luni de la data intrării în țară. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă informarea în prealabil asupra situației de securitate din zonă, având în vedere posibilitatea producerii manifestațiilor de stradă. Mai multe detalii pe site-ul oficial MAE."
     },
     {
         "name": "Thailand",
