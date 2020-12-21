@@ -1713,24 +1713,24 @@
     {
         "name": "Thailand",
         "code": "TH",
-        "documents": "",
-        "source": "",
-        "comment": "",
+        "documents": "Pașaport și Viză",
+        "source": "https://www.mae.ro/travel-conditions/3751",
+        "comment": "Cetățenii români care doresc să călătorească în Thailanda au nevoie de pașaport și viză. Începând cu 13.03.2020, autoritățile thailandeze au decis să suspende acordarea vizelor on arrival, așa că viza poate fi obținută de la Ambasada Thailandei la București. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : ""
     },
     {
         "name": "Timor-Leste",
         "code": "TL",
-        "documents": "",
-        "source": "",
-        "comment": "",
-        "warning" : ""
+        "documents": "Pașaport",
+        "source": "https://www.mae.ro/travel-conditions/29354",
+        "comment": "Cetățenii români care doresc să călătorească în Republica Democrată Timorul de Est nu au nevoie de viză, ci doar de un pașaport valabil - simplu, simplu electronic, diplomatic sau de serviciu. Perioada de ședere nu poate depăși 90 de zile. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe avertizează asupra riscului producerii de atacuri teroriste, nediscriminatorii la adresa turiștilor străini. Mai multe detalii pe site-ul oficial MAE."
     },
     {
         "name": "Togo",
         "code": "TG",
         "documents": "",
-        "source": "",
+        "source": "https://www.mae.ro/travel-alerts/18321",
         "comment": "",
         "warning" : ""
     },
@@ -1761,25 +1761,25 @@
     {
         "name": "Tunisia",
         "code": "TN",
-        "documents": "",
-        "source": "",
-        "comment": "",
-        "warning" : ""
+        "documents": "Pașaport",
+        "source": "https://www.mae.ro/travel-conditions/3752",
+        "comment": "Cetățenii români care doresc să călătorească în Republica Tunisiană nu au nevoie de viză, ci doar de pașaport. Perioada de ședere nu poate depăși 90 de zile. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români că riscul atacurilor teroriste este unul ridicat și, astfel, recomandă prudență și vigilență. Mai multe detalii pe site-ul oficial MAE."
     },
     {
         "name": "Turkey",
         "code": "TR",
-        "documents": "",
-        "source": "",
-        "comment": "",
-        "warning" : ""
+        "documents": "Pașaport",
+        "source": "https://www.mae.ro/travel-conditions/3753",
+        "comment": "Cetățenii români care doresc să călătorească în Turcia au nevoie de pașaport. Acesta trebuie să aibă o valabilitate de minimum 150 de zile la momentul intrării în Turcia și să dispună de cel puțin o filă goală. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe avertizează asupra situației de securitate din Turcia și a riscurilor de natură teroristă asociate. Mai multe detalii pe site-ul oficial MAE."
     },
     {
         "name": "Turkmenistan",
         "code": "TM",
-        "documents": "",
-        "source": "",
-        "comment": "",
+        "documents": "Pașaport și Viză",
+        "source": "https://www.mae.ro/travel-conditions/3754",
+        "comment": "Cetățenii români care doresc să călătorească în Turkmenistan au nevoie de pașaport și viză, chiar și pentru tranzitarea țării. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : ""
     },
     {
@@ -1793,18 +1793,18 @@
     {
         "name": "Tuvalu",
         "code": "TV",
-        "documents": "",
-        "source": "",
-        "comment": "",
+        "documents": "Pașaport",
+        "source": "https://www.mae.ro/travel-conditions/30374",
+        "comment": "Cetățenii români care doresc să călătorească în Tuvalu nu au nevoie de viză, ci doar de pașaport conform Acordului încheiat între Uniunea Europeană și Tuvalu privind scutirea de vize de scurtă ședere. Ca atare, perioada de ședere nu poate depăși 90 de zile. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : ""
     },
     {
         "name": "Uganda",
         "code": "UG",
-        "documents": "",
-        "source": "",
-        "comment": "",
-        "warning" : ""
+        "documents": "Pașaport și Viză",
+        "source": "https://www.mae.ro/travel-conditions/30676",
+        "comment": "Cetățenii români care doresc să călătorească în Uganda au nevoie de pașaport și viză, cea din urmă fiind obținută și online. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români să se informeze în prealabil asupra situației de securitate din zonă. Mai multe detalii pe site-ul oficial MAE."
     },
     {
         "name": "Ukraine",
@@ -1817,17 +1817,17 @@
     {
         "name": "United Arab Emirates",
         "code": "AE",
-        "documents": "",
-        "source": "",
-        "comment": "",
+        "documents": "Pașaport",
+        "source": "https://www.mae.ro/travel-conditions/3693",
+        "comment": "Cetățenii români care doresc să călătorească în Emiratele Arabe Unite nu au nevoie de viză, ci doar de pașaport. Acesta trebuie să aibă o valabilitate de minimum 6 luni de la data intrării pe teritoriul statului. Perioada de ședere nu poate depăși 90 de zile. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : ""
     },
     {
         "name": "United Kingdom",
         "code": "GB",
-        "documents": "",
-        "source": "",
-        "comment": "",
+        "documents": "Carte de Identitate sau Pașaport",
+        "source": "https://www.mae.ro/travel-conditions/3725",
+        "comment": "Cetățenii români care doresc să călătorească în Marea Britanie au nevoie de cartea de identitate sau pașaport. Perioada de ședere nu poate depăși 90 de zile. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : ""
     },
     {
@@ -1849,41 +1849,41 @@
     {
         "name": "Uruguay",
         "code": "UY",
-        "documents": "",
-        "source": "",
-        "comment": "",
+        "documents": "Pașaport",
+        "source": "https://www.mae.ro/travel-conditions/3757",
+        "comment": "Cetățenii români care doresc să călătorească în Uruguay nu au nevoie de viză, ci doar de pașaport. Acesta trebuie să aibă o valabilitate de cel puțin 6 luni de la data intrării pe teritoriul acestei țări. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : ""
     },
     {
         "name": "Uzbekistan",
         "code": "UZ",
-        "documents": "",
-        "source": "",
-        "comment": "",
+        "documents": "Pașaport",
+        "source": "https://www.mae.ro/travel-conditions/3758",
+        "comment": "Cetățenii români care doresc să călătorească în Uzbekistan nu au nevoie de viză, ci doar de pașaport. Pașapoartele turistice trebuie să aibă o valabilitate de cel puțin 3 luni anterior datei de intrare în țară. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : ""
     },
     {
         "name": "Vanuatu",
         "code": "VU",
-        "documents": "",
-        "source": "",
-        "comment": "",
+        "documents": "Pașport",
+        "source": "https://www.mae.ro/travel-conditions/30373",
+        "comment": "Cetățenii români care doresc să călătorească în Vanuatu nu au nevoie de viză, ci doar de pașaport. Aceștia trebuie, de asemenea, să prezinte dovezi referitoare la cazare, un bilet de întoarcere și bani pentru subzistență. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : ""
     },
     {
         "name": "Venezuela",
         "code": "VE",
-        "documents": "",
-        "source": "",
-        "comment": "",
-        "warning" : ""
+        "documents": "Pașaport",
+        "source": "https://www.mae.ro/travel-conditions/3759",
+        "comment": "Cetățenii români care doresc să călătorească în Venezuela nu au nevoie de viză, ci doar de pașaport. Perioada de ședere nu poate depăși 90 de zile. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români să manifeste anteție sporită în timpul deplasărilor și să evite aglomerările mari de oameni. Mai multe detalii pe site-ul oficial MAE."
     },
     {
         "name": "Viet Nam",
         "code": "VN",
-        "documents": "",
-        "source": "",
-        "comment": "",
+        "documents": "Pașaport și Viză",
+        "source": "https://www.mae.ro/travel-conditions/3760",
+        "comment": "Cetățenii români care doresc să călătorească în Republica Socialistă Vietnam au nevoie de pașaport și viză. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : ""
     },
     {
@@ -1921,21 +1921,25 @@
     {
         "name": "Yemen",
         "code": "YE",
-        "documents": "",
-        "source": "",
-        "comment": "",
-        "warning" : ""
+        "documents": "Pașaport și Viză",
+        "source": "https://www.mae.ro/travel-conditions/29174",
+        "comment": "Cetățenii români care doresc să călătorească în Republica Yemen au nevoie de pașaport și viză, deși Ministerul Afacerilor Externe receomandă ferm evitarea oricăror deplasări pe fondul deteriorării situației de securitate. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Pericol major! Ministerul Afacerilor Externe recomandă cu insistență evitarea deplasărilor în Yemen, iar celor care se mai află la fața locului să părăsească zona de urgență din cauza situației grave de securitate. Mai multe detalii pe site-ul oficial MAE."
     },
     {
         "name": "Zambia",
         "code": "ZM",
-        "documents": "",
-        "source": "",
-        "comment": "",
+        "documents": "Pașaport",
+        "source": "https://www.mae.ro/travel-conditions/12616",
+        "comment": "Cetățenii români care doresc să călătorească în Republica Zambia nu au nevoie de viză, ci doar de pașaport. Scopul călătoriei trebuie să fie turistic sau de afaceri, iar perioada de ședere nu poate depăși 90 de zile. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : ""
     },
     {
         "name": "Zimbabwe",
         "code": "ZW"
+        "documents": "Pașaport și Viză",
+        "source": "https://www.mae.ro/travel-conditions/3761",
+        "comment": "Cetățenii români care doresc să călătorească în Republica Zimbabwe au nevoie de pașaport și viză. Cea din urmă poate fi obținută de la orice punct de intrare în Zimbabwe, terestru sau pe aeroport. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Alertă de călătorie! Pe fondul situației fragile de securitate, Ministerul Afacerilor Externe recomandă atenție sporită în timpul deplasărilor. Mai multe detalii pe site-ul oficial MAE."
     }
 ]
