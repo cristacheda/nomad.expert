@@ -113,10 +113,9 @@ destinationCountrySelector.change(function() {
 });
 
 destinationCountrySelector.select2({
-  theme: "classic",
-  language: "es"
+    theme: "classic",
 });
+
 originCountrySelector.select2({
-  theme: "classic",
-  language: "es"
+    theme: "classic",
 });
