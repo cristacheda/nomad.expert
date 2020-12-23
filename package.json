@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "i18n-iso-countries": "^6.4.0"
+  }
+}
