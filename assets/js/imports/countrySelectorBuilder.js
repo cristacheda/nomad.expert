@@ -3,7 +3,7 @@ var originCountrySelector = $('#origin-country-selector'),
     result,
     fileName,
     body = $('body'),
-    githubDbFolder = 'https://github.com/cristacheda/nomad.expert/tree/gh-pages/data/documents/',
+    githubDbFolder = 'http://nomad.expert/data/documents/',
     availableCountries = [
                             {
                                 "code": "RO",
@@ -26,7 +26,7 @@ buildOriginCountrySelector(availableCountries);
 
 originCountrySelector.change(function () {
     fileName = $(this).val();
-    $.getJSON('https://cristacheda.github.io/nomad.expert' +
+    $.getJSON('http://nomad.expert' +
             '/data/documents/' + fileName,
             function (json) {
         result = json;
