@@ -1,5 +1,6 @@
 var countries = require("i18n-iso-countries");
 countries.registerLocale(require("i18n-iso-countries/langs/ro.json"));
+const {flag} = require('country-emoji');
 
 var originCountrySelector = $('#origin-country-selector'),
     destinationCountrySelector = $('#destination-country-selector'),
@@ -11,7 +12,7 @@ var originCountrySelector = $('#origin-country-selector'),
                             {
                                 "code": "RO",
                                 "name": "Romania",
-                                "file": "romania.json"
+                                "file": "romania.json",
                             }
                         ];
 
@@ -27,9 +28,10 @@ function buildOriginCountrySelector(countries) {
 
 buildOriginCountrySelector(availableCountries);
 
+// originCountrySelector.find('option')[1].attr('selected','selected');
+
 originCountrySelector.change(function () {
     fileName = $(this).val();
-    console.log(fileName);
     if (fileName) {
         $.getJSON('/data/documents/' + fileName, function (json) {
             result = json;
@@ -70,7 +72,7 @@ function buildResults(country) {
         source = $('#source'),
         result = $('#result');
     
-    info.html(`Pentru a călători în <span>${getFlags(country.code)} ${country.translatedName}</span> ai nevoie de <span>${country.documents}</span>.`);
+    info.html(`Pentru a călători în <span>${flag(country.code)} ${country.translatedName}</span> ai nevoie de <span>${country.documents}</span>.`);
     comment.text(country.comment);
     if (country.warning) {
         warning.show();
