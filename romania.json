@@ -8,7 +8,9 @@
         "warning" : "Alertă de călătorie! Pe fondul evoluției stării de insecuritate din Afganistan, Ministerul Afacerilor Externe recomandă cetățenilor români să evite călătoriile în această țară! Având în vedere riscul crescut de atentate teroriste și răpiri, MAE recomandă cetățenilor români care sunt nevoiți să se deplaseze în Afganistan să fie extrem de prudenți și să își anunțe prezența în regiune adresându-se Ambasadei României la Kabul.",
         "misiune" : "Misiune diplomatică suspendată. Pentru urgențe te poți adresa Ambasadei României la Islamabad pe islamabad@mae.ro",
         "affiliation" : "EU, NATO",
-        "emergency" : ""
+        "emergency" : "",
+        "funfact" : "",
+        "vaccine" : ""
     },
     {
         "name": "Albania",
