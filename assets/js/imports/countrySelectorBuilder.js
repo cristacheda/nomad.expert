@@ -70,7 +70,7 @@ function buildResults(country) {
         source = $('#source'),
         result = $('#result');
     
-    info.text(`Pentru a călători în ${getFlags(country.code)} ${country.translatedName} ai nevoie de ${country.documents}.`);
+    info.html(`Pentru a călători în <span>${getFlags(country.code)} ${country.translatedName}</span> ai nevoie de <span>${country.documents}</span>.`);
     comment.text(country.comment);
     if (country.warning) {
         warning.show();

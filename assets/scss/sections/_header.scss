@@ -2,7 +2,7 @@
     margin: 0;
     font-weight: $light;
     a {
-        color: inherit;
+        color: $yellow;
     }
 }
 
@@ -11,7 +11,7 @@ header {
     // top: 0;
     // left: 0;
     // width: 100%;
-    background-color: #fff;
+    background-color: $purple;
     padding-top: 10px;
     padding-bottom: 10px;
     border-bottom: 1px solid rgb(235, 235, 235);
@@ -20,6 +20,11 @@ header {
             display: flex;
             flex-direction: row;
             justify-content: space-between;
+        }
+        @media (min-width: 768px) {
+            #toggle-menu {
+                display: none;
+            }
         }
     }
     .navigation-column {
@@ -48,6 +53,9 @@ header {
             margin-right: 30px;
             &:last-of-type {
                 margin-right: 0;
+            }
+            a {
+                color: #fff;
             }
         }
         @media (max-width: 768px) {

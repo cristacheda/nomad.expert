@@ -2268,7 +2268,7 @@ p {
 
 a {
   text-decoration: none;
-  color: royalblue;
+  color: #411c60;
   transition: all 0.2s ease-in-out;
 }
 a:hover {
@@ -2664,14 +2664,14 @@ select[disabled] {
 input[type=submit] {
   padding: 12px 20px;
   color: #fff;
-  background-color: royalblue;
+  background-color: #411c60;
   border-color: transparent;
   border-radius: 0px;
   cursor: pointer;
 }
 input[type=submit]:hover {
   color: #fff;
-  background-color: #214cce;
+  background-color: #261039;
 }
 
 input:not([type=radio]):not([type=checkbox]):not([type=submit]):not([type=button]):not([type=image]):not([type=file]),
@@ -2720,7 +2720,7 @@ textarea {
 }
 
 .btn.main {
-  background-color: royalblue;
+  background-color: #411c60;
 }
 
 .btn.secondary {
@@ -2732,11 +2732,11 @@ textarea {
   font-weight: 300;
 }
 #logo a {
-  color: inherit;
+  color: #ffd100;
 }
 
 header {
-  background-color: #fff;
+  background-color: #411c60;
   padding-top: 10px;
   padding-bottom: 10px;
   border-bottom: 1px solid #ebebeb;
@@ -2746,6 +2746,11 @@ header {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+  }
+}
+@media (min-width: 768px) {
+  header .branding-column #toggle-menu {
+    display: none;
   }
 }
 header .navigation-column {
@@ -2775,6 +2780,9 @@ header nav li {
 }
 header nav li:last-of-type {
   margin-right: 0;
+}
+header nav li a {
+  color: #fff;
 }
 @media (max-width: 768px) {
   header nav {
@@ -2872,6 +2880,12 @@ footer #copy {
 #form-container #result #info {
   text-align: center;
   font-size: 22px;
+}
+#form-container #result #info span {
+  background-color: #ffd100;
+  border-radius: 4px;
+  padding: 0 4px;
+  color: #000;
 }
 #form-container #result #comment {
   margin: 1em 0;
