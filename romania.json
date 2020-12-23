@@ -6,7 +6,8 @@
         "source": "https://www.mae.ro/travel-conditions/10341",
         "comment": "Accesul pe teritoriul Afganistanului se face pe baza documentului de călătorie și a vizei. Viza turistică este valabilă o lună și se acordă cu o singură intrare. Aceasta se poate obține de la Ambasada Afganistanului în Polonia. Având în vedere caracterul instabil al țării din punct de vedere al stării de insecuritate, pe fondul atentatelor teroriste, Ministerul Afacerilor Externe recomandă cetățenilor români să evite călătoriile în această țară.",
         "warning" : "Alertă de călătorie! Pe fondul evoluției stării de insecuritate din Afganistan, Ministerul Afacerilor Externe recomandă cetățenilor români să evite călătoriile în această țară! Având în vedere riscul crescut de atentate teroriste și răpiri, MAE recomandă cetățenilor români care sunt nevoiți să se deplaseze în Afganistan să fie extrem de prudenți și să își anunțe prezența în regiune adresându-se Ambasadei României la Kabul.",
-        "misiune" : "Misiune diplomatică suspendată. Pentru urgențe te poți adresa Ambasadei României la Islamabad pe islamabad@mae.ro"
+        "misiune" : "Misiune diplomatică suspendată. Pentru urgențe te poți adresa Ambasadei României la Islamabad pe islamabad@mae.ro",
+        "affiliation" : "EU, NATO"
     },
     {
         "name": "Albania",
@@ -15,7 +16,8 @@
         "source": "https://www.mae.ro/travel-conditions/3664",
         "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Albania, ci doar de cartea de identitate sau de pașaport - a căror valabilitate trebuie să fie de minimum 3 luni de la data intrării. Șederea nu trebuie să fie mai lungă de 90 de zile, într-un interval de 6 luni. Pentru șederile care depășesc 90 de zile, este necesară obținerea unui permis de ședere, eliberat de Ministerul Albanez al Afacerilor Interne. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "",
-        "misiune" : "Misiune diplomatică activă prin Ambasada României la Tirana."
+        "misiune" : "Misiune diplomatică activă prin Ambasada României la Tirana.",
+        "affiliation" : ""
     },
     {
         "name": "Algeria",
