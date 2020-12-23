@@ -114,10 +114,10 @@ destinationCountrySelector.change(function() {
     buildEditLink(fileName);
 });
 
-destinationCountrySelector.select2({
-    theme: "classic",
-});
+// destinationCountrySelector.select2({
+//     theme: "classic",
+// });
 
-originCountrySelector.select2({
-    theme: "classic",
-});
+// originCountrySelector.select2({
+//     theme: "classic",
+// });
