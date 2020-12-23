@@ -29,7 +29,7 @@ originCountrySelector.change(function () {
     $.getJSON('/data/documents/' + fileName,
             function (json) {
         result = json;
-        console.log(json);
+        buildDestinationCountrySelector(result);
     })  
 });
 

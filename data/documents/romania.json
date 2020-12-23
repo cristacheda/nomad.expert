@@ -1553,7 +1553,7 @@
         "code": "ME",
         "documents": "Carte de Identitate sau Pașaport",
         "source": "https://www.mae.ro/travel-conditions/3728",
-        "comment":"Cetățenii români care doresc să călătorească în Muntenegru în scop turistic au nevoie doar de cartea de identitate sau pașaport. Perioada de ședere nu poate depăși 90 de zile, iar valabilitatea cărții de vizită trebuie să fie de minimum 30 de zile de la data planificată de plecare din Muntenegru. Mai multe detalii pe site-ul oficial MAE."
+        "comment":"Cetățenii români care doresc să călătorească în Muntenegru în scop turistic au nevoie doar de cartea de identitate sau pașaport. Perioada de ședere nu poate depăși 90 de zile, iar valabilitatea cărții de vizită trebuie să fie de minimum 30 de zile de la data planificată de plecare din Muntenegru. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : ""
     },
     {
@@ -1950,7 +1950,7 @@
     },
     {
         "name": "Zimbabwe",
-        "code": "ZW"
+        "code": "ZW",
         "documents": "Pașaport și Viză",
         "source": "https://www.mae.ro/travel-conditions/3761",
         "comment": "Cetățenii români care doresc să călătorească în Republica Zimbabwe au nevoie de pașaport și viză. Cea din urmă poate fi obținută de la orice punct de intrare în Zimbabwe, terestru sau pe aeroport. Mai multe detalii pe site-ul oficial MAE.",
