@@ -1,6 +1,5 @@
 var countries = require("i18n-iso-countries");
 countries.registerLocale(require("i18n-iso-countries/langs/ro.json"));
-const {flag} = require('country-emoji');
 
 var originCountrySelector = $('#origin-country-selector'),
     destinationCountrySelector = $('#destination-country-selector'),
@@ -53,7 +52,9 @@ function buildDestinationCountrySelector(json) {
     destinationCountrySelector.removeAttr('disabled');
     for (let index = 0; index < json.length; index++) {
         var country = json[index];
+
         country.translatedName = countries.getName(country.code, "ro");
+        
         if ( country.documents ) {
             destinationCountrySelector.append(`<option value="${country.code}">${country.translatedName}</option>`);
         }
@@ -66,23 +67,76 @@ function findCountry(countryCode, result) {
 }
 
 function buildResults(country) {
-    var info = $('#info'),
-        comment = $('#comment'),
-        warning = $('#warning'),
-        source = $('#source'),
-        result = $('#result');
-    
-    info.html(`Pentru a călători în <span>${flag(country.code)} ${country.translatedName}</span> ai nevoie de <span>${country.documents}</span>.`);
-    comment.text(country.comment);
-    if (country.warning) {
-        warning.show();
-        warning.text(country.warning);
-    } else {
-        warning.hide();
+
+    var documentclass = '';
+    if ( country.documents.includes("Carte de Identitate") ) {
+        documentclass = "idcard";
     }
-    source.html(`<a target="_blank" rel="noopener" href="${country.source}">Sursa informațiilor</a>`);
+    if ( country.documents == "Pașaport" ) {
+        documentclass = "passport";
+    }
+    if ( country.documents == "Pașaport și Viză" ) {
+        documentclass = "visa";
+    }
+
+    var result = $('#result');
+    result.empty();
+
+    if ( country.documents ) {
+        result.append( `<p id="info">Pentru a călători în <span class="country-name"><img class="flag" src="/assets/img/flags/${country.code}.svg"> ${country.translatedName}</span> ai nevoie de <span class="documents ${documentclass}">${country.documents}</span>.</p>` );
+    }
+
+    if ( country.emergency ) {
+        result.append( `<p id="emergency" class="blockquote"><strong>⚠️ Atenție!</strong> ${country.emergency}</p>` );
+    }
+
+    if ( country.warning ) {
+        result.append( `<p id="warning" class="blockquote">${country.warning}</p>` );
+    }
+
+    if ( country.comment ) {
+        result.append( `<p id="comment" class="blockquote">${country.comment}</p>` );
+    }
+
+    if ( country.misiune ) {
+        result.append( `<p id="mission" class="blockquote">${country.misiune}</p>` );
+    }
+
+    if ( country.vaccine ) {
+        result.append( `<p id="vaccine">${country.vaccine}</p>` );
+    }
+
+    if ( country.affiliation ) {
+        result.append( `<p id="affiliation">Afiliere: ${country.affiliation}</p>` );
+    }
+
+    if ( country.source ) {
+        result.append( `<p id="source"><a target="_blank" rel="noopener" href="${country.source}">Sursa informațiilor</a></p>` );
+
+        $.getJSON('https://restcountries.eu/rest/v2/alpha/' + country.code + '?fields=capital;population;timezones;currencies;languages', function (json) {
+            $('#source').before('<ul id="facts"></ul>');
+            var facts = $('#facts');
+            if (json) {
+                // console.log(json);
+                facts.append(`<li class="first"><strong>Fun facts!</strong></li>`);
+                facts.append(`<li>Capitala: ${json.capital}</li>`);
+                facts.append(`<li>Populație: ${json.population.toLocaleString()}</li>`);
+                facts.append(`<li>Fus orar principal: ${json.timezones[0]}</li>`);
+                facts.append(`<li>Moneda principală: ${json.currencies[0].name}</li>`);
+                facts.append(`<li>Limba principală: ${json.languages[0].name}</li>`);
+                if ( country.funfact ) {
+                    facts.append(`<li>${country.funfact}</li>`);
+                }
+            }
+        });
+    }
+
+    if ( fileName && githubDbFolder ) {
+        result.append( `<p id="edit"><a target="_blank" rel="noopener" href="${githubDbFolder}/${fileName}"><i class="fal fa-edit"></i> Corectează informațiile</a></p>` );
+    }
+
     result.show();
-    body.toggleClass('results-visible');
+    // body.toggleClass('results-visible');
 }
 
 function hideResults() {
@@ -99,10 +153,6 @@ function hideResults() {
     source.empty();
 }
 
-function buildEditLink(fileName) {
-    $('#edit').html(`<a target="_blank" rel="noopener" href="${githubDbFolder}/${fileName}"><i class="fal fa-edit"></i> Corectează informațiile</a>`);
-}
-
 destinationCountrySelector.change(function() {
     var countryCode = $(this).val();
     if (countryCode) {
@@ -111,13 +161,4 @@ destinationCountrySelector.change(function() {
     } else {
         hideResults();
     }
-    buildEditLink(fileName);
 });
-
-// destinationCountrySelector.select2({
-//     theme: "classic",
-// });
-
-// originCountrySelector.select2({
-//     theme: "classic",
-// });

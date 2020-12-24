@@ -1,6 +1,5 @@
 {
   "dependencies": {
-    "country-emoji": "^1.5.4",
     "i18n-iso-countries": "^6.4.0"
   }
 }
