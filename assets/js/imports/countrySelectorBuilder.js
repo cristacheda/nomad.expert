@@ -83,7 +83,7 @@ function buildResults(country) {
     result.empty();
 
     if ( country.documents ) {
-        result.append( `<p id="info">Pentru a călători în <span class="country-name"><img class="flag" src="/assets/img/flags/${country.code}.svg"> ${country.translatedName}</span> ai nevoie de <span class="documents ${documentclass}">${country.documents}</span>.</p>` );
+        result.append( `<p id="info">Pentru a călători în <span class="country-name"><img class="flag" src="/assets/img/country-flags/${country.code}.svg"> ${country.translatedName}</span> ai nevoie de <span class="documents ${documentclass}">${country.documents}</span>.</p>` );
     }
 
     if ( country.emergency ) {
