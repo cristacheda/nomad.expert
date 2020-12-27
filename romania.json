@@ -7,10 +7,10 @@
         "comment": "Accesul pe teritoriul Afganistanului se face pe baza documentului de călătorie și a vizei. Viza turistică este valabilă o lună și se acordă cu o singură intrare. Aceasta se poate obține de la Ambasada Afganistanului în Polonia. Având în vedere caracterul instabil al țării din punct de vedere al stării de insecuritate, pe fondul atentatelor teroriste, Ministerul Afacerilor Externe recomandă cetățenilor români să evite călătoriile în această țară.",
         "warning" : "Alertă de călătorie! Pe fondul evoluției stării de insecuritate din Afganistan, Ministerul Afacerilor Externe recomandă cetățenilor români să evite călătoriile în această țară! Având în vedere riscul crescut de atentate teroriste și răpiri, MAE recomandă cetățenilor români care sunt nevoiți să se deplaseze în Afganistan să fie extrem de prudenți și să își anunțe prezența în regiune adresându-se Ambasadei României la Kabul.",
         "misiune" : "Misiune diplomatică suspendată. Pentru urgențe te poți adresa Ambasadei României la Islamabad pe islamabad@mae.ro",
-        "affiliation" : "EU, NATO",
+        "affiliation" : "ONU",
         "emergency" : "",
         "funfact" : "",
-        "vaccine" : ""
+        "vaccine" : "Ministerul Afacerilor Externe atrage atenția asupra necesării vaccinării antipoliomelită pentru călătoriile în Afganistan. Mai multe detalii pe site-ul oficial MAE."
     },
     {
         "name": "Albania",
@@ -20,7 +20,7 @@
         "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Albania, ci doar de cartea de identitate sau de pașaport - a căror valabilitate trebuie să fie de minimum 3 luni de la data intrării. Șederea nu trebuie să fie mai lungă de 90 de zile, într-un interval de 6 luni. Pentru șederile care depășesc 90 de zile, este necesară obținerea unui permis de ședere, eliberat de Ministerul Albanez al Afacerilor Interne. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Tirana.",
-        "affiliation" : ""
+        "affiliation" : "NATO, ONU"
     },
     {
         "name": "Algeria",
@@ -29,7 +29,8 @@
         "source": "https://www.mae.ro/travel-conditions/3665",
         "comment": "În Republica Algeriană Democratică și Populară, viza de intrare este obligatorie pentru cetățenii români posesori de pașapoarte simple și pașapoarte de serviciu. Vizele nu se eliberează la frontieră, ci doar de la misiunile algeriene acreditate în străinătate și se acordă cu o valabilitate de 1 lună, 3 luni, 6 luni, 1 an sau 2 ani. În România, viza se poate obține de la Secția Consulară a Ambasadei Algeriei la București. Perioada de ședere în Algeria nu poate depăși 90 de zile. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă, pentru siguranța cetățenilor români, evitarea deplasărilor în cartierele populare din marile orașe și deplasarea cu mașina pe timpul nopții în afara localităților. Dacă sunteți nevoit să vă deplasați în Algeria, MAE recomandă anunțarea prezenței în regiune adresându-vă Ambasadei Romîniei la Alger.",
-        "misiune" : "Misiune diplomatică activă prin Ambasada României la Alger."
+        "misiune" : "Misiune diplomatică activă prin Ambasada României la Alger.",
+        "affiliation" : "ONU"
     },
     {
         "name": "American Samoa",
@@ -38,7 +39,8 @@
         "source": "https://www.mae.ro/travel-conditions/30372",
         "comment": "Accesul în țară se face pe baza unui pașaport valabil cel puțin 6 luni, un bilet de întoarcere, precum și o viză de intrare pentru sejururi mai mici de 90 de zile.",
         "warning" : "",
-        "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Canberra, Australia."
+        "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Canberra, Australia.",
+        "affiliation" : "ONU"
     },
     {
         "name": "AndorrA",
@@ -47,7 +49,8 @@
         "source": "https://www.mae.ro/travel-conditions/28306",
         "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Andorra, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate. Aceștia au dreptul legal de ședere pentru o perioadă de 90 de zile într-un interval de 6 luni.",
         "warning" : "",
-        "misiune" : "Misiune diplomatică asigurată prin Ambasada Andorrei la Viena, Austria."
+        "misiune" : "Misiune diplomatică asigurată prin Ambasada Andorrei la Viena, Austria.",
+        "affiliation" : "ONU"
     },
     {
         "name": "Angola",
