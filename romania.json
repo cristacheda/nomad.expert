@@ -333,6 +333,7 @@
         "source": "https://www.mae.ro/travel-conditions/30844",
         "comment": "Cetățenii români au nevoie de pașaport și viză pentru a călători în Burundi. Viza se poate obține atât la aterizare, direct pe aeroportul din Bujumbura, cât și la misiunile diplomatice burundeze. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români să evite călătoriile în Burundi pe fondul instabilității politice, a numeroaselor conflicte violente între forțele de securitate și rebeli, precum și a infracționalității crescute. De asemenea, MAE recomandă să nu vă deplasați în zonele de frontieră cu Republica Democrată Congo. Mai multe detalii pe site-ul oficial MAE.",
+        "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Nairobi, Kenya.",
         "affiliation" : "ONU"
     },
     {
@@ -342,6 +343,7 @@
         "source": "https://www.mae.ro/travel-conditions/31518",
         "comment": "Cetățenii români au nevoie de pașaport și viză pentru a călători în Regatul Cambodgiei. Poți aplica pentru o viză turistică online, cu o singură intrare, pentru o perioadă de maximum 30 de zile. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români să fie precauți atunci când călătoresc în Cambodgia și să evite apropierea de templul Preah Vihear, la frontiera cu Thailanda, pe fondul riscului declanșării de acte de violență. Mai multe detalii pe site-ul oficial MAE.",
+        "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Hanoi, Vietnam.",
         "affiliation" : "ONU"
     },
     {
@@ -351,6 +353,7 @@
         "source": "https://www.mae.ro/travel-conditions/49990",
         "comment": "Cetățenii români care doresc să călătorească în Camerun au nevoie de pașaport și viză. Viza de intrare poate fi obținută de la misiunile diplomatice cameruneze din Berlin și Moscova. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români să fie extrem de vigilenți. Situația de securitate din regiune este puternic afectată de acțiunile teroriste violente practicate de către gruparea teroristtă Boko Haram, iar riscul infectării cu virusul polio sălbatic este și el ridicat. Mai multe detalii pe site-ul oficial MAE.",
+        "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Abuja, Nigeria",
         "affiliation" : "ONU"
     },
     {
@@ -360,6 +363,7 @@
         "source": "https://www.mae.ro/travel-conditions/3678",
         "comment": "Cetățenii români nu au nevoie de viză de intrare pentru a călători în Canada, ci doar de pașaport simplu electronic. Posesorii de pașaport simplu nebiometric sau pașaport temporar au nevoie de viză de intrare. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "",
+        "misiune" : "Misiune diplomatică activă prin Ambasada României la Ottawa.",
         "affiliation" : "NATO, ONU"
     },
     {
@@ -369,6 +373,7 @@
         "source": "https://www.mae.ro/travel-conditions/29355",
         "comment": "Cetățenii români nu au nevoie de viză de intrare în Republica Capului Verde, ci doar de pașaport simplu electronic. Pașaportul trebuie să fie valabil pentru cel puțin încă 6 luni de la data intrării pe teritoriul acestui stat, iar perioada de ședere să nu depășească 30 de zile. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "",
+        "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Dakar, Senegal.",
         "affiliation" : "ONU"
     },
     {
@@ -386,6 +391,7 @@
         "source": "https://www.mae.ro/travel-conditions/29374",
         "comment": "Cetățenii români au nevoie de pașaport și viză de intrare pentru a călători în Repulica Centrafricană. Se va evitat utilizarea pașaportului temporar, iar toate tipurile de documente de călătorie ttrebuie să aibă o valabilitate de minimum 6 luni. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români evitarea deplasărilor în Republica Centrafricană pe fondul pericolului de jafuri armate, tâlhării, violuri și răpiri, precum și de atentate teroriste. Mai multe detalii pe site-ul oficial MAE.",
+        "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Khartoum, Republica Sudan.",
         "affiliation" : "ONU"
     },
     {
@@ -403,6 +409,7 @@
         "source": "https://www.mae.ro/travel-conditions/3680",
         "comment": "Cetățenii români nu au nevoie de viză de intrare pentru a călători în Chile, ci doar de pașaport. Extrem de important, perioada de ședere este de maximum 90 de zile și scutirea de vize este valabilă doar pentru scopuri turistice, așa că cetățenii români care nu pot demonstra cu documente justificative acest fapt (rezervare hotel, sume necesare în cash sau ucarte de credit) pot fi retrimiși în țara de origine/reședință. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "",
+        "misiune" : "Misiune diplomatică activă prin Ambasada României la Santiago de Chile.",
         "affiliation" : "ONU"
     },
     {
@@ -412,6 +419,7 @@
         "source": "https://www.mae.ro/travel-conditions/3681",
         "comment": "Cetățenii români au nevoie de pașaport și viză pentru a călători în China. Viza de intrare se obține de la Centrul de Vize pentru China din București. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "Alertă de călătorie! Există pericolul răspândirii virusului polio sălbatic și/sau derivat din vaccin. Mai multe detalii pe site-ul oficial MAE.",
+        "misiune" : "Misiune diplomatică activă prin Ambasada României la Beijing.",
         "affiliation" : "ONU"
     },
     {
@@ -437,6 +445,7 @@
         "source": "https://www.mae.ro/travel-conditions/3684",
         "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Columbia, ci doar de pașaport. Pașaportul trebuie să fie valabil cel puțin 6 luni de la momentul intrării, scopul călătoriei să fie turistic, iar cetățenii români s ă facă dovada unui bilet de călătorie dus-întors. Perioada maximă de ședere este de 90 de zile. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe informează cetățenii români de rapoarte de febră Dengue. Mai multe detalii pe site-ul oficial MAE.",
+        "misiune" : "Misiune diplomatică activă prin Ambasada României la Bogota.",
         "affiliation" : "ONU"
     },
     {
@@ -446,6 +455,7 @@
         "source": "https://www.mae.ro/travel-conditions/12234",
         "comment": "Cetățenii români au nevoie de pașaport și viză pentru a călători în Insulele Comore. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "",
+        "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Pretoria, Republica Africa de Sud.",
         "affiliation" : "ONU"
     },
     {
