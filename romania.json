@@ -465,6 +465,7 @@
         "source": "https://www.mae.ro/travel-conditions/30130",
         "comment": "Cetățenii români posesori de pașaport simplu au nevoie de viză de intrare - excepție fac posesorii de pașapoarte de serviciu, oficiale și diplomatice. Perioada de ședere nu poate depăși 90 de zile. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "",
+        "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Luanda, Angola.",
         "affiliation" : "ONU"
     },
     {
@@ -474,6 +475,7 @@
         "source": "https://www.mae.ro/travel-conditions/30131",
         "comment": "Cetățenii români au nevoie de pașaport și viză pentru a călători în Republica Democrată Congo. Perioada de ședere nu poate depăși 90 de zile. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "Alertă de călătorie!! MMinisterul Afacerilor Externe informează cetățenii români asupra riscului de infectare cu Ebola din cauza epidemiei prezente în Republica Democrată Congo. Mai multe detalii pe site-ul oficial MAE.",
+        "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Luanda, Angola.",
         "affiliation" : "ONU"
     },
     {
@@ -491,6 +493,7 @@
         "source": "https://www.mae.ro/travel-conditions/3687",
         "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Republica Costa Rica, ci doar de pașaport. Perioada maximă de ședere este de 90 de zile, scopul călătoriei trebuie să fie turistic, iar la sosirea la punctul de trecere a frontierei trebuie să prezinți documentele care demonstrează scopul vizitei, precum și mijloace financiare suficiente pentru întreținerea pe perioada șederii. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români vigilență sporită pe fondul jafurilor și al infracțiunilor violente în locurile publice la adresa turiștilor. Mai multe detalii pe site-ul oficial MAE.",
+        "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Ciudad de Mexico, Mexic.",
         "affiliation" : "ONU"
     },
     {
@@ -500,6 +503,7 @@
         "source": "https://www.mae.ro/travel-conditions/3683",
         "comment": "Cetățenii români au nevoie de pașaport și viză pentru a călători în Coasta de Fildeș. Viza se acordă de către misiunile diplomatice și oficiile Consulare ale Republicii Coasta de Fildeș - reprezentarea diplomatică și consulară a Republicii Coasta de Fildeș în România este asigurată de Ambasada Republicii Coasta de Fildeș în Germania. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă vigilență sporită pe fondul insecurității țării, cu focare de tensiune la nivel local. De asemenea, riscul de răspândire al virusului polio sălbatic și/sau derivat din vaccin este destul de ridicat. Mai multe detalii pe site-ul oficial MAE.",
+        "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Dakar, Senegal.",
         "affiliation" : "ONU"
     },
     {
@@ -509,6 +513,7 @@
         "source": "https://www.mae.ro/travel-conditions/3688",
         "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Croația, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate. Este important de menționat faptul că cetățenii români care doresc să rămână în Croația pentru perioade mai lungi de 90 de zile trebuie să se înregistreze, în funcție de scopul șederii, la autoritățile croate competente. Mai multe informații pe site-ul oficial MAE.",
         "warning" : "",
+        "misiune" : "Misiune diplomatică activă prin Ambasada României la Zagreb.",
         "affiliation" : "UE, NATO, ONU"
     },
     {
@@ -518,6 +523,7 @@
         "source": "https://www.mae.ro/travel-conditions/3689",
         "comment": "Cetățenii români au nevoie de pașaport și viză pentru a călători în Cuba. Viza se poate obține de la ambasadele sau consulatele Cubei în străinătate sau de la agențiile de turism sau companiile aeriene de la care s-a achiziționat pachetul turistic sau biletul de călătorie. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "",
+        "misiune" : "Misiune diplomatică activă prin Ambasada României la Havana.",
         "affiliation" : "ONU"
     },
     {
@@ -527,6 +533,7 @@
         "source": "https://www.mae.ro/travel-conditions/3682",
         "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Cipru, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate.",
         "warning" : "",
+        "misiune" : "Misiune diplomatică activă prin Ambasada României la Nicosia.",
         "affiliation" : "UE, ONU"
     },
     {
@@ -536,6 +543,7 @@
         "source": "https://www.mae.ro/travel-conditions/3679",
         "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Republica Cehă. Intrarea este permisă cu cartea de identitate sau cu pașaportul, valabile pentru o perioadă de cel puțin 3 luni. Perioada maximă de ședere este de 3 luni, fiind necesară obținerea unui permis de ședere pentru perioade mai lungi. Mai multe informații pe site-ul oficial MAE.",
         "warning" : "",
+        "misiune" : "Misiune diplomatică activă prin Ambasada României la Praga.",
         "affiliation" : "UE, NATO, ONU"
     },
     {
@@ -545,6 +553,7 @@
         "source": "https://www.mae.ro/travel-conditions/3690",
         "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Danemarca, ci doar de cartea de identitate sau de pașaport, valabile cel puțin 3 luni. Perioada maximă de ședere pentru deținătorii acestor documente este de 3 luni.",
         "warning" : "",
+        "misiune" : "Misiune diplomatică activă prin Ambasada României la Copenhaga.",
         "affiliation" : "UE, NATO, ONU"
     },
     {
@@ -562,6 +571,7 @@
         "source": "https://www.mae.ro/travel-conditions/48636",
         "comment": "Cetățenii români nu au nevoie de viză pentru a călători în scop turistic în Dominica, ci doar de pașaport. Perioada de ședere nu trebuie să depășească 90 de zile. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "",
+        "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Havana, Cuba.",
         "affiliation" : "ONU"
     },
     {
@@ -571,6 +581,7 @@
         "source": "https://www.mae.ro/travel-conditions/3738",
         "comment": "Cetățenii români care vor să călătorească în Republica Dominicană nu au nevoie de viză, ci doar de pașaport și card turistic. Acesta se poate obține de la consulatele Republicii Dominicane sau la punctele de trecere a frontierei. Perioada de ședere nu trebuie să depășească 90 de zile. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "",
+        "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Bogota, Republica Dominicană.",
         "affiliation" : "ONU"
     },
     {
