@@ -591,6 +591,7 @@
         "source": "https://www.mae.ro/travel-conditions/31517",
         "comment": "Cetățenii români care vor să călătorească în Ecuador în scop turistic nu au nevoie de viză, ci doar de pașaport. Acesta trebuie să fie valabil minimum 6 luni, iar perioada de ședere să nu depășească 90 de zile. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă vigilență maximă pe fondul protestelor și al infracțiunilor frecvente. Mai multe detalii pe site-ul oficial MAE.",
+        "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Lima, Peru.",
         "affiliation" : "ONU"
     },
     {
@@ -600,6 +601,7 @@
         "source": "https://www.mae.ro/travel-conditions/3691",
         "comment": "Cetățenii români care doresc să călătorească în Egipt au nevoie de pașaport și viză. Pașaportul simplu sau temporar trebuie să aibă o valabilitate de minimum 6 luni de la data intrării în Egipt, iar viza se poate obține la aeroport sau la sediul Ambasadei Republicii Arabe Egipt în România. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe atrage atenția asupra atentatelor teroriste din Peninsula Sinai și la frontiera cu Libia și Sudan. Mai multe detalii pe site-ul oficial MAE.",
+        "misiune" : "Misiune diplomatică activă prin Ambasada României la Cairo.",
         "affiliation" : "ONU"
     },
     {
@@ -609,6 +611,7 @@
         "source": "https://www.mae.ro/travel-conditions/33020",
         "comment": "Cetățenii români care vor să călătorească în El Salvador în scop turistic nu au nevoie de viză, ci doar de pașaport. Adițional, va trebui să prezinți documentele care demonstrează scopul vizitei și faptul că deții suficiente mijloace financiare pentru a te întreține pe perioada șederii. Perioada de ședere nu poate depăși 90 de zile. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "",
+        "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Ciudad de Mexico, Mexic.",
         "affiliation" : "ONU"
     },
     {
@@ -634,6 +637,7 @@
         "source": "https://www.mae.ro/travel-conditions/3694",
         "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Estonia, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate. Cetățenii statelor membre UE, deci și cetățenii români, pot rămâne pe teritoriul Estoniei trei luni fără a îndeplini vreo formalitate, dacă au o carte de identitate sau un pașaport valabil și dețin resurse ecnonomice suficiente pentru a se întreține pe sine și, eventual, membrii familiei. Pentru șederi mai lungi de 3 luni, cetățenii UE trebuie să se înregistreze la administrația locală în care locuiesc. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "",
+        "misiune" : "Misiune diplomatică activă prin Ambasada României la Tallinn.",
         "affiliation" : "UE, NATO, ONU"
     },
     {
@@ -643,6 +647,7 @@
         "source": "https://www.mae.ro/travel-conditions/3695",
         "comment": "Cetățenii români care doresc să călătorească în Etiopia au nevoie de pașaport și viză. Viza turistică poate fi obținută online, cu cel puțin 3-4 zile înainte de data călătoriei. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă, pe lângă vigilența sporită, contactarea Ambasadei României la Addis Abeba atât înainte de călătorie, cât și la sosirea în Etiopia pentru semnalarea prezenței. Deși situația de securitate este stabilă, se menține riscul incidentelor și conflictelor locale. Mai multe detalii pe site-ul oficial MAE.",
+        "misiune" : "Misiune diplomatică activă prin Ambasada României la Addis Abeba.",
         "affiliation" : "ONU"
     },
     {
@@ -668,6 +673,7 @@
         "source": "https://www.mae.ro/travel-conditions/30276",
         "comment": "Cetățenii români care doresc să călătorească în Fiji nu au nevoie de viză, ci doar de pașaport. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "",
+        "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Canberra, Australia.",
         "affiliation" : "ONU"
     },
     {
@@ -677,6 +683,7 @@
         "source": "https://www.mae.ro/travel-conditions/3697",
         "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Finlanda, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate. Cetățenii statelor membre UE, deci și cetățenii români, pot rămâne pe teritoriul Finlandei trei luni fără a îndeplini vreo formalitate, dacă au o carte de identitate sau un pașaport valabil și dețin resurse ecnonomice suficiente pentru a se întreține pe sine și, eventual, membrii familiei. Pentru șederi mai lungi de 3 luni, cetățenii UE trebuie să se înregistreze la secția de poliție din jurisdicția în care locuiesc. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "",
+        "misiune" : "Misiune diplomatică activă prin Ambasada României la Helsinki.",
         "affiliation" : "UE, ONU"
     },
     {
@@ -686,6 +693,7 @@
         "source": "https://www.mae.ro/travel-conditions/3698",
         "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Franța, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate.",
         "warning" : "",
+        "misiune" : "Misiune diplomatică activă prin Ambasada României la Paris.",
         "affiliation" : "UE, NATO, ONU"
     },
     {
