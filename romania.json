@@ -1007,6 +1007,7 @@
         "source": "https://www.mae.ro/travel-conditions/30303",
         "comment": "Cetățenii români care doresc să călătorească în Jamaica au nevoie de pașaport și viză. Viza poate fi obținută de la ambasadele sau consulatele Statului Jamaica din străinătate, precum și de la punctele de trecere a frontierei și poate fi prelungită pentru o perioadă de 30 de zile. Mai multe detalii pe site-ul MAE.",
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români să fie extrem de prudenți pe fondul ratei de criminalitate destul de ridicată. De asemenea, există o serie de vaccinuri care trebuie obligatoriu efectuată. Mai multe detalii pe site-ul oficial MAE.",
+        "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Havana, Cuba.",
         "affiliation" : "ONU"
     },
     {
@@ -1033,6 +1034,7 @@
         "source": "https://www.mae.ro/travel-conditions/3705",
         "comment": "Cetățenii români care doresc să călătorească în Iordania au nevoie de viză și un pașaport cu o valabilitate de cel puțin 6 luni. Viza se poate obține de la reprezentanțele diplomatice ale Iordaniei din străinătate, dar și la frontieră, inclusiv la Aeroportul Internațional Queen Alia din Amman, la un cost de 40 de dinari iordanieni. Atenție! Cetățenii români posesori de pașapoarte simple temporare nu pot obține viza de intrare la frontieră, fiind necesar să se adreseze în prealabil unei reprezentanțe diplomatice iordaniene. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români care călătoresc în Iordania să fie vigilenți pe fondul contextului geopolitic și securitar, Iordania fiind înconjurată de conflicte militare și activități de natură teroristă. Mai multe detalii pe site-ul oficial MAE.",
+        "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Amman.",
         "affiliation" : "ONU"
     },
     {
@@ -1042,6 +1044,7 @@
         "source": "https://www.mae.ro/travel-conditions/3713",
         "comment": "Cetățenii români care doresc să călătorească în Kazahstan în scop turistic sau de vizită, pentru o perioadă de cel mult 30 de zile calendaristice, nu au nevoie de viză. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "",
+        "misiune" : "Misiune diplomatică activă prin Ambasada României la Nursultan.",
         "affiliation" : "ONU"
     },
     {
@@ -1051,6 +1054,7 @@
         "source": "https://www.mae.ro/travel-conditions/30273",
         "comment": "Cetățenii români care doresc să călătorască în Kenya au nevoie de pașaport și viză de intrare. Ministerul Afacerilor Externe recomandă cetățenilor români  să aplice pentru viză online, cu cel puțin o săptămâmî înaintea călătoriei. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă prudență pe fondul cazurilor de holeră și poliomielită, dar și din cauza atentatelor teroriste ce motivează anularea călătoriilor care nu sunt necesare. Mai multe detalii pe site-ul oficial MAE.",
+        "misiune" : "Misiune diplomatică activă prin Ambasada României la Nairobi.",
         "affiliation" : "ONU"
     },
     {
@@ -1059,6 +1063,7 @@
         "documents": "Pașaport",
         "source": "https://www.mae.ro/travel-conditions/30369",
         "comment": "Cetățenii români care doresc să călătorească în Republica Kiribati nu au nevoie de viză, ci doar de papșaport - perioada maximă de ședere este de 90 de zile. Mai multe detalii pe site-ul oficial MAE.",
+        "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Canberra.",
         "warning" : ""
     },
     {
@@ -1067,6 +1072,7 @@
         "documents": "Pașaport și Viză de Intrare/Ieșire",
         "source": "https://www.mae.ro/travel-conditions/3685",
         "comment": "Pentru a călători în Republica Populară Democrată Coreeană este necesară obținerea vizei de intrare/ieșire. Viza se acordă numai pe baza unei invitații oficiale adresate de o instituție sau persoană fizică cu reședința în Coreea de Nord sau la solicitarea scrisă a unei instituții din România. Viza se poate obține de la una dintre ambasadele sau agențiile de turism nord-coreene din străinătate, cu perioada de procesare a vizei de minimum 10 zile. Dată fiind natura extrem de delicată a călătoriilor în acest stat, îți recomandăm să afli mai multe detalii pe site-ul oficial MAE.",
+        "misiune" : "Misiune diplomatică activă prin Ambasada României la Phenian.",
         "warning" : "",
         "affiliation" : "ONU"
     },
@@ -1077,6 +1083,7 @@
         "source": "https://www.mae.ro/travel-conditions/3686",
         "comment": "Cetățenii români care doresc să călătorească în Coreea de Sud nu au nevoie de viză, ci doar de pașaport. Perioada de ședere nu trebuie să depășească 90 de zile, iar scopul călătoriei să fie turistic, de vizită, întâlniri de afaceri, conferințe sau activități sportive din care nu rezultă câștiguri financiare. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe avertizează asupra poluării masive din Coreea de Sud, precum și asupra exercițiilor frecvente de apărare civilă. Mai multe detalii pe site-ul oficial MAE.",
+        "misiune" : "Misiune diplomatică activă prin Ambasada României la Seul.",
         "affiliation" : "ONU"
     },
     {
@@ -1086,6 +1093,7 @@
         "source": "https://www.mae.ro/travel-conditions/3714",
         "comment": "Cetățenii români care doresc să călătorească în Kuwait au nevoie de pașaport și viză de intrare. Posesorii de pașapoarte simple pot obține această viză în scop turistic fie de la Ambasada Statului Kuwait la București, fie de la ambasadele acestui stat în străinătate sau chiar la punctele de trecere a frontierei kuweitiene (aeriene, rutiere și maritime) Mai multe detaii pe site-ul oficial MAE.",
         "warning" : "",
+        "misiune" : "Misiune diplomatică activă prin Ambasada României la Kuweit.",
         "affiliation" : "ONU"
     },
     {
@@ -1095,6 +1103,7 @@
         "source": "https://www.mae.ro/travel-conditions/28309",
         "comment": "Cetățenii români care doresc să călătorească în Kyrgystan au nevoie de pașaport și viză. Viza de intrare se poate obține online, prin intermediul sistemului Electronic Visa, fără a mai fi nevoie să se adreseze misiunilor diplomatice, oficiilor consulare sau birourilor de vize. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă prudență cetățenilor români care doresc să se deplaseze în zona de sud a țării pe fondul situației de securitate. Mai multe detalii pe site-ul oficial MAE.",
+        "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Nursultan, Kazahstan.",
         "affiliation" : "ONU"
     },
     {
@@ -1112,6 +1121,7 @@
         "source": "https://www.mae.ro/travel-conditions/3715",
         "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Letonia, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate.",
         "warning" : "",
+        "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Vilnius, Lituania.",
         "affiliation" : "UE, NATO, ONU"
     },
     {
@@ -1121,6 +1131,7 @@
         "source": "https://www.mae.ro/travel-conditions/3716",
         "comment": "Cetățenii români care doresc să călătorească în Liban au nevoie de pașaport și viză, iar perioada maximă de ședere este de 2 luni. Dacă scopul depplasării este turistic sau de vizită, iar perioada de ședere nu depășește 2 luni, viza de scurtă ședere sau de tranzit aeroportuar este acordată în punctul de frontieră (Visa on Arrival) pentru maximul 60 de zile pe pașaportul românesc (simplu, diplomatic sau de serviciu). Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români să fie extrem de vigilenți pe fondul acțiunilor constante de protest, dar și din cauza atentatelor teroriste și a conflictelor interconfesionale. Mai multe detalii pe site-ul oficial MAE.",
+        "misiune" : "Misiune diplomatică activă prin Ambasada României la Beirut.",
         "affiliation" : "ONU"
     },
     {
@@ -1130,6 +1141,7 @@
         "source": "https://www.mae.ro/travel-conditions/12608",
         "comment": "Cetățenii români care doresc să călătorească în Regatul Lesotho au nevoie de pașaport și viză. Guvernul acestui regat a simplificat procedura de obținere a vizelor în scop turistic și de afaceri prin lansarea portalului electronic de tip e-Visa, destinat solicitării online fără a mai fi nevoie deplasarea la sediul misiunilor diplomatice ale Regatului în străinătate. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "",
+        "misiune" : "Misiune diplomatică asigurată prin Consulatul Onorific al României la Freetown, Sierra Leone.",
         "affiliation" : "ONU"
     },
     {
@@ -1157,6 +1169,7 @@
         "source": "https://www.mae.ro/travel-conditions/3718",
         "comment": "Cetățenii români care doresc să călătorească în Principatul Liechtenstein au nevoie doar de cartea de identitate sau de pașaport. Perioada de ședere nu poate depăși 90 de zile, iar cetățenii români trebuie să dețină o asigurare medicală pe durata călătoriei și să demonstreze că au suficiente resurse financiare pentru a se întreține pe perioada călătoriei. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "",
+        "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Berna, Elveția.",
         "affiliation" : "ONU"
     },
     {
@@ -1166,6 +1179,7 @@
         "source": "https://www.mae.ro/travel-conditions/3719",
         "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Lituania, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate.",
         "warning" : "",
+        "misiune" : "Misiune diplomatică activă prin Ambasada României la Vilnius.",
         "affiliation" : "UE, NATO, ONU"
     },
     {
@@ -1175,6 +1189,7 @@
         "source": "https://www.mae.ro/travel-conditions/3720",
         "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Marele Ducat de Luxemburg, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate și pentru șederi de până la 3 luni.",
         "warning" : "",
+        "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Luxemburg.",
         "affiliation" : "UE, NATO, ONU"
     },
     {
@@ -1192,6 +1207,7 @@
         "source": "https://www.mae.ro/travel-conditions/3721",
         "comment": "Cetățenii români care doresc să călătorească în Macedonia de Nord au nevoie doar de cartea de identitate sau de pașaport. Șederea nu poate depăși o perioadă de 90 de zile. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "",
+        "misiune" : "Misiune diplomatică activă prin Ambasada României la Skopje.",
         "affiliation" : "NATO, ONU"
     },
     {
@@ -1201,6 +1217,7 @@
         "source": "https://www.mae.ro/travel-conditions/12235",
         "comment": "Cetățenii români care doresc să călătorească în Madagascar au nevoie de pașaport și viză. Cea din urmă se poate obține de la Ambasada Republicii Madagascar la Roma. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă vigilență maximă și evitarea anumitor zone ale țării pe fondul atacurilor armate violente ale unor grupări organizate. Mai multe detalii pe site-ul oficial MAE.",
+        "misiune" : "Misiune diplomatică asigurată prin Consulatul Onorific al României la Freetown, Sierra Leone.",
         "affiliation" : "ONU"
     },
     {
@@ -1210,6 +1227,7 @@
         "source": "https://www.mae.ro/travel-conditions/3723",
         "comment": "Cetățenii români care doresc să călătorească în Malawi au nevoie de pașaport și viză. Aceasta poate fi obținută înainte de intrarea în țară, dar și la punctele de frontieră. Perioada legală de ședere este de 30 de zile, însă poate fi prelungită pentru încă 60 de zile. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe avertizează asupra pericolului de răspândire a virusului polio sălbatic și/sau derivat din vaccin, așa că vaccinarea antipoliomielită este obligatorie. Mai multe detalii pe site-ul oficial MAE.",
+        "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Harare, Zimbabwe.",
         "affiliation" : "ONU"
     },
     {
@@ -1219,6 +1237,7 @@
         "source": "https://www.mae.ro/travel-conditions/3722",
         "comment": "Cetățenii români care doresc să călătorească în Malaysia au nevoie doar de pașaport, grație unui regim de scutire reciprocă de vize în cazul cetățenilor români care doresc să călătorească în Malaysia și viceversa. Perioada maximă de ședere este de 90 de zile, în scopuri nelucrative. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă vigilență maximă pe tema securității instabile. De asemenea, Malaysia are o politică extrem de dură în privința combaterii traficului și consumului de droguri, pedeapsa cu moartea fiind aplicată automat indiferent de naționalitate. Mai multe detalii pe site-ul oficial MAE.",
+        "misiune" : "Misiune diplomatică activă prin Ambasada României la Kuala Lumpur.",
         "affiliation" : "ONU"
     },
     {
@@ -1228,6 +1247,7 @@
         "source": "https://www.mae.ro/travel-conditions/44715",
         "comment": "Cetățenii români care doresc să călătoreasscă în Republica Maldive au nevoie de pașaport și viză de intrare. Vizele turistice se obțin pentru o perioadă de cel mult 30 de zile, direct de la punctele de trecere a frontierei (port, aeroport). Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă vigilențăț maximă pe fondul demonstrațiilor organizate sau spontane, precum și pe fondul amenințării teroriste generale. Mai multe detalii pe site-ul oficial MAE.",
+        "misiune" : "Misiune diplomatică asigurată prin Ambasada României la New Delhi, India.",
         "affiliation" : "ONU"
     },
     {
@@ -1237,6 +1257,7 @@
         "source": "https://www.mae.ro/travel-conditions/29262",
         "comment": "Cetățenii români care doresc să călătorească în Mali au nevoie de pașaport și viză de intrare. Pașaportul trebuie să aibă o valabilitate de cel puțin 6 luni de la data depunerii cererii de viză - cea din urmă poate fi obținută de la Ambasada Republicii Mali la Paris. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români vigilență maximă pe fondul riscului crescut de acțiuni teroriste pe teritoriul statului Mali. Mai multe detalii pe site-ul oficial MAE.",
+        "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Dakar, Senegal.",
         "affiliation" : "ONU"
     },
     {
@@ -1246,6 +1267,7 @@
         "source": "https://www.mae.ro/travel-conditions/3724",
         "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Malta, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate.",
         "warning" : "",
+        "misiune" : "Misiune diplomatică activă prin Ambasada României la Valetta.",
         "affiliation" : "UE, ONU"
     },
     {
@@ -1255,6 +1277,7 @@
         "source": "https://www.mae.ro/travel-conditions/31669",
         "comment": "Cetățenii români care doresc să călătorească în Insulele Marshall au nevoie doar de pașaport simplu, temporar, diplomatic sau de serviciu - perioada de ședere nu poate depăși 90 de zile, iar pașaportul trebuie să aibă o valabilitate de cel puțin 6 luni. Mai multe detalii pe site-ul MAE.",
         "warning" : "",
+        "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Manila, Filipine.",
         "affiliation" : "ONU"
     },
     {
@@ -1272,6 +1295,7 @@
         "source": "https://www.mae.ro/travel-conditions/29507",
         "comment": "Cetățenii români care doresc să călătorească în Mauritania au nevoie de pașaport și viză. Viza de intrare se poate obține de la Ambasada Republicii Islamice Mauritania la Berlin. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români să evite călătoriile în Mauritania pe fondul situației de securitate precare, precum și din cauza răpirilor de persoane. Mai multe detalii pe site-ul oficial MAE.",
+        "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Rabat, Maroc.",
         "affiliation" : "ONU"
     },
     {
@@ -1281,6 +1305,7 @@
         "source": "https://www.mae.ro/travel-conditions/12415",
         "comment": "Cetățenii români care doresc să călătorească în Mauritius au nevoie doar de pașaport, pentru o perioadă de 90 de zile într-un interval de 6 luni. Cu toate acestea, Ministerul Afacerilor Externe recomandă solicitarea de informații suplimentare la Ambasada Statului Mauritius la Paris. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "",
+        "misiune" : "Misiune diplomatică asigurată prin Consulatul Onorific al României la Freetown, Sierra Leone.",
         "affiliation" : "ONU"
     },
     {
@@ -1298,6 +1323,7 @@
         "source": "https://www.mae.ro/travel-conditions/3727",
         "comment": "Cetățenii români care doresc să călătorească în Mexic în scop turistic și dețin pașapoarte simple sau pașapoarte simple electronice valabile nu au nevoie de viză de intrare. Perioada de ședere nu poate depăși 180 de zile într-un interval de un an. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă vigilență maximă pe fondul jafurilor și infracțiunilor violente în locurile publice - furturile de documente, bani, cărți de credit/debit sau alte bunuri sunt cele mai răspândite. Mai multe detalii pe site-ul oficial MAE.",
+        "misiune" : "Misiune diplomatică activă prin Ambasada României la Ciudad de Mexico.",
         "affiliation" : "ONU"
     },
     {
@@ -1307,6 +1333,7 @@
         "source": "https://www.mae.ro/travel-conditions/31681",
         "comment": "Cetățenii români care doresc să călătorească în Statele Federative ale Microneziei nu au nevoie de viză, ci doar de pașaport. Perioada de ședere nu poate depăși 90 de zile în cursul oricărei perioade de 180 de zile. Atenție! Pașaportul temporar românesc nu este recunoscut de autoritățile statului, iar poliția de frontieră nu va permite intrarea titularilor acestui tip de pașaport pe teritoriul Microneziei. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "",
+        "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Manila, Filipine.",
         "affiliation" : "ONU"
     },
     {
@@ -1316,6 +1343,7 @@
         "source": "https://www.mae.ro/travel-conditions/3739",
         "comment": "Cetățenii români care doresc să călătorească în Republica Moldova au nevoie doar de cartea de identitate sau de pașaport - acestea trebuie să aibă o valabilitate de cel puțin 3 luni de la data intrării în țară. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "",
+        "misiune" : "Misiune diplomatică activă prin Ambasada României la Chișinău.",
         "affiliation" : "ONU"
     },
     {
@@ -1325,6 +1353,7 @@
         "source": "https://www.mae.ro/travel-conditions/28307",
         "comment": "Cetățenii români care doresc să călătorească în Principatul Monaco au nevoie doar de o carte de identitate sau de pașaport. Perioada de ședere nu poate deepăși 90 de zile într-un interval de 6 luni. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "",
+        "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Paris.",
         "affiliation" : "ONU"
     },
     {
@@ -1334,6 +1363,7 @@
         "source": "https://www.mae.ro/travel-conditions/12016",
         "comment": "Cetățenii români care doresc să călătorească în Mongolia au nevoie de pașaport și viză. Viza de intrare în țară se obține prin Consulatul Onorificc al Mongoliei la București. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "",
+        "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Beijing.",
         "affiliation" : "ONU"
     },
     {
@@ -1351,6 +1381,7 @@
         "source": "https://www.mae.ro/travel-conditions/3726",
         "comment": "Cetățenii români care doresc să călătorească în Maroc nu au nevoie de viză de intrare, ci doar de pașaport. Perioada maximmă de ședere este de 90 de zile, iar valabilitatea pașaportului trebuie să fie de cel puțin 3 luni de la data preconizată a ieșirii de pe teritoriul acestui stat. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "Alertă de călătorie! Riscul comiterii de atentate teroriste este prezent la nivelul întregului Regat al Marocului, așa că Ministerul Afacerilor Externe recomandă cetățenilor români prudență deosebită. Mai multe detalii pe site-ul oficial MAE.",
+        "misiune" : "Misiune diplomatică activă prin Ambasada României la Rabat.",
         "affiliation" : "ONU"
     },
     {
