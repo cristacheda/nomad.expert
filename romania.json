@@ -397,10 +397,11 @@
     {
         "name": "Chad",
         "code": "TD",
-        "documents": "",
-        "source": "",
-        "comment": "",
+        "documents": "Pașaport și Viză",
+        "source": "https://www.mae.ro/bilateral-relations/1914#711",
+        "comment": "Cetățenii care doresc să călătorească în Ciad au nevoie de pașaport și viză. Mai multe detalii despre obținerea vizei pe site-ul oficial MAE.",
         "warning" : ""
+        "affiliation" : "ONU"
     },
     {
         "name": "Chile",
@@ -1013,9 +1014,9 @@
     {
         "name": "Japan",
         "code": "JP",
-        "documents": "",
+        "documents": "Pașaport",
         "source": "https://www.mae.ro/travel-conditions/3712",
-        "comment": "",
+        "comment": "Cetățenii români care doresc să călătorească în Japonia au nevoie de pașaport și viză. Cea din urmă se poate obține de la Ambasada Japoniei la București. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "",
         "affiliation" : "ONU"
     },
@@ -1159,7 +1160,7 @@
         "documents": "Pașaport și Viză",
         "source": "https://www.mae.ro/travel-conditions/3717",
         "comment": "Cetățenii români care doresc să călătorească în Libia au nevoie de pașaport și viză. Cea din urmă poate fi obținută de la Ambasada Liberiei la București, cu o valabilitatae de 3 luni și drept de ședere de 30 de zile, pentru o singură călătorie dus-întors. Mai multe detalii pe site-ul oficial MAE.",
-        "warning" : "Pericol major! Părăsiți imediat zona sau țara! Ministerul Afacerilor Externe recomandă cu fermitate cetățenilor români să evite orice fel de călătorie în Libia, iar celor care încă se află pe teritoriul libian să părăsească imediat țara! Situația de securitate rezultată din războiul civil este extrem de deteriorată, iar numeroase puncte de frontieră sunt închise. Mai multe detalii pe site-ul oficial MAE.",
+        "emergency" : "Pericol major! Părăsiți imediat zona sau țara! Ministerul Afacerilor Externe recomandă cu fermitate cetățenilor români să evite orice fel de călătorie în Libia, iar celor care încă se află pe teritoriul libian să părăsească imediat țara! Situația de securitate rezultată din războiul civil este extrem de deteriorată, iar numeroase puncte de frontieră sunt închise. Mai multe detalii pe site-ul oficial MAE.",
         "affiliation" : "ONU"
     },
     {
@@ -1877,7 +1878,7 @@
         "documents": "Pașaport și Viză",
         "source": "https://www.mae.ro/travel-conditions/29373",
         "comment": "Cetățenii români care doresc să călătorească în Somalia au nevoie de pașaport și viză, deși Ministerul Afacerilor Externe recomandă ferm evitarea oricărei deplasări pe fondul situației de securitate precare. Mai multe detalii pe site-ul oficial MAE.",
-        "warning" : "Pericol major! Ministerul Afacerilor Externe recomandă insistent cetățenilor români să evite orice călătorie în Somalia, iar persoanelor care tranzitează zona sau se află pe teritoriul țării să părăsească imediat Somalia. Situația de securitate este puternic afectatî de acțiunile de piraterile la scară largă, dar și de luptele dintre forțele guvernamentale și grupările afiliale AL Qaeda. Mai multe detalii pe site-ul oficial MAE.",
+        "emergency" : "Pericol major! Ministerul Afacerilor Externe recomandă insistent cetățenilor români să evite orice călătorie în Somalia, iar persoanelor care tranzitează zona sau se află pe teritoriul țării să părăsească imediat Somalia. Situația de securitate este puternic afectatî de acțiunile de piraterile la scară largă, dar și de luptele dintre forțele guvernamentale și grupările afiliale AL Qaeda. Mai multe detalii pe site-ul oficial MAE.",
         "affiliation" : "ONU"
     },
     {
@@ -1978,10 +1979,11 @@
     {
         "name": "Syrian Arab Republic",
         "code": "SY",
-        "documents": "",
-        "source": "",
-        "comment": "",
-        "warning" : ""
+        "documents": "Pașaport și Viză",
+        "source": "https://www.mae.ro/travel-conditions/3744#788",
+        "comment": "Cetățenii români care doresc să călătorească în Siria au nevoie de pașaport și viză, cea din urmă fiind obținută de la ambasadele siriene din străinătate. Mai multe detalii pe site-ul oficial MAE.",
+        "emergency" : "Pericol major! Ministerul Afacerilor Externe recomandă cetățenilor români evitarea oricărei călătorii în Siria, iar celor care se află deja în țară să o părăsească de urgență! Riscurile de seecuritate sunt majore, așa că luați legătura cu autoritățile cât mai rapid! Mai multe detalii pe site-ul oficial MAE."
+        "affiliation" : "ONU"
     },
     {
         "name": "Taiwan, Province of China",
@@ -2258,7 +2260,7 @@
         "documents": "Pașaport și Viză",
         "source": "https://www.mae.ro/travel-conditions/29174",
         "comment": "Cetățenii români care doresc să călătorească în Republica Yemen au nevoie de pașaport și viză, deși Ministerul Afacerilor Externe receomandă ferm evitarea oricăror deplasări pe fondul deteriorării situației de securitate. Mai multe detalii pe site-ul oficial MAE.",
-        "warning" : "Pericol major! Ministerul Afacerilor Externe recomandă cu insistență evitarea deplasărilor în Yemen, iar celor care se mai află la fața locului să părăsească zona de urgență din cauza situației grave de securitate. Mai multe detalii pe site-ul oficial MAE.",
+        "emergency" : "Pericol major! Ministerul Afacerilor Externe recomandă cu insistență evitarea deplasărilor în Yemen, iar celor care se mai află la fața locului să părăsească zona de urgență din cauza situației grave de securitate. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Abu Dhabi, Emiratele Arabe Unite.",
         "affiliation" : "ONU"
     },
