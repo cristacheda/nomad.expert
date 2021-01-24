@@ -9,7 +9,7 @@
  * @wordpress-plugin
  * Plugin Name:       Nomad Countries Shortcode
  * Plugin URI:        https://nomad.expert
- * Description:       T
+ * Description:       
  * Version:           1.0.0
  * Author:            Dragos Cristache
  * Author URI:        https://cristache.net

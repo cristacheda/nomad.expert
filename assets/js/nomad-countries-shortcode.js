@@ -33,9 +33,14 @@ countries.registerLocale(require("i18n-iso-countries/langs/ro.json"));
 	originCountrySelector.change(function () {
 		fileName = $(this).val();
 		if (fileName) {
-			$.getJSON(plugin_url + 'data/documents/' + fileName, function (json) {
+			$.getJSON( "/wp-content/plugins/nomad.expert/data/documents/" + fileName )
+			.done(function( json ) {
 				result = json;
 				buildDestinationCountrySelector(result);
+			})
+			.fail(function( jqxhr, textStatus, error ) {
+				var err = textStatus + ", " + error;
+				console.log( "Request Failed: " + err );
 			});
 		} else {
 			resetDestinationCountrySelector();
@@ -84,7 +89,7 @@ countries.registerLocale(require("i18n-iso-countries/langs/ro.json"));
 		result.empty();
 
 		if (country.documents) {
-			result.append(`<p id="info">Pentru a călători în <span class="country-name"><img class="flag" src="${plugin_url}/assets/img/country-flags/${country.code}.svg"> ${country.translatedName}</span> ai nevoie de <span class="documents ${documentclass}">${country.documents}</span>.</p>`);
+			result.append(`<p id="info">Pentru a călători în <span class="country-name"><img class="flag" src="/wp-content/plugins/nomad.expert/assets/img/country-flags/${country.code}.svg"> ${country.translatedName}</span> ai nevoie de <span class="documents ${documentclass}">${country.documents}</span>.</p>`);
 		}
 
 		if (country.emergency) {
@@ -107,7 +112,6 @@ countries.registerLocale(require("i18n-iso-countries/langs/ro.json"));
 			result.append(`<p id="vaccine">${country.vaccine}</p>`);
 		}
 
-		// de adăugat steaguri
 		if (country.affiliation) {
 			result.append(`<p id="affiliation">Afiliere: ${country.affiliation}</p>`);
 		}
