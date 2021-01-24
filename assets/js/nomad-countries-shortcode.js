@@ -89,7 +89,7 @@ countries.registerLocale(require("i18n-iso-countries/langs/ro.json"));
 		result.empty();
 
 		if (country.documents) {
-			result.append(`<p id="info">Pentru a călători în <span class="country-name"><img class="flag" src="/wp-content/plugins/nomad.expert/assets/img/country-flags/${country.code}.svg"> ${country.translatedName}</span> ai nevoie de <span class="documents ${documentclass}">${country.documents}</span>.</p>`);
+			result.append(`<p id="info">Pentru a călători în <span class="country-name"><img class="flag" src="/wp-content/plugins/nomad.expert/assets/img/country-flags/${country.code}.SVG"> ${country.translatedName}</span> ai nevoie de <span class="documents ${documentclass}">${country.documents}</span>.</p>`);
 		}
 
 		if (country.emergency) {
