@@ -3,14 +3,14 @@
 /**
  *
  * @link              https://cristache.net
- * @since             1.0.0
+ * @since             1.0.1
  * @package           Nomad_Countries_Shortcode
  *
  * @wordpress-plugin
  * Plugin Name:       Nomad Countries Shortcode
  * Plugin URI:        https://nomad.expert
  * Description:       
- * Version:           1.0.0
+ * Version:           1.0.1
  * Author:            Dragos Cristache
  * Author URI:        https://cristache.net
  */
@@ -39,10 +39,6 @@ function nomad_render_html() {
 		<div class="container">
 			<div id="form-container">
 				<div class="row">
-					<div class="col-12">
-						<p class="help">Introdu mai jos...Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ab,
-							nihil.</p>
-					</div>
 					<div class="col-md-6 col-12">
 						<label for="origin-country-selector">Din ce țară călătorești?</label>
 						<select id="origin-country-selector"></select>
