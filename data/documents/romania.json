@@ -43,7 +43,7 @@
         "affiliation" : "ONU"
     },
     {
-        "name": "AndorrA",
+        "name": "Andorra",
         "code": "AD",
         "documents": "Carte de Identitate sau Pașaport",
         "source": "https://www.mae.ro/travel-conditions/28306",
@@ -1014,7 +1014,7 @@
     {
         "name": "Japan",
         "code": "JP",
-        "documents": "Pașaport",
+        "documents": "Pașaport și Viză",
         "source": "https://www.mae.ro/travel-conditions/3712",
         "comment": "Cetățenii români care doresc să călătorească în Japonia au nevoie de pașaport și viză. Cea din urmă se poate obține de la Ambasada Japoniei la București. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "",
