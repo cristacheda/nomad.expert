@@ -9,7 +9,7 @@
         "misiune" : "Misiune diplomatică suspendată. Pentru urgențe te poți adresa Ambasadei României la Islamabad pe islamabad@mae.ro",
         "affiliation" : "ONU",
         "emergency" : "",
-        "funfact" : "",
+        "funfact" : "Un întreg oraș are săptămânal o noapte a poeziilor. Herat, localizat în vestul țării, găzduiește în fiecare seară de marți oameni de toate vârstele care citesc poezii clasice și moderne, ascultă muzică și se bucură de mâncare împreună.",
         "vaccine" : "Ministerul Afacerilor Externe atrage atenția asupra necesării vaccinării antipoliomelită pentru călătoriile în Afganistan. Mai multe detalii pe site-ul oficial MAE."
     },
     {
@@ -21,6 +21,9 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Tirana.",
         "affiliation" : "NATO, ONU"
+        "emergency" : "",
+        "funfact" : "Albanezii te aprobă și dezaprobă nonverbal pe dos: vor da din cap de la stânga la dreapta pentru da și din sus în jos pentru nu!",
+        "vaccine" : ""
     },
     {
         "name": "Algeria",
@@ -31,6 +34,9 @@
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă, pentru siguranța cetățenilor români, evitarea deplasărilor în cartierele populare din marile orașe și deplasarea cu mașina pe timpul nopții în afara localităților. Dacă sunteți nevoit să vă deplasați în Algeria, MAE recomandă anunțarea prezenței în regiune adresându-vă Ambasadei Romîniei la Alger.",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Alger.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Algeria este acoperită în mare parte de deșertul Sahara, cel mai mare și mai fierbinte din lume. Ca atare, mare parte din populație locuiește pe doar 12% din teritoriu.",
+        "vaccine" : ""
     },
     {
         "name": "American Samoa",
@@ -41,6 +47,9 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Canberra, Australia.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Samo Americană este considerată un teritoriu neîncorporat, neorganizat al Statelor Unite ale Americii. Beneficiază de protecție diplomatică și militară din partea SUA, dar nu și de restul beneficiilor din Constituția Americană.",
+        "vaccine" : ""
     },
     {
         "name": "Andorra",
@@ -61,6 +70,9 @@
         "warning" : "Alertă de călătorie! Infestarea cu febră galbenă și malarie, precum și riscul de securitate ca urmmare a creșterii numărului actelor de sechestrare de persoane în vederea răscumpărării și a crimelor ce au avut loc în rândul cetățenilor străini îndeamnă la prudență maximă.",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada Angolei la Belgrad, Serbia.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Orașul Luanda a fost numit în 2017 ca unul dintre cele mai scumpe orașe din lume pentru expați.",
+        "vaccine" : ""
     },
     {
         "name": "Anguilla",
@@ -87,6 +99,9 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Havana, Cuba.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Antigua a fost numită Insula cu 365 de Plaje. De la nisipul auriu la cel în nuanțe de roz, datorat coralilor, frumusețea plajelor este greu de descris în cuvinte.",
+        "vaccine" : ""
     },
     {
         "name": "Argentina",
@@ -97,6 +112,9 @@
         "warning" : "Alertă de călătorie! Cetățenii români sunt sfătuiți insistent să evite călătoriile în Argentina, iar cei care sse află deja în acest stat să îl părăsească de urgență! Mai multe detalii pe site-ul MAE.",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Buenos Aires.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Argentina este locul de naștere al tangoului. Are originile în Buenos Aires, în cartierele muncitorești din secolul al XIX-lea.",
+        "vaccine" : ""
     },
     {
         "name": "Armenia",
@@ -107,6 +125,9 @@
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români să se abțină de la orice deplasare în apropierea frontiere Armeniei cu Azerbaidjan, în dreptul regiunii separatiste Nagorno-Karabah și zona adiacentă acesteia, unde au loc ciocniri ale forțelor armate ddin cele două țări. Mai multe informații pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Erevan.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Este prima țară din lume care a acceptat Creștinismul ca religie de stat. ",
+        "vaccine" : ""
     },
     {
         "name": "Aruba",
@@ -124,6 +145,9 @@
         "comment": "Cetățenii români au nevoie de pașaport și viză pentru călătorii în Australia. Începând cu 2008, Departamentul Australian pentru Imigrare și Cetățenie a inclus România pe lista statelor care beneficiază de sistemul electronic de acordare a vizelor 'auto-grant facility'. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Canberra."
+        "emergency" : "",
+        "funfact" : "Australia este populată de 65.000 de ani. Tradițiile artistice, spirituale și muzicale ale aborigenilor australieni sunt printre cele mai prezervate din istoria planetei.",
+        "vaccine" : ""
     },
     {
         "name": "Austria",
@@ -134,6 +158,9 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Viena.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "După cel de-al Doilea Război Mondial, Austria a fost divizată în patru zone de ocupație până în 1955: britanice, franceze, americane și sovietice.",
+        "vaccine" : ""
     },
     {
         "name": "Azerbaijan",
@@ -144,6 +171,9 @@
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români să se abțină de la orice deplasare în apropierea frontiere Armeniei cu Azerbaidjan, în dreptul regiunii separatiste Nagorno-Karabah și zona adiacentă acesteia, unde au loc ciocniri ale forțelor armate ddin cele două țări. Mai multe informații pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Baku.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Există o teorie care sugerează că vikingii își au originea în Azerbaijan. O poveste islandeză veche de 800 de ani descrie călătoria zeului nordic Odin dintr-un tărâm estic numit As-hov sau Aser către Scandinavia.",
+        "vaccine" : ""
     },
     {
         "name": "Bahamas",
@@ -154,6 +184,9 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Havana, Cuba.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Bahamas este un arhipelag de 700 de insule, insulițe și recifuri.",
+        "vaccine" : ""
     },
     {
         "name": "Bahrain",
@@ -164,6 +197,9 @@
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români să evite călătoriile în Regatul Bahrain pe fondul riscului permanent de izbucnire a unor proteste violente în orice zonă a țării. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Abu Dhabi, Emiratele Arabe Unite.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Este cel mai mic stat suveran din Orientul Mijlociu.
+        "vaccine" : ""
     },
     {
         "name": "Bangladesh",
@@ -174,6 +210,9 @@
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români să evite călătoriile care nu sunt necesare în Bangladesh, pe fondul instabilității politice și a ratei de infracțiuni crescute. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la New Delhi, India.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Găzduiește cea mai lungă plajă naturală din lume, Cox's Bazar, ce are o lungime de 120 de kilometri.",
+        "vaccine" : ""
     },
     {
         "name": "Barbados",
@@ -184,6 +223,9 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Havana, Cuba.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Este țara în care s-a născut Rihanna, care a fost și declarată erou național al Barbadosului.",
+        "vaccine" : ""
     },
     {
         "name": "Belarus",
@@ -194,6 +236,9 @@
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români să evite călătoriile neesențiale în Belarus pe fondul instabilității politice.",
         "misiune" : "Misiune diplomatică activă prin Ambasada României Minsk.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Wargaming, studio-ul responsabil pentru jocuri video ca World of Tanks, World of Warships sau World of Warplanes, este bielorus.",
+        "vaccine" : ""
     },
     {
         "name": "Belgium",
@@ -204,6 +249,9 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Bruxelles.",
         "affiliation" : "UE, NATO, ONU"
+        "emergency" : "",
+        "funfact" : "Cartofii prăjiți au fost inventați de belgieni, după spusele lor. Fiecare sat are cel puțin un fritkot, adică un chioșc sau o dubiță ce servește cartofi prăjiți.",
+        "vaccine" : ""
     },
     {
         "name": "Belize",
@@ -214,6 +262,10 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Ciudad de Mexico.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Aproape un milion de turiști vizitează anual Belize, 70% dintre ei fiind americani.",
+        "vaccine" : ""
+        
     },
     {
         "name": "Benin",
@@ -224,6 +276,9 @@
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români să evite deplasările în Republica Benin pe fondul violențelor stradale, a acțiunilor teroriste și în special a riscului ridicat de îmbolnăvire cu malarie, febră tifoidă, febră galbenă, polioliemită, holeră și altele. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Abuja, Nigeria.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "A scris istorie în anii '90, când a devenit prima țară africană ce a făcut tranziția de la dictatură la democrație.",
+        "vaccine" : ""
     },
     {
         "name": "Bermuda",
@@ -242,6 +297,9 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la New Delhi, India.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Regele Bhutanului a abdicat în 2005 și a permis instalarea democrației și a alegerilor libere, realizând că țara nu va putea avea întotdeauna un rege just și onest.",
+        "vaccine" : ""
     },
     {
         "name": "Bolivia",
@@ -252,6 +310,9 @@
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe informează cetățenii români că trebuie să acorde o atenție deosebită pe teritoriul acestui stat din cauza manifestațiilor de protest ale organizațiilor sindicale, precum și din cauza nivelului crescut de infracțiuni stradale. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Lima, Peru.",
         "affiliation" : "ONU"
+         "emergency" : "",
+        "funfact" : "În 2014, ceasul de pe clădirea Congresului din La Paz a fost setat să funcționeze invers. Ministrul de Externe, David Choquehuanca, l-a numit 'Ceasul Sudului' și a spus că le va aminti bolivienilor să gândească creativ și să pună la îndoială normele.",
+        "vaccine" : ""
     },
     {
         "name": "Bosnia and Herzegovina",
