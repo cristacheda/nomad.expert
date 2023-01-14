@@ -323,6 +323,9 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Sarajevo.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Moneda oficială este Marka, ce nu poate fi cumpărată sau schimbată nicărieri altundeva în lume.",
+        "vaccine" : ""
     },
     {
         "name": "Botswana",
@@ -349,6 +352,9 @@
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă evitarea călătoriilor în Brazilia pe fondul cazurilor de febră Dengue.",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Brasilia.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Brazilia este cel mai mare producător de cafea din lume de peste 150 de ani.",
+        "vaccine" : ""
     },
     {
         "name": "British Indian Ocean Territory",
@@ -367,6 +373,9 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Kuala Lumpur, Malaezia.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Sultanul din Brunei ar duce luxul la un nou nivel: ar deține 500 de mașini Rolls Royce, un palat cu aproape 2.000 de camere și ar beneficia de tunsori de 20.000 de dolari.",
+        "vaccine" : ""
     },
     {
         "name": "Bulgaria",
@@ -376,6 +385,9 @@
         "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Bulgaria, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate.",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Sofia.",
         "affiliation" : "UE, NATO, ONU"
+        "emergency" : "",
+        "funfact" : "Parlamentul bulgar este cea mai veche instituție parlamentară din Europa. S-a reunit pentru prima oară pe 11 mai 1879.",
+        "vaccine" : ""
     },
     {
         "name": "Burkina Faso",
@@ -386,6 +398,9 @@
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă să evite călătoriile în Burkina Faso pe fondul tentativei de lovitură de stat de la finele anului 2015 și al atentatelor teroriste de la Bamako, Ouagadougou și Grand-Bassam. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Dakar, Senegal.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Aproape 80% din populația țării este angajată în agricultură de subzistență, adică toate culturile și animalele crescute de fermieri sunt suficiente exclusiv pentru ei și familiile lor, cu un procent scăzut destinat comerțului.",
+        "vaccine" : ""
     },
     {
         "name": "Burundi",
@@ -396,6 +411,9 @@
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români să evite călătoriile în Burundi pe fondul instabilității politice, a numeroaselor conflicte violente între forțele de securitate și rebeli, precum și a infracționalității crescute. De asemenea, MAE recomandă să nu vă deplasați în zonele de frontieră cu Republica Democrată Congo. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Nairobi, Kenya.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Doar 3% din populația țării are acces la internet, ceea ce face Burundi una dintre cele mai slab cotate țări în materie de acces la internet.",
+        "vaccine" : ""
     },
     {
         "name": "Cambodia",
