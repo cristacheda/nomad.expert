@@ -424,6 +424,9 @@
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români să fie precauți atunci când călătoresc în Cambodgia și să evite apropierea de templul Preah Vihear, la frontiera cu Thailanda, pe fondul riscului declanșării de acte de violență. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Hanoi, Vietnam.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Vârsta medie a populației din Cambodgia este de sub 15 ani, în jur de 50% din populația țării are 15 ani sau sub această vârstă.",
+        "vaccine" : ""
     },
     {
         "name": "Cameroon",
@@ -434,6 +437,9 @@
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români să fie extrem de vigilenți. Situația de securitate din regiune este puternic afectată de acțiunile teroriste violente practicate de către gruparea teroristtă Boko Haram, iar riscul infectării cu virusul polio sălbatic este și el ridicat. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Abuja, Nigeria",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Pe teritoriul său se află cea mai veche pădure din Africa. Parcul Național Pădurea Korop are o vârstă de 60 de milioane de ani și se află aproape de granița cu Nigeria.",
+        "vaccine" : ""
     },
     {
         "name": "Canada",
@@ -444,6 +450,9 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Ottawa.",
         "affiliation" : "NATO, ONU"
+        "emergency" : "",
+        "funfact" : "Cea mai lungă stradă din lume se află în Canada. Pornește din Lake Ontario și se întinde pe aproape 2.000 de kilometri până la granița cu Minnesota.",
+        "vaccine" : ""
     },
     {
         "name": "Cape Verde",
@@ -454,6 +463,9 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Dakar, Senegal.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "În această țară este considerat nepoliticos să mănânci în public fără să împarți și cu ceilalți din jurul tău. Majoritatea localnicilor cumpără suficientă mâncare pentru a împărți și cu cei din jurul lor.",
+        "vaccine" : ""
     },
     {
         "name": "Cayman Islands",
@@ -472,6 +484,9 @@
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români evitarea deplasărilor în Republica Centrafricană pe fondul pericolului de jafuri armate, tâlhării, violuri și răpiri, precum și de atentate teroriste. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Khartoum, Republica Sudan.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Alături de Ciad și Madagascar, Republica Centrafricană este una dintre țările cel mai puțin afectate de poluarea luminoasă.",
+        "vaccine" : ""
     },
     {
         "name": "Chad",
@@ -481,6 +496,9 @@
         "comment": "Cetățenii care doresc să călătorească în Ciad au nevoie de pașaport și viză. Mai multe detalii despre obținerea vizei pe site-ul oficial MAE.",
         "warning" : "",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Ciadul mai este numit și Turnul Babel al lumii datorită celor peste 200 de grupuri etnice și a celor 100 de limbi vorbite în țară.",
+        "vaccine" : ""
     },
     {
         "name": "Chile",
@@ -491,6 +509,9 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Santiago de Chile.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Chile mai este numită și capitala lumii în materie de astronomie. Deșertul Atacama este cunoscut pentru lipsa de precipitații și, ca atare, este ideal pentru pasionații de astronomie.",
+        "vaccine" : ""
     },
     {
         "name": "China",
@@ -501,6 +522,9 @@
         "warning" : "Alertă de călătorie! Există pericolul răspândirii virusului polio sălbatic și/sau derivat din vaccin. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Beijing.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "În 2011, China a consumat 42,5 miliarde de pachete de tăiței instant.",
+        "vaccine" : ""
     },
     {
         "name": "Christmas Island",
@@ -527,6 +551,9 @@
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe informează cetățenii români de rapoarte de febră Dengue. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Bogota.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Conform legii columbiene, imnul de stat este redat la televizor și radio de două ori pe zi: la 6 dimineața și la 6 seara.",
+        "vaccine" : ""
     },
     {
         "name": "Comoros",
@@ -537,6 +564,9 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Pretoria, Republica Africa de Sud.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Comoros este cel mai mare producător de ylang-ylang din lume, cu aproape 80% din necesarul planetei venind de aici.",
+        "vaccine" : ""
     },
     {
         "name": "Congo",
@@ -547,6 +577,9 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Luanda, Angola.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Este singurul loc din lume care găzduiește cimpanzeul Bonobo, considerat cea mai apropiată legătură a speciei umane.",
+        "vaccine" : ""
     },
     {
         "name": "Congo, The Democratic Republic of the",
@@ -557,6 +590,9 @@
         "warning" : "Alertă de călătorie!! MMinisterul Afacerilor Externe informează cetățenii români asupra riscului de infectare cu Ebola din cauza epidemiei prezente în Republica Democrată Congo. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Luanda, Angola.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Populația Republicii Democrate Congo adună peste 200 de grupuri etnice, ce vorbesc 250 de limbi și dialecte în întreaga țară.",
+        "vaccine" : ""
     },
     {
         "name": "Cook Islands",
@@ -575,6 +611,9 @@
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români vigilență sporită pe fondul jafurilor și al infracțiunilor violente în locurile publice la adresa turiștilor. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Ciudad de Mexico, Mexic.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Este una dintre cele mai 'fericite' țări din lume, cu o populație ce adoptă stilul de viață pura vida. ",
+        "vaccine" : ""
     },
     {
         "name": "Cote D'Ivoire",
@@ -585,6 +624,9 @@
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă vigilență sporită pe fondul insecurității țării, cu focare de tensiune la nivel local. De asemenea, riscul de răspândire al virusului polio sălbatic și/sau derivat din vaccin este destul de ridicat. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Dakar, Senegal.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Coasta de Fildeș are două capitale: Yamoussoukro (cea oficială) și Abidjan (cea administrativă).",
+        "vaccine" : ""
     },
     {
         "name": "Croatia",
@@ -595,6 +637,9 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Zagreb.",
         "affiliation" : "UE, NATO, ONU"
+        "emergency" : "",
+        "funfact" : "Este țara care a dat naștere creionului mecanic. Slavoljub Penkala l-a inventat în 1906 și compania sa există și acum.",
+        "vaccine" : ""
     },
     {
         "name": "Cuba",
@@ -605,6 +650,9 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Havana.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Deși relațiile sale cu Occidentul s-au îmbunătățit, Cuba este în continuare o țară cu regim autoritar. Ca atare, Wi-Fi-ul este greu de găsit - îl vei putea folosi doar în locuri dedicate și contra-cost.",
+        "vaccine" : ""
     },
     {
         "name": "Cyprus",
@@ -615,6 +663,9 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Nicosia.",
         "affiliation" : "UE, ONU"
+        "emergency" : "",
+        "funfact" : "Cipru se bucură de razele soarelui peste 300 de zile pe an.",
+        "vaccine" : ""
     },
     {
         "name": "Czech Republic",
@@ -625,6 +676,9 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Praga.",
         "affiliation" : "UE, NATO, ONU"
+        "emergency" : "",
+        "funfact" : "Cehia are cele mai multe castele din Europa: peste 2.000.",
+        "vaccine" : ""
     },
     {
         "name": "Denmark",
