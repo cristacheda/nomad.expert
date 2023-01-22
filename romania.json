@@ -689,6 +689,9 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Copenhaga.",
         "affiliation" : "UE, NATO, ONU"
+        "emergency" : "",
+        "funfact" : "Danemarca deține cel mai vechi steag din lume. Legenda spune că își are originile în secoulul al XIV-lea, în timpul bătăliei de la Lyndanisse.",
+        "vaccine" : ""
     },
     {
         "name": "Djibouti",
@@ -707,6 +710,9 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Havana, Cuba.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Aici a fost filmată pelicula 'Pirates of the Caribbean: Dead Man’s Chest'.",
+        "vaccine" : "
     },
     {
         "name": "Dominican Republic",
@@ -717,6 +723,9 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Bogota, Republica Dominicană.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Este singura țară din lume cu o biblie pe steagul național.",
+        "vaccine" : "
     },
     {
         "name": "Ecuador",
@@ -727,6 +736,9 @@
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă vigilență maximă pe fondul protestelor și al infracțiunilor frecvente. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Lima, Peru.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Insulele Galapagos, parte din Ecuador, au stat la baza Teoriei Evoluției a lui Charles Darwin.",
+        "vaccine" : "
     },
     {
         "name": "Egypt",
@@ -737,6 +749,9 @@
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe atrage atenția asupra atentatelor teroriste din Peninsula Sinai și la frontiera cu Libia și Sudan. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Cairo.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "95% din populația Egiptului trăiește de-a lungul Nilului, cel mai lung râu din lume.",
+        "vaccine" : "
     },
     {
         "name": "El Salvador",
@@ -747,6 +762,9 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Ciudad de Mexico, Mexic.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Este cea mai mică țară din America Centrală, dar unul dintre cele mai mari centre comerciale din zonă.",
+        "vaccine" : "
     },
     {
         "name": "Equatorial Guinea",
@@ -773,6 +791,9 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Tallinn.",
         "affiliation" : "UE, NATO, ONU"
+        "emergency" : "",
+        "funfact" : "În 2005 a devenit prima țară din lume care a introdus votul digital, subliniind poziția sa ca una dintre cele mai avansate digital societăți din Europa.",
+        "vaccine" : "
     },
     {
         "name": "Ethiopia",
@@ -783,6 +804,9 @@
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă, pe lângă vigilența sporită, contactarea Ambasadei României la Addis Abeba atât înainte de călătorie, cât și la sosirea în Etiopia pentru semnalarea prezenței. Deși situația de securitate este stabilă, se menține riscul incidentelor și conflictelor locale. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Addis Abeba.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Este singura țară din lume cu un sistem de timp în 12 ore: ciclul zilei începe cu răsăritul fiecarei dimineți la ora 06:00 și se încheie pe înserat, la 17:59. Ciclul de noapte începe seara la ora 18:00 ",
+        "vaccine" : "
     },
     {
         "name": "Falkland Islands (Malvinas)",
