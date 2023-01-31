@@ -833,6 +833,9 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Canberra, Australia.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Fiji reunește 332 de insule, localizate între Hawaii și Noua Zeelandă.",
+        "vaccine" : "
     },
     {
         "name": "Finland",
@@ -843,6 +846,9 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Helsinki.",
         "affiliation" : "UE, ONU"
+        "emergency" : "",
+        "funfact" : "Finlandezii sunt cei mai mari băutori de cafea din lume. Un finlandez consumă, în medie, 12 kilograme de cafea pe an, așa că 8 cești pe zi reprezintă ceva complet obișnuit pentru finlandezi.",
+        "vaccine" : "
     },
     {
         "name": "France",
@@ -853,6 +859,9 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Paris.",
         "affiliation" : "UE, NATO, ONU"
+        "emergency" : "",
+        "funfact" : "Francezii beau 11 milioane de pahare de vin în fiecare an, adică aproape 25 de milioane de hectolitri.",
+        "vaccine" : "
     },
     {
         "name": "French Guiana",
