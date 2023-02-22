@@ -896,6 +896,9 @@
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă vigilență maximă pe fondul criminalității urbane din capitală și al tentativelor de fraudă. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Abuja, Nigeria.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Mai mult de 80% din suprafața țării este acoperită de pădure.",
+        "vaccine" : "
     },
     {
         "name": "Gambia",
@@ -906,6 +909,9 @@
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă prudență maximă sau chiar anularea călătoriilor în Gambia pe fondul tensiunilor postelectorale. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Dakar, Senegal.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Numele oficial al țării este The Gambia, una dintre cele singurele două țări din lume cu prefix înaintea numelui țării (alături de The Bahamas).",
+        "vaccine" : "
     },
     {
         "name": "Georgia",
@@ -916,6 +922,9 @@
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă vigilență maximă pe fondul tensiunilor de stradă înregistrate în ultimele luni. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Tbilisi.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Georgia este considerată drept locul de naștere al vinului, datând în urmă cu 8000 de ani.",
+        "vaccine" : "
     },
     {
         "name": "Germany",
@@ -926,6 +935,9 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Berlin.",
         "affiliation" : "UE, NATO, ONU"
+        "emergency" : "",
+        "funfact" : "Poți comanda bere într-un restaurant din Germania doar ridicând degetul mare - dacă ridici și degetul arătător și cel din mijloc, vei comanda trei beri.",
+        "vaccine" : "
     },
     {
         "name": "Ghana",
@@ -936,6 +948,9 @@
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă prudență maximă cetățenilor români care călătoresc în Ghana și să evite deplasările pe timpul nopții pe fondul violențelor stradale. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Abuja, Nigeria.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Atunci când faci cunoștință cu un grup de cetățeni din Ghana, este considerat politicos să le strângi mâna începând cu persoana din dreapta, din capăt, iar apoi să continui spre stânga.",
+        "vaccine" : "
     },
     {
         "name": "Gibraltar",
@@ -954,6 +969,9 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Atena.",
         "affiliation" : "UE, NATO, ONU"
+        "emergency" : "",
+        "funfact" : "Prânzul este cea mai importantă masă a zilei în Grecia: este servit de regulă la ora 14:00. Cina se servește, de regulă, nu mai devreme de ora 21:00.",
+        "vaccine" : "
     },
     {
         "name": "Greenland",
@@ -996,6 +1014,9 @@
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români care urmează să călătorească în Republica Guatemala să fie extrem de vigilenți ca urmare a jafurilor, a sechestrărilor și a infracțiunilor violente. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Ciudad de Mexico, Mexic.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Guatemala are peste 30 de vulcani pe teritoriul său, însă doar trei dintre ei sunt activi.",
+        "vaccine" : "
     },
     {
         "name": "Guernsey",
@@ -1038,6 +1059,9 @@
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recocmandă cu insistență încheierea de asigurări de călătorie, medicale și de viață pentru călătoriile în Haiti. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Havana, Cuba.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Locuitorii din Haiti te pot saluta în mai multe feluri: pot spune bonjou, sak pase sau onè respè.",
+        "vaccine" : "
     },
     {
         "name": "Heard Island and Mcdonald Islands",
@@ -1080,6 +1104,11 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Budapesta.",
         "affiliation" : "UE, NATO, ONU"
+        "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "În Ungaria nu se obișnuiește să ciocnești paharele de bere: legenda spune că, după victoria Habsburgilor asupra revoluției maghiare din 1848, austriecii ciocneau paharele de bere după fiecare execuție. Maghiarii au jurat atunci să nu mai ciocnească paharele timp de 150 de ani, iar mulți dintre ei încă urmează acest jurământ.",
+        "vaccine" : "
+        
     },
     {
         "name": "Iceland",
