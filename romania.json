@@ -1119,6 +1119,9 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Copenhaga, Danemarca.",
         "affiliation" : "NATO, ONU"
+        "emergency" : "",
+        "funfact" : "Există doar două locuri pe planetă unde nu vei găsi țânțari: Antarctica și Islanda. Nu vei găsi în Islanda nici șerpi, scorpioni sau păianjeni veninoși.",
+        "vaccine" : "
     },
     {
         "name": "India",
@@ -1129,6 +1132,10 @@
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă evitarea statelor Jammu și Kashmir, pe fondul revocării statutului lor special. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la New Delhi.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Rupia indiană este o valută închisă: restricțiile presupun ca vizitatorii ori să sosească în țară cu bani cash pe care să-i schimbe apoi la aeroport sau oficii de schimb, ori să retragă rupii de la ATM odată ajunși în India.",
+        "vaccine" : "
+        
     },
     {
         "name": "Indonesia",
@@ -1139,6 +1146,9 @@
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români să fie extrem de vigilenți, atât pe fondul atacurilor teroriste, precum și din cauza frecvenței crescute a cutremurelor de intensitatet mare. De asemenea, Indonezia se află pe lista țărilor care impun cetățenilor străini vaccinarea antipoliomielită. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Jakarta.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Indonezia oferă o viză specială pentru nomazii digitali. Anunțată în 2021, viza durează până la 5 ani și toți banii câștigați în această perioadă sunt scutiți de taxe.",
+        "vaccine" : "
     },
     {
         "name": "Iran, Islamic Republic Of",
@@ -1157,6 +1167,9 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Bagdad.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Iraqul este una dintre cele mai periculoase țări pentru călătorii conform International SOS Travel Risk Map.",
+        "vaccine" : "
     },
     {
         "name": "Ireland",
@@ -1167,6 +1180,9 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Dublin.",
         "affiliation" : "UE, ONU"
+        "emergency" : "",
+        "funfact" : "Eticheta Dublin Pub sau Galway pub spune că dacă cineva îți cumpără o băutură, trebuie să cumperi și tu una înapoi persoanei care ți-a făcut cinste - iar dacă faci parte dintr-un grup, băuturile vor fi servite în runde (o persoană cumpără băuturi pentru toți ceilalți).",
+        "vaccine" : "
     },
     {
         "name": "Isle of Man",
@@ -1185,6 +1201,9 @@
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români prudență maximă și evitarea deplasărilor care nu se impun în zona de sud a Israelului din cauza tirurilor cu rachete din Fâșia Gaza. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Tel Aviv.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Orașul-port Eilat este o zonă duty free unde se poate desfășura un comerț liber, fără taxă pe valoare adăugată.",
+        "vaccine" : "
     },
     {
         "name": "Italy",
@@ -1195,6 +1214,9 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Roma.",
         "affiliation" : "UE, NATO, ONU"
+        "emergency" : "",
+        "funfact" : "14 miliarde de espresso-uri sunt savurate în fiecare an în Italia. Peste 20.000 de italieni lucrează ca barista, iar consumul mediu de cafea pe gospodărie este de 37 de kilograme pe an.",
+        "vaccine" : "
     },
     {
         "name": "Jamaica",
