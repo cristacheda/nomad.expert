@@ -1227,6 +1227,9 @@
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români să fie extrem de prudenți pe fondul ratei de criminalitate destul de ridicată. De asemenea, există o serie de vaccinuri care trebuie obligatoriu efectuată. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Havana, Cuba.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "În Jamaica se conduce pe partea stângă a drumului, un memento al trecutului său colonial.",
+        "vaccine" : "
     },
     {
         "name": "Japan",
@@ -1236,6 +1239,9 @@
         "comment": "Cetățenii români care doresc să călătorească în Japonia au nevoie de pașaport și viză. Cea din urmă se poate obține de la Ambasada Japoniei la București. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Bacșișul este un obicei nepracticat în Japonia, așa că turiștii care lasă alături de nota de plată o sumă prea mare vor fi urmăriți de ospătar pentru a înapoia diferența.",
+        "vaccine" : "
     },
     {
         "name": "Jersey",
@@ -1254,6 +1260,9 @@
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români care călătoresc în Iordania să fie vigilenți pe fondul contextului geopolitic și securitar, Iordania fiind înconjurată de conflicte militare și activități de natură teroristă. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Amman.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Poți traversa Iordania în 40 de zile.",
+        "vaccine" : "
     },
     {
         "name": "Kazakhstan",
@@ -1264,6 +1273,9 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Nursultan.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Calul a fost domesticit pentru prima oară pe teritoriul Kazahstanului.",
+        "vaccine" : "
     },
     {
         "name": "Kenya",
@@ -1274,6 +1286,9 @@
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă prudență pe fondul cazurilor de holeră și poliomielită, dar și din cauza atentatelor teroriste ce motivează anularea călătoriilor care nu sunt necesare. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Nairobi.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Deși Kenya are 2 limbi oficiale - Swahili și Engleza - pe teritoriul țării se vorbesc în jur de 68 de limbi.",
+        "vaccine" : "
     },
     {
         "name": "Kiribati",
@@ -1283,6 +1298,9 @@
         "comment": "Cetățenii români care doresc să călătorească în Republica Kiribati nu au nevoie de viză, ci doar de papșaport - perioada maximă de ședere este de 90 de zile. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Canberra.",
         "warning" : ""
+        "emergency" : "",
+        "funfact" : "Deși are un teritoriu de numai 811 kilometri pătrați, Kiribati se întinde pe o suprafață de mărimea Indiei.",
+        "vaccine" : "
     },
     {
         "name": "Korea, Democratic People's Republic of",
@@ -1293,6 +1311,9 @@
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Phenian.",
         "warning" : "",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Jeanșii sunt declarați ilegali în Coreea de Nord, întrucât sunt văzuți ca simboluri ale imperialismului american.",
+        "vaccine" : "
     },
     {
         "name": "Korea, Republic of",
@@ -1303,6 +1324,9 @@
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe avertizează asupra poluării masive din Coreea de Sud, precum și asupra exercițiilor frecvente de apărare civilă. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Seul.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Sud-coreenii consideră că numărul 4 că aduce ghinion, așa că nu-l vei vedea în lifturi sau pe case.",
+        "vaccine" : "
     },
     {
         "name": "Kuwait",
@@ -1313,6 +1337,9 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Kuweit.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Afișarea tălpii piciorului sau încrucișarea picioarelor sunt considerate nepoliticoase în Kuwait.",
+        "vaccine" : "
     },
     {
         "name": "Kyrgyzstan",
@@ -1323,6 +1350,9 @@
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă prudență cetățenilor români care doresc să se deplaseze în zona de sud a țării pe fondul situației de securitate. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Nursultan, Kazahstan.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Epopeea Manas, operă kârgâză ce datează din secolul al XVIII-lea, are 500.000 de versuri - o carte de 20 de ori mai lungă decât Odiseea.",
+        "vaccine" : "
     },
     {
         "name": "Lao,  People's Democratic Republic",
@@ -1341,6 +1371,9 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Vilnius, Lituania.",
         "affiliation" : "UE, NATO, ONU"
+        "emergency" : "",
+        "funfact" : "Jacob W. Davis, un croitor leton, este adevăratul inventator al jeanșilor. A creat prima pereche în 1872, iar atunci l-a abordat pe Levi Strauss pentru sponsorizare și patent.",
+        "vaccine" : "
     },
     {
         "name": "Lebanon",
@@ -1349,7 +1382,7 @@
         "source": "https://www.mae.ro/travel-conditions/3716",
         "comment": "Cetățenii români care doresc să călătorească în Liban au nevoie de pașaport și viză, iar perioada maximă de ședere este de 2 luni. Dacă scopul depplasării este turistic sau de vizită, iar perioada de ședere nu depășește 2 luni, viza de scurtă ședere sau de tranzit aeroportuar este acordată în punctul de frontieră (Visa on Arrival) pentru maximul 60 de zile pe pașaportul românesc (simplu, diplomatic sau de serviciu). Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români să fie extrem de vigilenți pe fondul acțiunilor constante de protest, dar și din cauza atentatelor teroriste și a conflictelor interconfesionale. Mai multe detalii pe site-ul oficial MAE.",
-        "misiune" : "Misiune diplomatică activă prin Ambasada României la Beirut.",
+        "misiune" : "Deși limba oficială este cea arabă, vei găsi suficienți locuitori care vorbesc franceză, germană, engleză sau armeană.",
         "affiliation" : "ONU"
     },
     {
@@ -1361,6 +1394,9 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică asigurată prin Consulatul Onorific al României la Freetown, Sierra Leone.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Este singurul stat independent din lume situat la o înălținme de peste 1000 de metri - de aici își ia și porecla de Regatul Cerului.",
+        "vaccine" : "
     },
     {
         "name": "Liberia",
