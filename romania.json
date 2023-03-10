@@ -1415,6 +1415,9 @@
         "comment": "Cetățenii români care doresc să călătorească în Libia au nevoie de pașaport și viză. Cea din urmă poate fi obținută de la Ambasada Liberiei la București, cu o valabilitatae de 3 luni și drept de ședere de 30 de zile, pentru o singură călătorie dus-întors. Mai multe detalii pe site-ul oficial MAE.",
         "emergency" : "Pericol major! Părăsiți imediat zona sau țara! Ministerul Afacerilor Externe recomandă cu fermitate cetățenilor români să evite orice fel de călătorie în Libia, iar celor care încă se află pe teritoriul libian să părăsească imediat țara! Situația de securitate rezultată din războiul civil este extrem de deteriorată, iar numeroase puncte de frontieră sunt închise. Mai multe detalii pe site-ul oficial MAE.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Peste 90% din teritoriul Libiei este acoperit de deșert sau semi-deșert.",
+        "vaccine" : "
     },
     {
         "name": "Liechtenstein",
@@ -1425,6 +1428,9 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Berna, Elveția.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Toată populația țării este invitată an de an să sărbătorească Staatsfeiertag (sărbătoarea națională) în castelul Vaduz. Prințul Hans-Adam II și fiul său, prințul Alois, invită cele 39.000 de persoane să bea împreună bere, să petreacă și să urmărească artificiile.",
+        "vaccine" : "
     },
     {
         "name": "Lithuania",
@@ -1435,6 +1441,10 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Vilnius.",
         "affiliation" : "UE, NATO, ONU"
+        "emergency" : "",
+        "funfact" : "Capitala țării, Vilnius, are o fundație anonimă a leagănelor. Este vorba despre un grup de persoane care instalează leagăne în oraș și, la nevoie, le schimbă locațiile.",
+        "vaccine" : "
+        
     },
     {
         "name": "Luxembourg",
@@ -1445,6 +1455,9 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Luxemburg.",
         "affiliation" : "UE, NATO, ONU"
+        "emergency" : "",
+        "funfact" : "Restaurantul cu cea mai lungă listă de vinuri din lume se află în Marele Ducat de Luxemburg: peste 2.200 de vinuri se regăsesc în meniul restaurantului Chiggeri.",
+        "vaccine" : "
     },
     {
         "name": "Macao",
@@ -1463,6 +1476,9 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Skopje.",
         "affiliation" : "NATO, ONU"
+        "emergency" : "",
+        "funfact" : "Macedonia de Nord are mai mulți munți și creste decât orice altă țară din lume. Majoritatea celor 34 de creste montane nu au fost explorate niciodată.",
+        "vaccine" : "
     },
     {
         "name": "Madagascar",
@@ -1473,6 +1489,9 @@
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă vigilență maximă și evitarea anumitor zone ale țării pe fondul atacurilor armate violente ale unor grupări organizate. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică asigurată prin Consulatul Onorific al României la Freetown, Sierra Leone.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Bărbații și femeile din Madagascar port aceleași haine - portul tradițional se numește lamba și este purtat de ambele sexe.",
+        "vaccine" : "
     },
     {
         "name": "Malawi",
@@ -1483,6 +1502,9 @@
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe avertizează asupra pericolului de răspândire a virusului polio sălbatic și/sau derivat din vaccin, așa că vaccinarea antipoliomielită este obligatorie. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Harare, Zimbabwe.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Numele țării înseamnă 'flăcări ale focului' și este dat de reflexia răsăritului de soare pe apele marelui lac Malawi. Țara mai este numită și 'Inima Caldă a Africii' datorită ospitalității și a bunătății cetățenilor săi.",
+        "vaccine" : "
     },
     {
         "name": "Malaysia",
@@ -1493,6 +1515,9 @@
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă vigilență maximă pe tema securității instabile. De asemenea, Malaysia are o politică extrem de dură în privința combaterii traficului și consumului de droguri, pedeapsa cu moartea fiind aplicată automat indiferent de naționalitate. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Kuala Lumpur.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Sistemul de autostrăzi din Malaysia adună mai mulți kilometri decât circumferința Pământului: 65.877 de kilometri de autostradă, comparativ cu cei 40.075 de kilometri cât măsoară circumferința globului.",
+        "vaccine" : "
     },
     {
         "name": "Maldives",
@@ -1503,6 +1528,10 @@
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă vigilențăț maximă pe fondul demonstrațiilor organizate sau spontane, precum și pe fondul amenințării teroriste generale. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la New Delhi, India.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Precum în Egipt, Iordania sau Oman, weekendul în Maldive este format din zilele de vineri și sâmbătă.",
+        "vaccine" : "
+        
     },
     {
         "name": "Mali",
@@ -1513,6 +1542,9 @@
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români vigilență maximă pe fondul riscului crescut de acțiuni teroriste pe teritoriul statului Mali. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Dakar, Senegal.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Peste 67% din populația țării are sub 25 de ani, ceea ce face Mali una dintre țările cu cea mai tânără populație din lume.",
+        "vaccine" : "
     },
     {
         "name": "Malta",
@@ -1523,6 +1555,9 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Valetta.",
         "affiliation" : "UE, ONU"
+        "emergency" : "",
+        "funfact" : "Malta are unul dintre cele mai bune climate din lume și se bucură de peste 3000 de ore de soare în fiecare an, lucruri care o fac o destinație turistică excelentă.",
+        "vaccine" : "
     },
     {
         "name": "Marshall Islands",
@@ -1533,6 +1568,9 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Manila, Filipine.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Este una dintre singurele 22 de țări din lume care nu au armată - Statele Unite ale Americii sunt responsabile cu apărarea și securitatea Insulelor Marshall.",
+        "vaccine" : "
     },
     {
         "name": "Martinique",
@@ -1551,6 +1589,9 @@
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români să evite călătoriile în Mauritania pe fondul situației de securitate precare, precum și din cauza răpirilor de persoane. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Rabat, Maroc.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "90% din teritoriul Mauritaniei este acoperit de deșert.",
+        "vaccine" : "
     },
     {
         "name": "Mauritius",
