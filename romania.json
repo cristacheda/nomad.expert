@@ -1602,6 +1602,9 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică asigurată prin Consulatul Onorific al României la Freetown, Sierra Leone.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Mark Twain a spus la un moment dat că Mauritius a fost creat prima oară și apoi Raiul, copiat după țara africană.",
+        "vaccine" : ""
     },
     {
         "name": "Mayotte",
@@ -1620,6 +1623,9 @@
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă vigilență maximă pe fondul jafurilor și infracțiunilor violente în locurile publice - furturile de documente, bani, cărți de credit/debit sau alte bunuri sunt cele mai răspândite. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Ciudad de Mexico.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "În Mexico City, capitala țării, există autobuze dedicate exclusiv femeilor, precum și secțiuni speciale la metrou.",
+        "vaccine" : ""
     },
     {
         "name": "Micronesia, Federated States of",
@@ -1630,6 +1636,9 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Manila, Filipine.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Este una dintre cele mai puțin vizitate țări din lume, cu doar aproximativ 30.000 de turiști în fiecare an.",
+        "vaccine" : ""
     },
     {
         "name": "Moldova, Republic of",
@@ -1640,6 +1649,9 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Chișinău.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Crama Mileștii Mici din Moldova posedă aproape 2 milioane de sticle de vin, ceea ce i-a rezervat un loc în Cartea Recodurilor.",
+        "vaccine" : ""
     },
     {
         "name": "Monaco",
@@ -1650,6 +1662,9 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Paris.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Este ilegal pentru cetățenii din Monaco să joace la casino - această activitate este permisă doar turiștilor.",
+        "vaccine" : ""
     },
     {
         "name": "Mongolia",
@@ -1660,6 +1675,12 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Beijing.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Aproape un milion de turiști vizitează anual Belize, 70% dintre ei fiind americani.",
+        "vaccine" : ""
+        "emergency" : "",
+        "funfact" : "Mongolezii sunt recunoscuți pentru ospitalitatea lor, mereu vor fi pregătiți cu un bol fierbinte de ceai pentru oaspeți.",
+        "vaccine" : ""
     },
     {
         "name": "Montserrat",
@@ -1678,6 +1699,9 @@
         "warning" : "Alertă de călătorie! Riscul comiterii de atentate teroriste este prezent la nivelul întregului Regat al Marocului, așa că Ministerul Afacerilor Externe recomandă cetățenilor români prudență deosebită. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Rabat.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Marocul este faimos pentru ospitalitatea sa: șoferii de taxi, chelnerii sau comercianții te vor trata mereu ca pe propria familie.",
+        "vaccine" : ""
     },
     {
         "name": "Mozambique",
@@ -1688,6 +1712,9 @@
         "warning" : "Alertă de călătorie! Este recomandată vacinarea persoanelor care călătoresc spre și dinspre Mozambic, pe fondul riscului de transmitere a polio-virusurilor. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică asigurată prin Consulatul Onorific al României la Freetown, Sierra Leone.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Lacul Malawi din Mozambic mai este numit și Lacul Calendar datorită dimensiunilor sale: 365 de mile lungime și 52 de mile lățime.",
+        "vaccine" : ""
     },
     {
         "name": "Myanmar",
@@ -1698,6 +1725,9 @@
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă vaccinarea persoanelor care călătoresc în Myanmar, pe fondul riscului de transmitere a polio-virusurilor. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Beijing.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Vrei să atragi atenția unui ospătar în Myanmar? În loc să îi faci semn cu mâna sau să-i surprinzi privirea pentru a-l chema la masă, va trebui să faci sunetul unui sărut de două sau trei ori în direcția sa.",
+        "vaccine" : ""
     },
     {
         "name": "Namibia",
