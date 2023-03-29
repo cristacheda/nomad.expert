@@ -1738,6 +1738,9 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică asigurată prin Consulatul Onorific al României la Freetown, Sierra Leone.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "În Namibia se află cel mai vechi deșert din lume - Deșertul Namib, cu o vechime de cel puțin 55 de milioane de ani.",
+        "vaccine" : ""
     },
     {
         "name": "Nauru",
@@ -1748,6 +1751,9 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Canberra, Australia.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Este cea mai mică țară-insulă din lume, cu o suprafață totală de 21 de kilometri pătrați.",
+        "vaccine" : ""
     },
     {
         "name": "Nepal",
@@ -1758,6 +1764,10 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la New Delhi, India.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Nepalezii mănâncă în fiecare zi Dal Bhat, o combinație de linte și orez cu roșii, ceapă, chilli, ghimbir și mirodenii. Se mănâncă atât dimineața, cât și seara întrucât este un preparat bogat nutritiv, ieftin și ușor de preparat.",
+        "vaccine" : ""
+        
     },
     {
         "name": "Netherlands",
@@ -1768,6 +1778,9 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Haga.",
         "affiliation" : "UE, ONU"
+        "emergency" : "",
+        "funfact" : "Morcovii de care ne bucurăm cu toții sunt portocalii din cauza olandezilor. Deși în secolul X morcovii erau albi, mov sau galbeni, olandezii au ținut să-l onoreze pe William of Orange - care i-a ajutat să-și câștige independența față de Spania - mixând soiurile de morcovi pentru a le da culoarea portocalie pe care o vedem acum.",
+        "vaccine" : ""
     },
     {
         "name": "Netherlands Antilles",
@@ -1794,6 +1807,9 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Canberra, Australia.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Dealul cu cel mai lung nume din lume se află pe coasta de sud-est a Noii Zelande și se numește Taumatawhakatangihangakoauauotamateaturipukakapikimaungahoronukupokaiwhenuakitanatahu.",
+        "vaccine" : ""
     },
     {
         "name": "Nicaragua",
@@ -1804,6 +1820,10 @@
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români să fie extrem de vigilenți pe fondul situației de securitate instabilă la nivel de țară. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Ciudad de Mexico, Mexic.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Străzile din Nicaragua nu au nume, așa că dacă plănuiești să vizitezi această țară, hotelul tău poate fi localizat, de exemplu, la o stradă-sud de colegiu, în fața bisericii.",
+        "vaccine" : ""
+        
     },
     {
         "name": "Niger",
@@ -1814,6 +1834,10 @@
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români evitarea oricărei deplasări pe teritoriul Nigerului pe fondul situației conflictuale din statele vecine. De asemenea, acțiunile teroriste și răpirile sunt și ele foarte răspândite. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Alger, Algeria.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Niger face parte din proiectul Marele Zid Verde al Africii, cea mai ambițioasă inițiativă de împădurire din lume. Conceput în 2007, proiectul propune o barieră verde intercontinentală de 7000 de kilometri, din Senegal și până în Djibouti. Procentul de finalizare este momentan la 15%.",
+        "vaccine" : ""
+        
     },
     {
         "name": "Nigeria",
@@ -1824,6 +1848,10 @@
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români care doresc să călătorească în Nigeria să manifeste prudență sporită și să contacteze Ambasada României la Abuja pentru a-și înregistra prezența. De asemenea, climatul actual de pericol de răspândire a virusului polio sălbatic și/sau derivat din vaccin este extrem de delicat. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Abuja.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "În Nigeria, precum și în alte părți ale Africii, este considerat nepoliticos să privești pe cineva în ochi atunci când îi vorbești. Acest gest este interpretat ca o postură agresivă, în special dacă este inițiată de un tânăr aflat în conversație cu cineva în vârstă.",
+        "vaccine" : ""
+        
     },
     {
         "name": "Niue",
@@ -1858,6 +1886,9 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Oslo.",
         "affiliation" : "NATO, ONU"
+        "emergency" : "",
+        "funfact" : "Norvegia oferă anual Marii Britanii un brad de Crăciun din pădurea Oslo, ca semn de mulțumire pentru ajutorul dat în timpul celui de-al Doilea Război Mondial. Acesta este decorat în stil norvegian, cu lumini albe și plasat în Trafalgar Square.",
+        "vaccine" : ""
     },
     {
         "name": "Oman",
