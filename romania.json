@@ -1899,6 +1899,9 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Muscat.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Este una dintre cele mai sigure țări din lume pentru amatorii de călătorii: rata criminalității este practic zero, în mare parte datorită legii Sharia.",
+        "vaccine" : ""
     },
     {
         "name": "Pakistan",
@@ -1909,6 +1912,9 @@
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe avertizează asupra situației de securitate instabilă, care se poate deteriora brusc. De asemenea, pericolul de răspândire a virusului polio sălbatic și/sau derivat din vaccin este crescut. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Islamabad.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Aproape jumătate din toate mingiile de fotbal din lume sunt fabricate în Pakistan, în orașul Sialkot.",
+        "vaccine" : ""
     },
     {
         "name": "Palau",
@@ -1918,6 +1924,9 @@
         "comment": "Cetățenii români care doresc să călătorească în Republica Palau au nevoie doar de pașaport, grație Acordului între Uniunea Europeană și Republica Palau privind exonerarea de obligație de a deține viză de scurtă ședere. Perioada de ședere nu poate depăși 90 de zile în cursul oricărei perioade de 180 de zile. Mai multe detatlii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Manila, Filipine.",
         "warning" : ""
+        "emergency" : "",
+        "funfact" : "Începând cu 2017, toți turiștii care vizitază Palau sunt obligați să semneze un angajament ecologic pe pașaport, prin care promit să respecte mediul înconjurător pe perioada șederii.",
+        "vaccine" : ""
     },
     {
         "name": "Palestinian Territory, Occupied",
@@ -1936,6 +1945,9 @@
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe avertizează asupra riscului crescut de răpiri, furturi sau fraude cu cărți de credit în anumite zone. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Bogota, Panama.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Este prima țară latino-americană care a adoptat dolarul american ca monedă națională.",
+        "vaccine" : ""
     },
     {
         "name": "Papua New Guinea",
@@ -1946,6 +1958,9 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Singapore.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Papua Noua Guinee are una dintre cele mai mari rate ale criminalității de pe glob. Tocmai de aceea, turiștii sunt sfătuiți să contracteze un ghid și securitate de nivel înalt în timpul vizitei.",
+        "vaccine" : ""
     },
     {
         "name": "Paraguay",
@@ -1956,6 +1971,9 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Buenos Aires, Argentina.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Duelul prin pistoale este încă legal în Paraguay, cât timp ambele persoane sunt donatoare de sânge înregistrate.",
+        "vaccine" : ""
     },
     {
         "name": "Peru",
@@ -1966,6 +1984,9 @@
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe avertizează asupra Legii Migrației, în vigoare acum în Peru și care poate atrage sancțiuni drastice pentru încălcarea ordinii publice sau a ordinii interne. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Lima, Peru.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Poți înota alături de delfini de culoare roz în bazinul râului Amazon - o ocazie unică în viață.",
+        "vaccine" : ""
     },
     {
         "name": "Philippines",
@@ -1976,6 +1997,9 @@
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe avertizează asupra riscului de infectare cu virusul polio sălbatic și/sau derivat din vaccin, ce necesită vaccinarea antipoliomielită a celor care doresc să călătorească în Filipine. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Manila.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Filipinezii sunt printre cei mai politicoși și calzi oameni de pe glob: sunt primitori, iubesc distracția și sunt mereu gata să ajute.",
+        "vaccine" : ""
     },
     {
         "name": "Pitcairn",
@@ -1994,6 +2018,9 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Varșovia.",
         "affiliation" : "UE, NATO, ONU"
+        "emergency" : "",
+        "funfact" : "Piwnica Swidnicka se află în Wrocław și este cel mai vechi restaurant din Europa - datează din 1275.",
+        "vaccine" : ""
     },
     {
         "name": "Portugal",
@@ -2004,6 +2031,10 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Lisabona.",
         "affiliation" : "UE, NATO, ONU"
+        "emergency" : "",
+        "funfact" : "Este una dintre cele mai vechi națiuni ale Europei: granițele sale au fost trasate în 1139. Ca punct de reper, Lisabona este mai în vârstă cu 4 secole decât Roma.",
+        "vaccine" : ""
+        
     },
     {
         "name": "Puerto Rico",
@@ -2022,6 +2053,10 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Doha.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "În Qatar, weekendul este compus din zilele de vineri și sâmbătă - săptămâna de lucru începe duminica și se încheie joia.",
+        "vaccine" : ""
+        
     },
     {
         "name": "Reunion",
