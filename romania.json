@@ -2083,6 +2083,9 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Moscova.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Rușii sunt învățați de mici să nu zâmbească, întrucât consideră asta drept un semn de slăbiciune și viclenie. Chiar dacă le zâmbesc celor dragi, nu vor face la fel cu străinii.",
+        "vaccine" : ""
     },
     {
         "name": "RWANDA",
@@ -2093,6 +2096,9 @@
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cu insistență evitarea oricărei călătorii în zona de frontieră cu Republica Democrată Congo din cauza acțiunilor transfrontaliere ale gherilelor armate din R.D. Congo și Burundi. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Nairobi, Kenya.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Rwanda este una dintre cele mai dezvoltate țări din Africa - se remarcă prin digitalizarea extensivă, politicile ecologice puternice, inovarea în tehnologie și ponderea de femei în parlamentul țării, peste 60% din for. ",
+        "vaccine" : ""
     },
     {
         "name": "Saint Helena",
@@ -2110,6 +2116,9 @@
         "comment": "Cetățenii români care doresc să călătorească în Saint Kitts și Nvis nu au nevoie de viză de intrare, ci doar de pașaport. Scopul călătoriei trebuie să fie turistic, iar perioada de ședere să nu depășească 90 de zile. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Havana, Cuba.",
         "warning" : ""
+        "emergency" : "",
+        "funfact" : "Este cea mai mică țară din Americi, atât ca dimensiune, cât și ca populație: 269 de kilometri pătrați pentru 45.000 de oameni.",
+        "vaccine" : ""
     },
     {
         "name": "Saint Lucia",
@@ -2144,6 +2153,9 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Canberra, Australia.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Societatea din Samoa este guvernată chiar și în aceste vremuri de un cod de conduită și comportament străvechi, numit Fa’a Samoa sau Calea din Samoa. Are în prim plan familia extinsă sau ‘aiga - doar cu ajutorul familiei poți trece ușor prin viață, împărtășind povara și împărtășind toate experiențele cu ea.",
+        "vaccine" : ""
     },
     {
         "name": "San Marino",
@@ -2154,6 +2166,10 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Roma.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Teritoriul San Marino nu a fost invadat niciodată: a rezistat atât tentativelor lui Cesare Borgia în anii 1500 și 1700, precum și trupelor lui Napoleon în secolul al XVIII-lea.",
+        "vaccine" : ""
+        
     },
     {
         "name": "Sao Tome and Principe",
