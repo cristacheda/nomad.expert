@@ -2200,6 +2200,9 @@
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români să manifeste prudență în cazul deplasărilor nocturne sau în anumite zone pe tema situației de securitate fragilă. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Dakar.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Cel mai vestic punct al Africii continentale se află în capitala Senegalului, în cartierul Almadies.",
+        "vaccine" : ""
     },
     {
         "name": "Serbia",
@@ -2210,6 +2213,9 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Belgrad.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Pe teritoriul Serbiei s-au născut nu mai puțin de 18 împărați romani.",
+        "vaccine" : ""
     },
     {
         "name": "Montenegro",
@@ -2220,6 +2226,9 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Podgorica.",
         "affiliation" : "NATO, ONU"
+        "emergency" : "",
+        "funfact" : "Muntenegrenii sunt foarte prietenoși cu copiii - de regulă le pun întrebări, le oferă dulciuri și le spun glume chiar și celor străini.",
+        "vaccine" : ""
     },
     {
         "name": "Seychelles",
@@ -2230,6 +2239,9 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Pretoria, Africa de Sud.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Fructul arborelui de pâine este foarte popular în Seychelles, se spune chiar că cine îl mănâncă pe insulă se va întoarce într-o zi aici.",
+        "vaccine" : ""
     },
     {
         "name": "Sierra Leone",
@@ -2249,6 +2261,9 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Singapore.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Deschisă în 1994, grădina zoologică din Singapore este prima din lume deschisă pe timpul nopții. Pe parcursul celor 40 de minute de Night Safari vei putea descoperi peste 1000 de animale din 120 de specii diferite.",
+        "vaccine" : ""
     },
     {
         "name": "Slovakia",
@@ -2259,6 +2274,9 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Bratislava.",
         "affiliation" : "UE, NATO, ONU"
+        "emergency" : "",
+        "funfact" : "Toți cetățenii din Uniunea Europneană cu vârsta sub 26 de ani și înscriși la o formă de învățământ pot călători gratuit pe căile ferate din Slovacia.",
+        "vaccine" : ""
     },
     {
         "name": "Slovenia",
@@ -2269,6 +2287,9 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Ljubljana.",
         "affiliation" : "UE, NATO, ONU"
+        "emergency" : "",
+        "funfact" : "Cele mai spectaculoase peșteri din Europa se află în Slovenia. Cea mai cunoscută din cele peste 10.000 de peșteri este Postojna, ce se întinde pe 20 de kilometri.",
+        "vaccine" : ""
     },
     {
         "name": "Solomon Islands",
