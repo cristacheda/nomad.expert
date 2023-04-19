@@ -2307,6 +2307,9 @@
         "comment": "Cetățenii români care doresc să călătorească în Somalia au nevoie de pașaport și viză, deși Ministerul Afacerilor Externe recomandă ferm evitarea oricărei deplasări pe fondul situației de securitate precare. Mai multe detalii pe site-ul oficial MAE.",
         "emergency" : "Pericol major! Ministerul Afacerilor Externe recomandă insistent cetățenilor români să evite orice călătorie în Somalia, iar persoanelor care tranzitează zona sau se află pe teritoriul țării să părăsească imediat Somalia. Situația de securitate este puternic afectatî de acțiunile de piraterile la scară largă, dar și de luptele dintre forțele guvernamentale și grupările afiliale AL Qaeda. Mai multe detalii pe site-ul oficial MAE.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Mic-dejun, prânz sau cină, somalezii mănâncă banane la fiecare masă - o adaugă la orice preparat, chiar și la paste, pentru care au o cultură bogată datorită colonizării italiene.",
+        "vaccine" : ""
     },
     {
         "name": "South Africa",
@@ -2316,6 +2319,9 @@
         "comment": "Cetățenii români care doresc să călătorească în Africa de Sud au nevoie de pașaport și viză. Pașaportul trebuie să aibă o valabilitate de minimum 6 luni. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "Atenție! Pe fondul nivelului de criminalitate foarte ridicat din Africa de Sud, Ministerul Afacerilor Externe recomandă cetățenilor români să fie extrem de prudenți. Cetățenii români care doresc să călătorească în Africa de Sud sau se află deja pe teritoriul acestui stat sunt sfătuiți să se adreseze Ambasadei României la Pretoria sau Consulatului General de la Cape Town pentru a-și anunța prezența în regiune.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Africa de Sud are nu mai puțin de trei capitale: Cape Town, capitala legislativă unde se află și Parlamentul, Bloemfontein, capitala juridică unde se află Curtea Supremă de Apel și Pretoria, capitala executivă ce găzduiește clădirile sindicatelor și ale serviciilor publice.",
+        "vaccine" : ""
     },
     {
         "name": "South Georgia and the South Sandwich Islands",
@@ -2334,6 +2340,9 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Madrid.",
         "affiliation" : "UE, NATO, ONU"
+        "emergency" : "",
+        "funfact" : "Imnul Național al Spaniei nu are versuri. Se numește Marca Real și a fost compus în 1761, fiind unul dintre cele mai vechi imnuri din lume.",
+        "vaccine" : ""
     },
     {
         "name": "Sri Lanka",
@@ -2344,6 +2353,9 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Colombo.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Deși nu se cunoaște motivul nici printre localnici, multe restaurante, cafenele și baruri din Sri Lanka afișează semnul Hotel, deși nu oferă cazare - așa că trebuie să ai grijă atunci când vrei să înoptezi.",
+        "vaccine" : ""
     },
     {
         "name": "Sudan",
@@ -2354,6 +2366,9 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Khartoum.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Este una dintre cele mai diverse țări din lume: se vorbesc 114 limbi native în Sudan și există peste 500 de accente diferite.",
+        "vaccine" : ""
     },
     {
         "name": "Suriname",
@@ -2364,6 +2379,9 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Brasilia, Brazilia.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Este cea mai mică țară independentă din America de Sud, atât în termeni de mărime, cât și de populație.",
+        "vaccine" : ""
     },
     {
         "name": "Svalbard and Jan Mayen",
@@ -2382,6 +2400,9 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Pretoria, Africa de Sud.",
         "affiliation" : ""
+        "emergency" : "",
+        "funfact" : "Este ultima monarhie absolută a Africii și una dintre puținele încă existente în lume.",
+        "vaccine" : ""
     },
     {
         "name": "Sweden",
@@ -2392,6 +2413,9 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Stockholm.",
         "affiliation" : "UE, ONU"
+        "emergency" : "",
+        "funfact" : "Suedezii obișnuiesc să ia câte două pauze pe zi în care să își bea cafeaua și să discute - un obicei pe care l-au numit fika.",
+        "vaccine" : ""
     },
     {
         "name": "Switzerland",
@@ -2402,6 +2426,9 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Berna.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Este locul de naștere al Crucii Roșii, al cărei simbol se aseamănă izbitor cu drapelul elvețian. A fost fondată la Geneva în 1863, unde are sediul și acum.",
+        "vaccine" : ""
     },
     {
         "name": "Syrian Arab Republic",
@@ -2411,6 +2438,9 @@
         "comment": "Cetățenii români care doresc să călătorească în Siria au nevoie de pașaport și viză, cea din urmă fiind obținută de la ambasadele siriene din străinătate. Mai multe detalii pe site-ul oficial MAE.",
         "emergency" : "Pericol major! Ministerul Afacerilor Externe recomandă cetățenilor români evitarea oricărei călătorii în Siria, iar celor care se află deja în țară să o părăsească de urgență! Riscurile de seecuritate sunt majore, așa că luați legătura cu autoritățile cât mai rapid! Mai multe detalii pe site-ul oficial MAE.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Damascul este cea mai veche capitală din lume, fiind menționată chiar și în Biblie.",
+        "vaccine" : ""
     },
     {
         "name": "Taiwan, Province of China",
