@@ -2180,6 +2180,9 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Luanda, Angola.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Este una dintre cele mai puțin vizitate țări din lume, în 2017 primind doar 29.000 de turiști.",
+        "vaccine" : ""
     },
     {
         "name": "Saudi Arabia",
@@ -2190,6 +2193,9 @@
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români să părăsească imediat zonele aflate la mai puțin de 10 km de frontiera cu Yemen și să evite călătoriile în zonele aflate între 10 și 80 km față de frontieră. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Riyadh.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Chiar dacă pare de necrezut, Arabia Saudită e nevoită să cumpere nisip din Australia pentru sticlă și construcții din cauză că cel de pe teritoriul arab nu are proprietățile necesare.",
+        "vaccine" : ""
     },
     {
         "name": "Senegal",
@@ -2459,6 +2465,9 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Nursultan, Kazahstan.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Capitala Tajikistanului este numită după o zi a săptămânii: Dushanbe, adică Luni.",
+        "vaccine" : ""
     },
     {
         "name": "Tanzania, United Republic of",
@@ -2469,6 +2478,9 @@
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă informarea în prealabil asupra situației de securitate din zonă, având în vedere posibilitatea producerii manifestațiilor de stradă. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Nairobi, Kenya.",
         "affiliation" : ""
+        "emergency" : "",
+        "funfact" : "Pe teritoriul Tanzaniei se află două repere naturale colosale: Muntele Kilimanjaro, cel mai mare munte din Africa și Lacul Tanganyika, al doilea cel mai mare lac din lume.",
+        "vaccine" : ""
     },
     {
         "name": "Thailand",
