@@ -2491,6 +2491,9 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Bangkok.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Thailanda era cunoscută drept Siam până în 1939 și din nou între 1945 și 1949.",
+        "vaccine" : ""
     },
     {
         "name": "Timor-Leste",
@@ -2501,6 +2504,9 @@
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe avertizează asupra riscului producerii de atacuri teroriste, nediscriminatorii la adresa turiștilor străini. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Jakarta, Indonezia.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Timorul de Est are o populație tânără: aproximativ 40% dintre cetățeni au sub 15 ani și 60% din populație are vârsta sub 25 de ani, media pe țară fiind de 19,6 ani.",
+        "vaccine" : ""
     },
     {
         "name": "Togo",
@@ -2543,6 +2549,9 @@
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români că riscul atacurilor teroriste este unul ridicat și, astfel, recomandă prudență și vigilență. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Tunis.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Tunisia a fost prima țară arabă care a interzis poligamia în 1956, fapt surprinzător pentru că are o populație preponderent musulmană.",
+        "vaccine" : ""
     },
     {
         "name": "Turkey",
@@ -2553,6 +2562,9 @@
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe avertizează asupra situației de securitate din Turcia și a riscurilor de natură teroristă asociate. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Ankara.",
         "affiliation" : "NATO, ONU"
+        "emergency" : "",
+        "funfact" : "Marele Bazar din Istanbul, considerat drept cel mai vechi mall din lume, se întinde pe 64 de străzi și găzduiește nu mai puțin de 4.000 de magazine.",
+        "vaccine" : ""
     },
     {
         "name": "Turkmenistan",
@@ -2563,6 +2575,9 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Ashgabat.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Craterul de gaze Darvaza, supranumit și Poarta Iadului, se află în Turkmenistan și nu este un fenomen natural, ci rezultatul unei greșeli umane. Grupul de geologi sovietici care fora aici în 1971 a decis să incendieze echipamentul căzut în șantier, crezând că focul se va domoli după câteva zile - au trecut 48 de aniu de atunci.",
+        "vaccine" : ""
     },
     {
         "name": "Turks and Caicos Islands",
@@ -2581,6 +2596,9 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Canberra, Australia.",
         "affiliation" : "ONU"
+        "emergency" : "",
+        "funfact" : "Mica țară din Oceanul Pacific nu are nici măcar un singur ATM pe teritoriul său, așa că toate restaurantele, hotelurile sau cafenelele vor accepta doar cash - dolari australieni, mai exact.",
+        "vaccine" : ""
     },
     {
         "name": "Uganda",
