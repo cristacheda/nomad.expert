@@ -5,10 +5,10 @@
         "documents": "Pașaport și Viză",
         "source": "https://www.mae.ro/travel-conditions/10341",
         "comment": "Accesul pe teritoriul Afganistanului se face pe baza documentului de călătorie și a vizei. Viza turistică este valabilă o lună și se acordă cu o singură intrare. Aceasta se poate obține de la Ambasada Afganistanului în Polonia. Având în vedere caracterul instabil al țării din punct de vedere al stării de insecuritate, pe fondul atentatelor teroriste, Ministerul Afacerilor Externe recomandă cetățenilor români să evite călătoriile în această țară.",
-        "warning" : "Alertă de călătorie! Pe fondul evoluției stării de insecuritate din Afganistan, Ministerul Afacerilor Externe recomandă cetățenilor români să evite călătoriile în această țară! Având în vedere riscul crescut de atentate teroriste și răpiri, MAE recomandă cetățenilor români care sunt nevoiți să se deplaseze în Afganistan să fie extrem de prudenți și să își anunțe prezența în regiune adresându-se Ambasadei României la Kabul.",
+        "warning" : "",
         "misiune" : "Misiune diplomatică suspendată. Pentru urgențe te poți adresa Ambasadei României la Islamabad pe islamabad@mae.ro",
         "affiliation" : "ONU",
-        "emergency" : "",
+        "emergency" : "Avertisment de călătorie! Pe baza deteriorării accentuate a situației de securitate din Afghanistan, MAE îndeamnă cetățenii români să părăsească de urgență teritoriul acestui stat și să evite orice deplasare în Afghanistan. Există un risc major de atentate teroriste și confruntări armate.",
         "funfact" : "Un întreg oraș are săptămânal o noapte a poeziilor. Herat, localizat în vestul țării, găzduiește în fiecare seară de marți oameni de toate vârstele care citesc poezii clasice și moderne, ascultă muzică și se bucură de mâncare împreună.",
         "vaccine" : "Ministerul Afacerilor Externe atrage atenția asupra necesării vaccinării antipoliomelită pentru călătoriile în Afganistan. Mai multe detalii pe site-ul oficial MAE."
     },
@@ -31,7 +31,7 @@
         "documents": "Pașaport și Viză",
         "source": "https://www.mae.ro/travel-conditions/3665",
         "comment": "În Republica Algeriană Democratică și Populară, viza de intrare este obligatorie pentru cetățenii români posesori de pașapoarte simple și pașapoarte de serviciu. Vizele nu se eliberează la frontieră, ci doar de la misiunile algeriene acreditate în străinătate și se acordă cu o valabilitate de 1 lună, 3 luni, 6 luni, 1 an sau 2 ani. În România, viza se poate obține de la Secția Consulară a Ambasadei Algeriei la București. Perioada de ședere în Algeria nu poate depăși 90 de zile. Mai multe detalii pe site-ul oficial MAE.",
-        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă, pentru siguranța cetățenilor români, evitarea deplasărilor în cartierele populare din marile orașe și deplasarea cu mașina pe timpul nopții în afara localităților. Dacă sunteți nevoit să vă deplasați în Algeria, MAE recomandă anunțarea prezenței în regiune adresându-vă Ambasadei Romîniei la Alger.",
+        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă, pentru siguranța cetățenilor români, evitarea deplasărilor în cartierele populare din marile orașe și deplasarea cu mașina pe timpul nopții în afara localităților. Dacă ești nevoit să te deplasezi în Algeria, MAE recomandă anunțarea prezenței în regiune adresându-te Ambasadei României la Alger.",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Alger.",
         "affiliation" : "ONU"
         "emergency" : "",
@@ -41,9 +41,9 @@
     {
         "name": "American Samoa",
         "code": "AS",
-        "documents": "Pașaport și Viză",
+        "documents": "Pașaport",
         "source": "https://www.mae.ro/travel-conditions/30372",
-        "comment": "Accesul în țară se face pe baza unui pașaport valabil cel puțin 6 luni, un bilet de întoarcere, precum și o viză de intrare pentru sejururi mai mici de 90 de zile.",
+        "comment": "Accesul în țară se face pe baza unui pașaport valabil cel puțin 6 luni, un bilet de întoarcere, dovada existenței fondurilor necesare pentru sejur, precum și adresa unde vei locui pe durata șederii.",
         "warning" : "",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Canberra, Australia.",
         "affiliation" : "ONU"
@@ -64,10 +64,10 @@
     {
         "name": "Angola",
         "code": "AO",
-        "documents": "Pașaport și Viză",
+        "documents": "Pașaport",
         "source": "https://www.mae.ro/travel-conditions/14431",
-        "comment": "Cetățenii români care vor să intre pe teritoriul Angolei au nevoiee de pașaport (valabil cel puțin 6 luni de la data ultimei zile a vizei) și viză turistică. Decretul prezidențial Nr. 56/18 stabilește că cetățenii din 61 de țări, inclusiv cele din Uniunea Europeană, vor trebui să prezinte pentru obținerea vizei doar o dovadă de cazare și mijloace de subzistență dacă intenționează să călătorească în scop turistic. Pentru obținerea vizei turistice va trebui să te adresezi misiunii diplomatice a Angolei în Serbia, la Belgrad. Mai multe detalii pe site-ul oficial MAE.",
-        "warning" : "Alertă de călătorie! Infestarea cu febră galbenă și malarie, precum și riscul de securitate ca urmmare a creșterii numărului actelor de sechestrare de persoane în vederea răscumpărării și a crimelor ce au avut loc în rândul cetățenilor străini îndeamnă la prudență maximă.",
+        "comment": "Cetățenii români care vor să intre pe teritoriul Angolei au nevoie doar de pașaport (valabil cel puțin 6 luni de la data ultimei zile a vizei) dacă vizita are ca scop turismul și nu depășește 30 de zile.",
+        "warning" : "Alertă de călătorie! MAE recomandă cetățenilor români să manifeste atenție sporită în timpul deplasărilor pe teritoriul Angolei din cauza nivelului ridicat al criminalității: să evite zonele aglomerate, deplasările pe jos, cu mijloacele de transport în comun, vehicule de tip taxi neautorizate în special în anumite provincii. Mai multe detalii pe site-ul MAE.",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada Angolei la Belgrad, Serbia.",
         "affiliation" : "ONU"
         "emergency" : "",
@@ -95,7 +95,7 @@
         "code": "AG",
         "documents": "Pașaport",
         "source": "https://www.mae.ro/travel-conditions/48633",
-        "comment": "Cetățenii români nu au nevoie de viză de intrare pentru a călători în Antigua și Barbuda în scop turistic, însă perioada nu trebuie să depășească 90 de zile. Pașaportul trebuie să aibă o valabilitate de minumum 6 luni de la data ieșirii ide pe teritoriul caraibian. Mai multe detalii pe site-ul oficial MAE.",
+        "comment": "Cetățenii români nu au nevoie de viză de intrare pentru a călători în Antigua și Barbuda în scop turistic, însă perioada nu trebuie să depășească 90 de zile. Pașaportul trebuie să aibă o valabilitate de minumum 6 luni de la data ieșirii de pe teritoriul caraibian, va trebui să mai deții un bilet de întoarcere, să demonstrezi că beneficiezi de servicii turistice achitate anticipat, să faci dovada asigurării condițiilor de cazare, precum să ai și dovada vaccinării contra febrei galbene dacă vii dintr-o țară cu incidența acestei boli. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Havana, Cuba.",
         "affiliation" : "ONU"
@@ -108,8 +108,8 @@
         "code": "AR",
         "documents": "Pașaport",
         "source": "https://www.mae.ro/travel-conditions/3667",
-        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Argentina, ci doar de pașaport. Perioada de ședere nu trebuie să depășească 90 de zile într-un interval de 6 luni de la data primei intrări. Viza de intrare este acordată doar în scopuri de afaceri, pentru rezidență temporară sau pentru muncă și studii. Mai multe detalii pe site-ul MAE.",
-        "warning" : "Alertă de călătorie! Cetățenii români sunt sfătuiți insistent să evite călătoriile în Argentina, iar cei care sse află deja în acest stat să îl părăsească de urgență! Mai multe detalii pe site-ul MAE.",
+        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Argentina, ci doar de pașaport. Perioada de ședere nu trebuie să depășească 90 de zile într-un interval de 6 luni de la data primei intrări. Mai multe detalii pe site-ul MAE.",
+        "warning" : "Alertă de călătorie! Cetățenii români sunt sfătuiți să folosească operatori turistici acreditați și să fie extrem de vigilenți pe perioada deplasării, existând cazuri frecvente de jafuri și asasinate în special în zonele turistice și din apropierea gărilor și marilor hoteluri. Mai multe detalii pe site-ul MAE.",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Buenos Aires.",
         "affiliation" : "ONU"
         "emergency" : "",
@@ -122,7 +122,7 @@
         "documents": "Pașaport",
         "source": "https://www.mae.ro/travel-conditions/3668",
         "comment": "Cetățenii români nu au nevoie de viză de intrare pentru șederile mai scurte de 180 de zile, ci doar de un pașaport simplu.",
-        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români să se abțină de la orice deplasare în apropierea frontiere Armeniei cu Azerbaidjan, în dreptul regiunii separatiste Nagorno-Karabah și zona adiacentă acesteia, unde au loc ciocniri ale forțelor armate ddin cele două țări. Mai multe informații pe site-ul oficial MAE.",
+        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români să se abțină de la orice deplasare în apropierea frontierei Armeniei cu Azerbaidjan, respectiv la o distanță mai mică de 20 km de granița dintre cele două state. Mai multe informații pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Erevan.",
         "affiliation" : "ONU"
         "emergency" : "",
@@ -142,7 +142,7 @@
         "code": "AU",
         "documents": "Pașaport și Viză",
         "source": "https://www.mae.ro/travel-conditions/3669",
-        "comment": "Cetățenii români au nevoie de pașaport și viză pentru călătorii în Australia. Începând cu 2008, Departamentul Australian pentru Imigrare și Cetățenie a inclus România pe lista statelor care beneficiază de sistemul electronic de acordare a vizelor 'auto-grant facility'. Mai multe detalii pe site-ul oficial MAE.",
+        "comment": "Cetățenii români au nevoie de pașaport și viză pentru călători în Australia. Începând cu 2008, Departamentul Australian pentru Imigrare și Cetățenie a inclus România pe lista statelor care beneficiază de sistemul electronic de acordare a vizelor 'auto-grant facility'. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Canberra."
         "emergency" : "",
@@ -168,7 +168,7 @@
         "documents": "Pașaport și Viză",
         "source": "https://www.mae.ro/travel-conditions/3671",
         "comment": "Cetățenii români au nevoie de pașaport simplu electronic sau temporar, valabil cel puțin 3 luni de la data expirării vizei de intrare, precum și de viză. Viza de intrare poate fi obținută electronic sau fizic la Ambasada Republicii Azerbaidjan la București. Mai multe detalii pe site-ul oficial MAE.",
-        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români să se abțină de la orice deplasare în apropierea frontiere Armeniei cu Azerbaidjan, în dreptul regiunii separatiste Nagorno-Karabah și zona adiacentă acesteia, unde au loc ciocniri ale forțelor armate ddin cele două țări. Mai multe informații pe site-ul oficial MAE.",
+        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români să se abțină de la orice deplasare în apropierea frontiere Armeniei cu Azerbaidjan. Mai multe informații pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Baku.",
         "affiliation" : "ONU"
         "emergency" : "",
@@ -180,7 +180,7 @@
         "code": "BS",
         "documents": "Pașaport",
         "source": "https://www.mae.ro/travel-conditions/48634",
-        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în scop turistic în Bahamas, ci doar de pașaport. Perioada de ședere nu trebuie să depășească 90 de zile, iar pașaportul să aibă o valabilitate de minimum 6 luni de la data preconizată de plecare din Bahamas. Mai multe detalii pe site-ul oficial MAE.",
+        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în scop turistic în Bahamas, ci doar de pașaport. Perioada de ședere nu trebuie să depășească 90 de zile, pașaportul să aibă o valabilitate de minimum 6 luni de la data preconizată de plecare din Bahamas, trebuie să deții un bilet de întoarcere, să demonstrezi că beneficiezi de servicii turistice achitate anticipat, să ai o asigurare medicală valabilă, să faci dovada asigurării condițiilor de cazare, să faci dovada vacinării contra febrei galbene dacă vii dintr-o țară cu incidența acestei boli și să completezi cardul de imigrări. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Havana, Cuba.",
         "affiliation" : "ONU"
