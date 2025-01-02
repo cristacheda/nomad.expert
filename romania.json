@@ -433,8 +433,8 @@
         "code": "CM",
         "documents": "Pașaport și Viză",
         "source": "https://www.mae.ro/travel-conditions/49990",
-        "comment": "Cetățenii români care doresc să călătorească în Camerun au nevoie de pașaport și viză. Viza de intrare poate fi obținută de la misiunile diplomatice cameruneze din Berlin și Moscova. Mai multe detalii pe site-ul oficial MAE.",
-        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români să fie extrem de vigilenți. Situația de securitate din regiune este puternic afectată de acțiunile teroriste violente practicate de către gruparea teroristtă Boko Haram, iar riscul infectării cu virusul polio sălbatic este și el ridicat. Mai multe detalii pe site-ul oficial MAE.",
+        "comment": "Cetățenii români care doresc să călătorească în Camerun au nevoie de pașaport și viză. Viza de intrare poate fi obținută de la Ambasada Republicii Camerun în Italia, prin intermediul site-ului oficial. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români să fie extrem de vigilenți. Situația de securitate din regiune este puternic afectată de acțiunile teroriste violente practicate de către gruparea teroristă Boko Haram. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Abuja, Nigeria",
         "affiliation" : "ONU"
         "emergency" : "",
@@ -444,9 +444,9 @@
     {
         "name": "Canada",
         "code": "CA",
-        "documents": "Pașaport/Pașaport și Viză",
+        "documents": "Pașaport",
         "source": "https://www.mae.ro/travel-conditions/3678",
-        "comment": "Cetățenii români nu au nevoie de viză de intrare pentru a călători în Canada, ci doar de pașaport simplu electronic. Posesorii de pașaport simplu nebiometric sau pașaport temporar au nevoie de viză de intrare. Mai multe detalii pe site-ul oficial MAE.",
+        "comment": "Cetățenii români nu au nevoie de viză de intrare pentru a călători în Canada, ci doar de pașaport simplu electronic. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Ottawa.",
         "affiliation" : "NATO, ONU"
@@ -480,8 +480,8 @@
         "code": "CF",
         "documents": "Pașaport și Viză",
         "source": "https://www.mae.ro/travel-conditions/29374",
-        "comment": "Cetățenii români au nevoie de pașaport și viză de intrare pentru a călători în Repulica Centrafricană. Se va evitat utilizarea pașaportului temporar, iar toate tipurile de documente de călătorie ttrebuie să aibă o valabilitate de minimum 6 luni. Mai multe detalii pe site-ul oficial MAE.",
-        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români evitarea deplasărilor în Republica Centrafricană pe fondul pericolului de jafuri armate, tâlhării, violuri și răpiri, precum și de atentate teroriste. Mai multe detalii pe site-ul oficial MAE.",
+        "comment": "Cetățenii români au nevoie de pașaport și viză de intrare pentru a călători în Repulica Centrafricană. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români evitarea deplasărilor în Republica Centrafricană pe fondul pericolului de jafuri armate, tâlhării, violuri și răpiri, precum și pentru condițiile de climă tropicală și igienă precară. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Khartoum, Republica Sudan.",
         "affiliation" : "ONU"
         "emergency" : "",
@@ -516,10 +516,10 @@
     {
         "name": "China",
         "code": "CN",
-        "documents": "Pașaport și Viză",
+        "documents": "Pașaport",
         "source": "https://www.mae.ro/travel-conditions/3681",
-        "comment": "Cetățenii români au nevoie de pașaport și viză pentru a călători în China. Viza de intrare se obține de la Centrul de Vize pentru China din București. Mai multe detalii pe site-ul oficial MAE.",
-        "warning" : "Alertă de călătorie! Există pericolul răspândirii virusului polio sălbatic și/sau derivat din vaccin. Mai multe detalii pe site-ul oficial MAE.",
+        "comment": "Cetățenii români au nevoie doar de pașaport pentru a călători în China între 30 noiembrie 2024 și 31 decembrie 2025. Perioada de ședere trebuie să fie de maximum 30 de zile, scopul vizitei să fie de afaceri, turism, vizită de familie, vizită de schimb sau tranzit iar valabilitatea pașaportului să fie mai mare de 6 luni, cu cel puțin 2 pagini libere. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Beijing.",
         "affiliation" : "ONU"
         "emergency" : "",
@@ -547,7 +547,7 @@
         "code": "CO",
         "documents": "Pașaport",
         "source": "https://www.mae.ro/travel-conditions/3684",
-        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Columbia, ci doar de pașaport. Pașaportul trebuie să fie valabil cel puțin 6 luni de la momentul intrării, scopul călătoriei să fie turistic, iar cetățenii români s ă facă dovada unui bilet de călătorie dus-întors. Perioada maximă de ședere este de 90 de zile. Mai multe detalii pe site-ul oficial MAE.",
+        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Columbia, ci doar de pașaport. Pașaportul trebuie să fie valabil cel puțin 6 luni de la momentul intrării, scopul călătoriei să fie turistic, iar cetățenii români să facă dovada unui bilet de călătorie dus-întors. Perioada maximă de ședere este de 90 de zile. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe informează cetățenii români de rapoarte de febră Dengue. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Bogota.",
         "affiliation" : "ONU"
@@ -560,7 +560,7 @@
         "code": "KM",
         "documents": "Pașaport și Viză",
         "source": "https://www.mae.ro/travel-conditions/12234",
-        "comment": "Cetățenii români au nevoie de pașaport și viză pentru a călători în Insulele Comore. Mai multe detalii pe site-ul oficial MAE.",
+        "comment": "Cetățenii români au nevoie de pașaport și viză pentru a călători în Insulele Comore. Viza se emite pe loc, la momentul intrării în țară. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Pretoria, Republica Africa de Sud.",
         "affiliation" : "ONU"
@@ -573,8 +573,8 @@
         "code": "CG",
         "documents": "Pașaport și Viză",
         "source": "https://www.mae.ro/travel-conditions/30130",
-        "comment": "Cetățenii români posesori de pașaport simplu au nevoie de viză de intrare - excepție fac posesorii de pașapoarte de serviciu, oficiale și diplomatice. Perioada de ședere nu poate depăși 90 de zile. Mai multe detalii pe site-ul oficial MAE.",
-        "warning" : "",
+        "comment": "Cetățenii români au nevoie de pașaport și viză de intrare. Pașaportul trebuie să aibă o valabilitate de cel puțiun 1 an de la data intrării pe teritoriul acestui stat și să conțină minimum 4 pagini libere, iar perioada de ședere nu poate depăși 91 de zile. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă evitarea deplasărilor în Republica Congo pe fondul situației de securitate din această țară. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Luanda, Angola.",
         "affiliation" : "ONU"
         "emergency" : "",
@@ -586,8 +586,8 @@
         "code": "CD",
         "documents": "Pașaport și Viză",
         "source": "https://www.mae.ro/travel-conditions/30131",
-        "comment": "Cetățenii români au nevoie de pașaport și viză pentru a călători în Republica Democrată Congo. Perioada de ședere nu poate depăși 90 de zile. Mai multe detalii pe site-ul oficial MAE.",
-        "warning" : "Alertă de călătorie!! MMinisterul Afacerilor Externe informează cetățenii români asupra riscului de infectare cu Ebola din cauza epidemiei prezente în Republica Democrată Congo. Mai multe detalii pe site-ul oficial MAE.",
+        "comment": "Cetățenii români au nevoie de pașaport și viză pentru a călători în Republica Democrată Congo. Pașaportl trebuie să aibă o valabilitate de cel puțin 1 an de la data intrării pe teritoriu și să conțină minimum 4 pagini albe, iar perioada de ședere nu poate depăși 90 de zile. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Alertă de călătorie! MMinisterul Afacerilor Externe recomandă evitarea oricărei călătorii pe teritoriul acestui stat din cauza riscului de infestare cu febră virală hemoragică, rezultată în urma epidemiei cu care se confruntă în ultima perioadă acest stat. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Luanda, Angola.",
         "affiliation" : "ONU"
         "emergency" : "",
@@ -607,7 +607,7 @@
         "code": "CR",
         "documents": "Pașaport",
         "source": "https://www.mae.ro/travel-conditions/3687",
-        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Republica Costa Rica, ci doar de pașaport. Perioada maximă de ședere este de 90 de zile, scopul călătoriei trebuie să fie turistic, iar la sosirea la punctul de trecere a frontierei trebuie să prezinți documentele care demonstrează scopul vizitei, precum și mijloace financiare suficiente pentru întreținerea pe perioada șederii. Mai multe detalii pe site-ul oficial MAE.",
+        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Republica Costa Rica, ci doar de pașaport. Perioada maximă de ședere este de 90 de zile într-un interval de 6 luni, scopul călătoriei trebuie să fie turistic sau de afaceri, iar la sosirea la punctul de trecere a frontierei trebuie să prezinți documentele care demonstrează scopul vizitei, precum și mijloace financiare suficiente pentru întreținerea pe perioada șederii și alte documente. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români vigilență sporită pe fondul jafurilor și al infracțiunilor violente în locurile publice la adresa turiștilor. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Ciudad de Mexico, Mexic.",
         "affiliation" : "ONU"
@@ -621,7 +621,7 @@
         "documents": "Pașaport și Viză",
         "source": "https://www.mae.ro/travel-conditions/3683",
         "comment": "Cetățenii români au nevoie de pașaport și viză pentru a călători în Coasta de Fildeș. Viza se acordă de către misiunile diplomatice și oficiile Consulare ale Republicii Coasta de Fildeș - reprezentarea diplomatică și consulară a Republicii Coasta de Fildeș în România este asigurată de Ambasada Republicii Coasta de Fildeș în Germania. Mai multe detalii pe site-ul oficial MAE.",
-        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă vigilență sporită pe fondul insecurității țării, cu focare de tensiune la nivel local. De asemenea, riscul de răspândire al virusului polio sălbatic și/sau derivat din vaccin este destul de ridicat. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă vigilență sporită pe fondul insecurității țării, cu focare de tensiune la nivel local. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Dakar, Senegal.",
         "affiliation" : "ONU"
         "emergency" : "",
@@ -646,7 +646,7 @@
         "code": "CU",
         "documents": "Pașaport și Viză",
         "source": "https://www.mae.ro/travel-conditions/3689",
-        "comment": "Cetățenii români au nevoie de pașaport și viză pentru a călători în Cuba. Viza se poate obține de la ambasadele sau consulatele Cubei în străinătate sau de la agențiile de turism sau companiile aeriene de la care s-a achiziționat pachetul turistic sau biletul de călătorie. Mai multe detalii pe site-ul oficial MAE.",
+        "comment": "Cetățenii români au nevoie de pașaport și viză sau tarjeta turistica pentru a călători în Cuba. Viza se poate obține de la ambasadele sau consulatele Cubei în străinătate sau de la agențiile de turism sau companiile aeriene de la care s-a achiziționat pachetul turistic sau biletul de călătorie. Începând cu septembrie 2024, autoritățile cubaneze au implementat un sistem online de emitere a vizei turistice, care se eliberează cu o singură intrare și o valabilitate de 90 de zile. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Havana.",
         "affiliation" : "ONU"
