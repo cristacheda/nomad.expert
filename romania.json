@@ -4,13 +4,13 @@
         "code": "AF",
         "documents": "Pașaport și Viză",
         "source": "https://www.mae.ro/travel-conditions/10341",
-        "comment": "Accesul pe teritoriul Afganistanului se face pe baza documentului de călătorie și a vizei. Viza turistică este valabilă o lună și se acordă cu o singură intrare. Aceasta se poate obține de la Ambasada Afganistanului în Polonia. Având în vedere caracterul instabil al țării din punct de vedere al stării de insecuritate, pe fondul atentatelor teroriste, Ministerul Afacerilor Externe recomandă cetățenilor români să evite călătoriile în această țară.",
+        "comment": "Accesul pe teritoriul Afganistanului se face pe baza pașaportului și a vizei. Viza turistică se poate obține de la Ambasada Afganistanului în Polonia. Având în vedere caracterul instabil al țării din punct de vedere al stării de insecuritate, pe fondul atentatelor teroriste, Ministerul Afacerilor Externe recomandă cetățenilor români să evite călătoriile în această țară.",
         "warning" : "",
         "misiune" : "Misiune diplomatică suspendată. Pentru urgențe te poți adresa Ambasadei României la Islamabad pe islamabad@mae.ro",
         "affiliation" : "ONU",
-        "emergency" : "Avertisment de călătorie! Pe baza deteriorării accentuate a situației de securitate din Afghanistan, MAE îndeamnă cetățenii români să părăsească de urgență teritoriul acestui stat și să evite orice deplasare în Afghanistan. Există un risc major de atentate teroriste și confruntări armate.",
+        "emergency" : "Avertisment de călătorie! Pe baza deteriorării accentuate a situației de securitate din Afganistan, MAE îndeamnă cetățenii români să părăsească de urgență teritoriul acestui stat și să evite orice deplasare în Afganistan. Există un risc major de atentate teroriste și confruntări armate. Mai multe detalii pe site-ul oficial MAE.",
         "funfact" : "Un întreg oraș are săptămânal o noapte a poeziilor. Herat, localizat în vestul țării, găzduiește în fiecare seară de marți oameni de toate vârstele care citesc poezii clasice și moderne, ascultă muzică și se bucură de mâncare împreună.",
-        "vaccine" : "Ministerul Afacerilor Externe atrage atenția asupra necesării vaccinării antipoliomelită pentru călătoriile în Afganistan. Mai multe detalii pe site-ul oficial MAE."
+        "vaccine" : "Vaccinarea antipolio este obligatorie pentru cetățenii români care călătoresc în Afganistan și nu au fost vaccinați împotriva poliomielitei în ultimele 12 luni."
     },
     {
         "name": "Albania",
@@ -20,7 +20,7 @@
         "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Albania, ci doar de cartea de identitate sau de pașaport - a căror valabilitate trebuie să fie de minimum 3 luni de la data intrării. Șederea nu trebuie să fie mai lungă de 90 de zile, într-un interval de 6 luni. Pentru șederile care depășesc 90 de zile, este necesară obținerea unui permis de ședere, eliberat de Ministerul Albanez al Afacerilor Interne. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Tirana.",
-        "affiliation" : "NATO, ONU"
+        "affiliation" : "NATO, ONU",
         "emergency" : "",
         "funfact" : "Albanezii te aprobă și dezaprobă nonverbal pe dos: vor da din cap de la stânga la dreapta pentru da și din sus în jos pentru nu!",
         "vaccine" : ""
@@ -30,10 +30,10 @@
         "code": "DZ",
         "documents": "Pașaport și Viză",
         "source": "https://www.mae.ro/travel-conditions/3665",
-        "comment": "În Republica Algeriană Democratică și Populară, viza de intrare este obligatorie pentru cetățenii români posesori de pașapoarte simple și pașapoarte de serviciu. Vizele nu se eliberează la frontieră, ci doar de la misiunile algeriene acreditate în străinătate și se acordă cu o valabilitate de 1 lună, 3 luni, 6 luni, 1 an sau 2 ani. În România, viza se poate obține de la Secția Consulară a Ambasadei Algeriei la București. Perioada de ședere în Algeria nu poate depăși 90 de zile. Mai multe detalii pe site-ul oficial MAE.",
+        "comment": "În Republica Algeriană Democratică și Populară, viza de intrare este obligatorie pentru cetățenii români posesori de pașapoarte simple electronice și pașapoarte de serviciu - care trebuie să aibă o valabilitate de încă cel puțin 6 luni de la data intrării în Algeria. Obținerea vizei și intrarea pe teritoriul algerian sunt condiționate de deținerea unei asigurări medicale de călătorie, valabilă din a 5-a zi de la data depunerii dosarului de viză. În România, viza se poate obține de la Secția Consulară a Ambasadei Algeriei la București. Perioada de ședere în Algeria nu poate depăși 90 de zile. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă, pentru siguranța cetățenilor români, evitarea deplasărilor în cartierele populare din marile orașe și deplasarea cu mașina pe timpul nopții în afara localităților. Dacă ești nevoit să te deplasezi în Algeria, MAE recomandă anunțarea prezenței în regiune adresându-te Ambasadei României la Alger.",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Alger.",
-        "affiliation" : "ONU"
+        "affiliation" : "ONU",
         "emergency" : "",
         "funfact" : "Algeria este acoperită în mare parte de deșertul Sahara, cel mai mare și mai fierbinte din lume. Ca atare, mare parte din populație locuiește pe doar 12% din teritoriu.",
         "vaccine" : ""
@@ -43,10 +43,10 @@
         "code": "AS",
         "documents": "Pașaport",
         "source": "https://www.mae.ro/travel-conditions/30372",
-        "comment": "Accesul în țară se face pe baza unui pașaport valabil cel puțin 6 luni, un bilet de întoarcere, dovada existenței fondurilor necesare pentru sejur, precum și adresa unde vei locui pe durata șederii.",
+        "comment": "Accesul în țară se face pe baza unui pașaport valabil cel puțin 6 luni, un bilet de întoarcere, dovada existenței fondurilor necesare pentru sejur, precum și adresa unde vei locui pe durata șederii. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Canberra, Australia.",
-        "affiliation" : "ONU"
+        "affiliation" : "ONU",
         "emergency" : "",
         "funfact" : "Samo Americană este considerată un teritoriu neîncorporat, neorganizat al Statelor Unite ale Americii. Beneficiază de protecție diplomatică și militară din partea SUA, dar nu și de restul beneficiilor din Constituția Americană.",
         "vaccine" : ""
@@ -59,20 +59,20 @@
         "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Andorra, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate. Aceștia au dreptul legal de ședere pentru o perioadă de 90 de zile într-un interval de 6 luni.",
         "warning" : "",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada Andorrei la Viena, Austria.",
-        "affiliation" : "ONU"
+        "affiliation" : "ONU",
     },
     {
         "name": "Angola",
         "code": "AO",
         "documents": "Pașaport",
         "source": "https://www.mae.ro/travel-conditions/14431",
-        "comment": "Cetățenii români care vor să intre pe teritoriul Angolei au nevoie doar de pașaport (valabil cel puțin 6 luni de la data ultimei zile a vizei) dacă vizita are ca scop turismul și nu depășește 30 de zile.",
+        "comment": "Cetățenii români care vor să intre pe teritoriul Angolei au nevoie doar de pașaport (valabil cel puțin 6 luni de la data ultimei zile a vizei) dacă vizita are ca scop turismul și nu depășește 30 de zile. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "Alertă de călătorie! MAE recomandă cetățenilor români să manifeste atenție sporită în timpul deplasărilor pe teritoriul Angolei din cauza nivelului ridicat al criminalității: să evite zonele aglomerate, deplasările pe jos, cu mijloacele de transport în comun, vehicule de tip taxi neautorizate în special în anumite provincii. Mai multe detalii pe site-ul MAE.",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada Angolei la Belgrad, Serbia.",
-        "affiliation" : "ONU"
+        "affiliation" : "ONU",
         "emergency" : "",
         "funfact" : "Orașul Luanda a fost numit în 2017 ca unul dintre cele mai scumpe orașe din lume pentru expați.",
-        "vaccine" : ""
+        "vaccine" : "Este recomandată vaccinarea împotriva hepatitei A și B, împotriva poliomielitei, tetanosului, febrei tifoide și galbene."
     },
     {
         "name": "Anguilla",
@@ -98,10 +98,10 @@
         "comment": "Cetățenii români nu au nevoie de viză de intrare pentru a călători în Antigua și Barbuda în scop turistic, însă perioada nu trebuie să depășească 90 de zile. Pașaportul trebuie să aibă o valabilitate de minumum 6 luni de la data ieșirii de pe teritoriul caraibian, va trebui să mai deții un bilet de întoarcere, să demonstrezi că beneficiezi de servicii turistice achitate anticipat, să faci dovada asigurării condițiilor de cazare, precum să ai și dovada vaccinării contra febrei galbene dacă vii dintr-o țară cu incidența acestei boli. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Havana, Cuba.",
-        "affiliation" : "ONU"
+        "affiliation" : "ONU",
         "emergency" : "",
         "funfact" : "Antigua a fost numită Insula cu 365 de Plaje. De la nisipul auriu la cel în nuanțe de roz, datorat coralilor, frumusețea plajelor este greu de descris în cuvinte.",
-        "vaccine" : ""
+        "vaccine" : "Nu există vaccinuri obligatorii, cu excepția vaccinului contra febrei galbene, în cazul în care călătorii provin dintr-o țară în care există incidența acestei boli."
     },
     {
         "name": "Argentina",
@@ -111,7 +111,7 @@
         "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Argentina, ci doar de pașaport. Perioada de ședere nu trebuie să depășească 90 de zile într-un interval de 6 luni de la data primei intrări. Mai multe detalii pe site-ul MAE.",
         "warning" : "Alertă de călătorie! Cetățenii români sunt sfătuiți să folosească operatori turistici acreditați și să fie extrem de vigilenți pe perioada deplasării, existând cazuri frecvente de jafuri și asasinate în special în zonele turistice și din apropierea gărilor și marilor hoteluri. Mai multe detalii pe site-ul MAE.",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Buenos Aires.",
-        "affiliation" : "ONU"
+        "affiliation" : "ONU",
         "emergency" : "",
         "funfact" : "Argentina este locul de naștere al tangoului. Are originile în Buenos Aires, în cartierele muncitorești din secolul al XIX-lea.",
         "vaccine" : ""
@@ -121,10 +121,10 @@
         "code": "AM",
         "documents": "Pașaport",
         "source": "https://www.mae.ro/travel-conditions/3668",
-        "comment": "Cetățenii români nu au nevoie de viză de intrare pentru șederile mai scurte de 180 de zile, ci doar de un pașaport simplu.",
+        "comment": "Cetățenii români nu au nevoie de viză de intrare pentru șederile mai scurte de 90 de zile, ci doar de un pașaport simplu.",
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români să se abțină de la orice deplasare în apropierea frontierei Armeniei cu Azerbaidjan, respectiv la o distanță mai mică de 20 km de granița dintre cele două state. Mai multe informații pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Erevan.",
-        "affiliation" : "ONU"
+        "affiliation" : "ONU",
         "emergency" : "",
         "funfact" : "Este prima țară din lume care a acceptat Creștinismul ca religie de stat. ",
         "vaccine" : ""
@@ -157,7 +157,7 @@
         "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Austria, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate.",
         "warning" : "",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Viena.",
-        "affiliation" : "ONU"
+        "affiliation" : "ONU",
         "emergency" : "",
         "funfact" : "După cel de-al Doilea Război Mondial, Austria a fost divizată în patru zone de ocupație până în 1955: britanice, franceze, americane și sovietice.",
         "vaccine" : ""
@@ -170,7 +170,7 @@
         "comment": "Cetățenii români au nevoie de pașaport simplu electronic sau temporar, valabil cel puțin 3 luni de la data expirării vizei de intrare, precum și de viză. Viza de intrare poate fi obținută electronic sau fizic la Ambasada Republicii Azerbaidjan la București. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români să se abțină de la orice deplasare în apropierea frontiere Armeniei cu Azerbaidjan. Mai multe informații pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Baku.",
-        "affiliation" : "ONU"
+        "affiliation" : "ONU",
         "emergency" : "",
         "funfact" : "Există o teorie care sugerează că vikingii își au originea în Azerbaijan. O poveste islandeză veche de 800 de ani descrie călătoria zeului nordic Odin dintr-un tărâm estic numit As-hov sau Aser către Scandinavia.",
         "vaccine" : ""
@@ -180,23 +180,23 @@
         "code": "BS",
         "documents": "Pașaport",
         "source": "https://www.mae.ro/travel-conditions/48634",
-        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în scop turistic în Bahamas, ci doar de pașaport. Perioada de ședere nu trebuie să depășească 90 de zile, pașaportul să aibă o valabilitate de minimum 6 luni de la data preconizată de plecare din Bahamas, trebuie să deții un bilet de întoarcere, să demonstrezi că beneficiezi de servicii turistice achitate anticipat, să ai o asigurare medicală valabilă, să faci dovada asigurării condițiilor de cazare, să faci dovada vacinării contra febrei galbene dacă vii dintr-o țară cu incidența acestei boli și să completezi cardul de imigrări. Mai multe detalii pe site-ul oficial MAE.",
+        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în scop turistic în Bahamas, ci doar de pașaport. Perioada de ședere nu trebuie să depășească 90 de zile și pașaportul să aibă o valabilitate de minimum 6 luni de la data preconizată de plecare din Bahamas. Mai mult, trebuie să deții un bilet de întoarcere, să demonstrezi că beneficiezi de servicii turistice achitate anticipat, să ai o asigurare medicală valabilă, să faci dovada asigurării condițiilor de cazare, să faci dovada vacinării contra febrei galbene dacă vii dintr-o țară cu incidența acestei boli și să completezi cardul de imigrări. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Havana, Cuba.",
-        "affiliation" : "ONU"
+        "affiliation" : "ONU",
         "emergency" : "",
         "funfact" : "Bahamas este un arhipelag de 700 de insule, insulițe și recifuri.",
-        "vaccine" : ""
+        "vaccine" : "Nu există vaccinuri obligatorii, cu excepția celui pentru febră galbenă în cazul călătorilor care provin dintr-o țară unde există incidența acestei boli."
     },
     {
         "name": "Bahrain",
         "code": "BH",
         "documents": "Pașaport și Viză",
         "source": "https://www.mae.ro/travel-conditions/25187",
-        "comment": "Cetățenii români care doresc să intre pe teritoriul Regatului Bahrain au nevoie atât de pașaport, cât și de vizăă de intrare - indiferent de scopul călătoriei și de tipul pașaportului deținut. Mai multe detalii pe site-ul oficial MAE.",
+        "comment": "Cetățenii români care doresc să intre pe teritoriul Regatului Bahrain au nevoie atât de pașaport, cât și de viză de intrare - indiferent de scopul călătoriei și de tipul pașaportului deținut. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Abu Dhabi, Emiratele Arabe Unite.",
-        "affiliation" : "ONU"
+        "affiliation" : "ONU",
         "emergency" : "",
         "funfact" : "Este cel mai mic stat suveran din Orientul Mijlociu.
         "vaccine" : ""
@@ -206,7 +206,7 @@
         "code": "BD",
         "documents": "Pașaport și Viză",
         "source": "https://www.mae.ro/travel-conditions/45400",
-        "comment": "Cetățenii români posesori de pașapoarte turistice și temporare au nevoie de viză de intrare în Republica Populară Bangladesh. Pentru detalii despre obținerea vizei poți consulta site-ul MAE.",
+        "comment": "Cetățenii români posesori de pașapoarte turistice și temporare au nevoie de viză de intrare în Republica Populară Bangladesh. Pentru detalii despre obținerea vizei poți consulta site-ul oficial MAE.",
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români să evite orice călătorie în această țară pe fondul protestelor violente și a decretării stării de asediu în 2024. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la New Delhi, India.",
         "affiliation" : "ONU"
@@ -222,7 +222,7 @@
         "comment": "Cetățenii români nu au nevoie de viză de intrare pentru a călători în Barbados în scop turistic, ci doar de pașaport. Perioada maximă de ședere este de 90 de zile. Mai multe detalii despre condițiile de intrare, pe site-ul oficial MAE.",
         "warning" : "",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Havana, Cuba.",
-        "affiliation" : "ONU"
+        "affiliation" : "ONU",
         "emergency" : "",
         "funfact" : "Este țara în care s-a născut Rihanna, care a fost și declarată erou național al Barbadosului.",
         "vaccine" : ""
@@ -235,7 +235,7 @@
         "comment": "Cetățenii români care doresc să călătorească în Belarus, posesori de pașapoarte simple electronice, au nevoie de viză de intrare - aceasta poate fi obținută numai de la Ambasada Republicii Belarus la București. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români să evite călătoriile neesențiale în Belarus pe fondul deteriorării situației de securitate din regiune, cauzată de agresiunea militară rusă împotriva Ucrainei.",
         "misiune" : "Misiune diplomatică activă prin Ambasada României Minsk.",
-        "affiliation" : "ONU"
+        "affiliation" : "ONU",
         "emergency" : "",
         "funfact" : "Wargaming, studio-ul responsabil pentru jocuri video ca World of Tanks, World of Warships sau World of Warplanes, este bielorus.",
         "vaccine" : ""
@@ -248,7 +248,7 @@
         "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Belgia, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate.",
         "warning" : "",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Bruxelles.",
-        "affiliation" : "UE, NATO, ONU"
+        "affiliation" : "UE, NATO, ONU",
         "emergency" : "",
         "funfact" : "Cartofii prăjiți au fost inventați de belgieni, după spusele lor. Fiecare sat are cel puțin un fritkot, adică un chioșc sau o dubiță ce servește cartofi prăjiți.",
         "vaccine" : ""
@@ -261,7 +261,7 @@
         "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Belize, ci doar de pașaport - pentru o perioadă de 30 de zile și doar în scop turistic sau de afaceri. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "Alertă de călătorie! MAE recomandă cetățenilor români să fie extrem de vigilenți dacă aleg să călătorească în acest stat, existând atât cazuri de furturi în care sunt vizați turiștii, precum și tensiuni la granița disputată între Belize și Guatemala. Mai multe detalii pe site-ul MAE.",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Ciudad de Mexico.",
-        "affiliation" : "ONU"
+        "affiliation" : "ONU",
         "emergency" : "",
         "funfact" : "Aproape un milion de turiști vizitează anual Belize, 70% dintre ei fiind americani.",
         "vaccine" : ""
@@ -275,7 +275,7 @@
         "comment": "Cetățenii români au nevoie de viză și pașaport simplu, de serviciu, oficial sau diplomatic pentru a călători în Benin. Perioada de ședere nu poate depăși 90 de zile, iar viza se poate obține de la Ambasada Republicii Benin la Paris. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români să evite deplasările în Republica Benin pe fondul violențelor stradale, a acțiunilor teroriste sau a răpirilor cetățenilor străini. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Abuja, Nigeria.",
-        "affiliation" : "ONU"
+        "affiliation" : "ONU",
         "emergency" : "",
         "funfact" : "A scris istorie în anii '90, când a devenit prima țară africană ce a făcut tranziția de la dictatură la democrație.",
         "vaccine" : ""
@@ -296,10 +296,10 @@
         "comment": "Cetățenii români au nevoie de pașaport și viză pentru a intra în Regatul Bhutan. Vizele turistice se pot obține prin intermediul site-ului Departamentului pentru Imigrare din Bhutan, dar și prin furnizorii de servicii turistice. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la New Delhi, India.",
-        "affiliation" : "ONU"
+        "affiliation" : "ONU",
         "emergency" : "",
         "funfact" : "Regele Bhutanului a abdicat în 2005 și a permis instalarea democrației și a alegerilor libere, realizând că țara nu va putea avea întotdeauna un rege just și onest.",
-        "vaccine" : ""
+        "vaccine" : "Este recomandată vaccinarea împotriva tetanosului, a febrei tifoide, hepatitei A și B, precum și pentru encefalita japoneză, rabie și gripă."
     },
     {
         "name": "Bolivia",
@@ -309,7 +309,7 @@
         "comment": "Cetățenii români au nevoie de pașaport și viză pentru a călători în Bolivia, oricare ar fi scopul călătoriei. Pașaportul trebuie să aibă o valabilitate de 6 luni din momentul intrării în acest stat, însă Ministerul Afacerilor Externe recomandă ca valabilitatea documentului să fie cât mai mare. Solicitarea de viză se face în prealabil online. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe informează cetățenii români că trebuie să acorde o atenție deosebită pe teritoriul acestui stat din cauza manifestațiilor de protest ale organizațiilor sindicale, precum și din cauza nivelului crescut de infracțiuni stradale. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Lima, Peru.",
-        "affiliation" : "ONU"
+        "affiliation" : "ONU",
          "emergency" : "",
         "funfact" : "În 2014, ceasul de pe clădirea Congresului din La Paz a fost setat să funcționeze invers. Ministrul de Externe, David Choquehuanca, l-a numit 'Ceasul Sudului' și a spus că le va aminti bolivienilor să gândească creativ și să pună la îndoială normele.",
         "vaccine" : ""
@@ -322,7 +322,7 @@
         "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Bosnia și Herțegovina, ci doar de carte de identitate sau pașaport. Chiar și așa, documentul de călătorie trebuie să aibă o valabilitate de 3 luni peste perioada declarată de ședere în acest stat, iar toți cetățenii români trebuie să facă dovada deținerii sumei de 150 BAM (mărci convertibile) sau de 75 EUR/fiecare zi de ședere în țară. De asemenea, cetățenii străini care doresc să rămână mai mult de 3 zile în Bosnia și Herțegovina  trebuie să se înregistreze la birourile teritoriale ale Serviciului pentru Străini aparținând de Ministerul Securității. Mai multe detalii pe site-ul oficial MAE. ",
         "warning" : "",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Sarajevo.",
-        "affiliation" : "ONU"
+        "affiliation" : "ONU",
         "emergency" : "",
         "funfact" : "Moneda oficială este Marka, ce nu poate fi cumpărată sau schimbată nicărieri altundeva în lume.",
         "vaccine" : ""
@@ -351,10 +351,10 @@
         "comment": "Cetățenii români care doresc să călătorească în Brazilia nu au nevoie de viză, ci doar de pașaport. Perioada legală de ședere este de 90 de zile. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă evitarea călătoriilor în Brazilia pe fondul cazurilor de febră Dengue.",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Brasilia.",
-        "affiliation" : "ONU"
+        "affiliation" : "ONU",
         "emergency" : "",
         "funfact" : "Brazilia este cel mai mare producător de cafea din lume de peste 150 de ani.",
-        "vaccine" : ""
+        "vaccine" : "Este recomandă cu tărie vaccinarea împotriva febrei galbene cu 10 zile înainte de efectuarea călătoriei spre Rio de Janeiro, în special dacă se dorește îmbarcarea și vizitarea Ilha Grande. Se recomandă și vaccinarea împotriva malariei."
     },
     {
         "name": "British Indian Ocean Territory",
@@ -372,7 +372,7 @@
         "comment": "Cetățenii care călătoresc în Brunei pentru o perioadă de mai puțin de 90 de zile nu au nevoie de viză de intrare, ci doar de pașaport - acesta trebuie să fie valabil cel puțin 6 luni înainte de a intra în Brunei și să justifice doar scopuri de afaceri sau vizită. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe avertizează cetățenii români care doresc să călătorească în acest stat că există un risc scăzut de atacuri teroriste, dar și de demonstrații sau adunări mari. Mai multe detalii pe site-ul MAE.",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Kuala Lumpur, Malaezia.",
-        "affiliation" : "ONU"
+        "affiliation" : "ONU",
         "emergency" : "",
         "funfact" : "Sultanul din Brunei ar duce luxul la un nou nivel: ar deține 500 de mașini Rolls Royce, un palat cu aproape 2.000 de camere și ar beneficia de tunsori de 20.000 de dolari.",
         "vaccine" : ""
@@ -384,7 +384,7 @@
         "source": "https://www.mae.ro/travel-conditions/3677",
         "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Bulgaria, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate.",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Sofia.",
-        "affiliation" : "UE, NATO, ONU"
+        "affiliation" : "UE, NATO, ONU",
         "emergency" : "",
         "funfact" : "Parlamentul bulgar este cea mai veche instituție parlamentară din Europa. S-a reunit pentru prima oară pe 11 mai 1879.",
         "vaccine" : ""
@@ -397,10 +397,10 @@
         "comment": "Cetățenii români care vor să intre pe teritoriul Burkina Faso au nevoie de pașaport și viză. Pașaportul trebuie să fie valabil cel puțin 6 luni de la data depunerii cererii de viză; viza se acordă pentru o perioadă de mmaximum 90 de zile și poate fi obținută de la Ambasada Republicii Burkina Faso la Bruxelles, care asigură reprezentarea diplomatică și consulară a Republicii Burkina Faso în România. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă să evite călătoriile în Burkina Faso pe fondul deteriorării grave a situației de securitate și a riscului de anulare a zborurilor internațioanle. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Dakar, Senegal.",
-        "affiliation" : "ONU"
+        "affiliation" : "ONU",
         "emergency" : "",
         "funfact" : "Aproape 80% din populația țării este angajată în agricultură de subzistență, adică toate culturile și animalele crescute de fermieri sunt suficiente exclusiv pentru ei și familiile lor, cu un procent scăzut destinat comerțului.",
-        "vaccine" : ""
+        "vaccine" : "Este obligatorie vaccinarea împotriva febrei galbene. Se recomandă, de asemenea, vaccinarea împotriva tetanosului, poliomielitei, difteriei, meningitei, febrei tifoide și a hepatitei A și B."
     },
     {
         "name": "Burundi",
@@ -410,10 +410,10 @@
         "comment": "Cetățenii români au nevoie de pașaport și viză pentru a călători în Burundi. Viza se poate obține atât la aterizare, direct pe aeroportul din Bujumbura, cât și la misiunile diplomatice burundeze. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români să evite călătoriile în Burundi pe fondul instabilității politice. De asemenea, MAE recomandă să nu te deplasezi în zonele de frontieră cu Republica Democrată Congo. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Nairobi, Kenya.",
-        "affiliation" : "ONU"
+        "affiliation" : "ONU",
         "emergency" : "",
         "funfact" : "Doar 3% din populația țării are acces la internet, ceea ce face Burundi una dintre cele mai slab cotate țări în materie de acces la internet.",
-        "vaccine" : ""
+        "vaccine" : "Pentru intrarea pe teritoriul acestui stat ai nevoie de un certificat care să ateste că te-ai vaccinat împotriva febrei galbene. Se recomandă, de asemenea, vaccinarea împotriva febrei tifoide, a hepatitei A și B, a tuberculozei, difteriei și poliomielitei."
     },
     {
         "name": "Cambodia",
@@ -423,7 +423,7 @@
         "comment": "Cetățenii români au nevoie de pașaport și viză pentru a călători în Regatul Cambodgiei. Poți aplica pentru o viză turistică online, cu o singură intrare, pentru o perioadă de maximum 30 de zile. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români să fie precauți atunci când călătoresc în Cambodgia și să evite apropierea de templul Preah Vihear, la frontiera cu Thailanda, pe fondul riscului declanșării de acte de violență. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Hanoi, Vietnam.",
-        "affiliation" : "ONU"
+        "affiliation" : "ONU",
         "emergency" : "",
         "funfact" : "Vârsta medie a populației din Cambodgia este de sub 15 ani, în jur de 50% din populația țării are 15 ani sau sub această vârstă.",
         "vaccine" : ""
@@ -436,10 +436,10 @@
         "comment": "Cetățenii români care doresc să călătorească în Camerun au nevoie de pașaport și viză. Viza de intrare poate fi obținută de la Ambasada Republicii Camerun în Italia, prin intermediul site-ului oficial. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români să fie extrem de vigilenți. Situația de securitate din regiune este puternic afectată de acțiunile teroriste violente practicate de către gruparea teroristă Boko Haram. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Abuja, Nigeria",
-        "affiliation" : "ONU"
+        "affiliation" : "ONU",
         "emergency" : "",
         "funfact" : "Pe teritoriul său se află cea mai veche pădure din Africa. Parcul Național Pădurea Korop are o vârstă de 60 de milioane de ani și se află aproape de granița cu Nigeria.",
-        "vaccine" : ""
+        "vaccine" : "Este obligatorie vaccinarea împotriva febrei galbene."
     },
     {
         "name": "Canada",
@@ -449,7 +449,7 @@
         "comment": "Cetățenii români nu au nevoie de viză de intrare pentru a călători în Canada, ci doar de pașaport simplu electronic. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Ottawa.",
-        "affiliation" : "NATO, ONU"
+        "affiliation" : "NATO, ONU",
         "emergency" : "",
         "funfact" : "Cea mai lungă stradă din lume se află în Canada. Pornește din Lake Ontario și se întinde pe aproape 2.000 de kilometri până la granița cu Minnesota.",
         "vaccine" : ""
@@ -462,7 +462,7 @@
         "comment": "Cetățenii români nu au nevoie de viză de intrare în Republica Capului Verde, ci doar de pașaport simplu electronic. Pașaportul trebuie să fie valabil pentru cel puțin încă 6 luni de la data intrării pe teritoriul acestui stat, iar perioada de ședere să nu depășească 30 de zile. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Dakar, Senegal.",
-        "affiliation" : "ONU"
+        "affiliation" : "ONU",
         "emergency" : "",
         "funfact" : "În această țară este considerat nepoliticos să mănânci în public fără să împarți și cu ceilalți din jurul tău. Majoritatea localnicilor cumpără suficientă mâncare pentru a împărți și cu cei din jurul lor.",
         "vaccine" : ""
@@ -483,22 +483,22 @@
         "comment": "Cetățenii români au nevoie de pașaport și viză de intrare pentru a călători în Repulica Centrafricană. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români evitarea deplasărilor în Republica Centrafricană pe fondul pericolului de jafuri armate, tâlhării, violuri și răpiri, precum și pentru condițiile de climă tropicală și igienă precară. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Khartoum, Republica Sudan.",
-        "affiliation" : "ONU"
+        "affiliation" : "ONU",
         "emergency" : "",
         "funfact" : "Alături de Ciad și Madagascar, Republica Centrafricană este una dintre țările cel mai puțin afectate de poluarea luminoasă.",
-        "vaccine" : ""
+        "vaccine" : "Vaccinarea împotriva febrei galbene este obligatorie. Este recomandată, de asemenea, vaccinarea împotriva virusului poliomielitic."
     },
     {
         "name": "Chad",
         "code": "TD",
         "documents": "Pașaport și Viză",
-        "source": "https://www.mae.ro/bilateral-relations/1914#711",
+        "source": "https://www.mae.ro/travel-conditions/64134",
         "comment": "Cetățenii care doresc să călătorească în Ciad au nevoie de pașaport și viză. Mai multe detalii despre obținerea vizei pe site-ul oficial MAE.",
         "warning" : "",
-        "affiliation" : "ONU"
+        "affiliation" : "ONU",
         "emergency" : "",
         "funfact" : "Ciadul mai este numit și Turnul Babel al lumii datorită celor peste 200 de grupuri etnice și a celor 100 de limbi vorbite în țară.",
-        "vaccine" : ""
+        "vaccine" : "Vaccinarea împotriva febrei galbene este obligatorie."
     },
     {
         "name": "Chile",
@@ -508,7 +508,7 @@
         "comment": "Cetățenii români nu au nevoie de viză de intrare pentru a călători în Chile, ci doar de pașaport. Extrem de important, perioada de ședere este de maximum 90 de zile și scutirea de vize este valabilă doar pentru scopuri turistice, așa că cetățenii români care nu pot demonstra cu documente justificative acest fapt (rezervare hotel, sume necesare în cash sau ucarte de credit) pot fi retrimiși în țara de origine/reședință. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Santiago de Chile.",
-        "affiliation" : "ONU"
+        "affiliation" : "ONU",
         "emergency" : "",
         "funfact" : "Chile mai este numită și capitala lumii în materie de astronomie. Deșertul Atacama este cunoscut pentru lipsa de precipitații și, ca atare, este ideal pentru pasionații de astronomie.",
         "vaccine" : ""
@@ -521,7 +521,7 @@
         "comment": "Cetățenii români au nevoie doar de pașaport pentru a călători în China între 30 noiembrie 2024 și 31 decembrie 2025. Perioada de ședere trebuie să fie de maximum 30 de zile, scopul vizitei să fie de afaceri, turism, vizită de familie, vizită de schimb sau tranzit iar valabilitatea pașaportului să fie mai mare de 6 luni, cu cel puțin 2 pagini libere. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Beijing.",
-        "affiliation" : "ONU"
+        "affiliation" : "ONU",
         "emergency" : "",
         "funfact" : "În 2011, China a consumat 42,5 miliarde de pachete de tăiței instant.",
         "vaccine" : ""
@@ -550,7 +550,7 @@
         "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Columbia, ci doar de pașaport. Pașaportul trebuie să fie valabil cel puțin 6 luni de la momentul intrării, scopul călătoriei să fie turistic, iar cetățenii români să facă dovada unui bilet de călătorie dus-întors. Perioada maximă de ședere este de 90 de zile. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe informează cetățenii români de rapoarte de febră Dengue. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Bogota.",
-        "affiliation" : "ONU"
+        "affiliation" : "ONU",
         "emergency" : "",
         "funfact" : "Conform legii columbiene, imnul de stat este redat la televizor și radio de două ori pe zi: la 6 dimineața și la 6 seara.",
         "vaccine" : ""
@@ -563,7 +563,7 @@
         "comment": "Cetățenii români au nevoie de pașaport și viză pentru a călători în Insulele Comore. Viza se emite pe loc, la momentul intrării în țară. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Pretoria, Republica Africa de Sud.",
-        "affiliation" : "ONU"
+        "affiliation" : "ONU",
         "emergency" : "",
         "funfact" : "Comoros este cel mai mare producător de ylang-ylang din lume, cu aproape 80% din necesarul planetei venind de aici.",
         "vaccine" : ""
@@ -576,10 +576,10 @@
         "comment": "Cetățenii români au nevoie de pașaport și viză de intrare. Pașaportul trebuie să aibă o valabilitate de cel puțiun 1 an de la data intrării pe teritoriul acestui stat și să conțină minimum 4 pagini libere, iar perioada de ședere nu poate depăși 91 de zile. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă evitarea deplasărilor în Republica Congo pe fondul situației de securitate din această țară. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Luanda, Angola.",
-        "affiliation" : "ONU"
+        "affiliation" : "ONU",
         "emergency" : "",
         "funfact" : "Este singurul loc din lume care găzduiește cimpanzeul Bonobo, considerat cea mai apropiată legătură a speciei umane.",
-        "vaccine" : ""
+        "vaccine" : "Este obligatorie vaccinarea împotriva febrei galbene. Se recomandă, de asemenea, vaccinarea împotriva hepatitei A, poliomielitei, tetanosului și a febrei tifoide."
     },
     {
         "name": "Congo, The Democratic Republic of the",
@@ -589,10 +589,10 @@
         "comment": "Cetățenii români au nevoie de pașaport și viză pentru a călători în Republica Democrată Congo. Pașaportl trebuie să aibă o valabilitate de cel puțin 1 an de la data intrării pe teritoriu și să conțină minimum 4 pagini albe, iar perioada de ședere nu poate depăși 90 de zile. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "Alertă de călătorie! MMinisterul Afacerilor Externe recomandă evitarea oricărei călătorii pe teritoriul acestui stat din cauza riscului de infestare cu febră virală hemoragică, rezultată în urma epidemiei cu care se confruntă în ultima perioadă acest stat. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Luanda, Angola.",
-        "affiliation" : "ONU"
+        "affiliation" : "ONU",
         "emergency" : "",
         "funfact" : "Populația Republicii Democrate Congo adună peste 200 de grupuri etnice, ce vorbesc 250 de limbi și dialecte în întreaga țară.",
-        "vaccine" : ""
+        "vaccine" : "Este obligatorie vaccinarea împotriva febrei galbene. Se recomandă, de asemenea, vaccinarea împotriva hepatitei A, poliomielitei, tetanosului și a febrei tifoide."
     },
     {
         "name": "Cook Islands",
@@ -626,7 +626,7 @@
         "affiliation" : "ONU"
         "emergency" : "",
         "funfact" : "Coasta de Fildeș are două capitale: Yamoussoukro (cea oficială) și Abidjan (cea administrativă).",
-        "vaccine" : ""
+        "vaccine" : "Vaccinul împotriva febrei galbene este obligatoriu pentru intrarea în acest stat. Se recomandă vaccinarea împotriva tetanosului, poliomielitei, difteriei, meningitei, febrei tifoide, hepatitei A și B, precum și pentru alte boli. Mai multe informații utile pe site-ul oficial MAE."
     },
     {
         "name": "Croatia",
@@ -1304,7 +1304,7 @@
     },
     {
         "name": "Korea, Democratic People's Republic of",
-        "code ": "KP",
+        "code": "KP",
         "documents": "Pașaport și Viză de Intrare/Ieșire",
         "source": "https://www.mae.ro/travel-conditions/3685",
         "comment": "Pentru a călători în Republica Populară Democrată Coreeană este necesară obținerea vizei de intrare/ieșire. Viza se acordă numai pe baza unei invitații oficiale adresate de o instituție sau persoană fizică cu reședința în Coreea de Nord sau la solicitarea scrisă a unei instituții din România. Viza se poate obține de la una dintre ambasadele sau agențiile de turism nord-coreene din străinătate, cu perioada de procesare a vizei de minimum 10 zile. Dată fiind natura extrem de delicată a călătoriilor în acest stat, îți recomandăm să afli mai multe detalii pe site-ul oficial MAE.",
@@ -2618,7 +2618,8 @@
         "comment": "Cetățenii români nu au nevoie de viză de intrare în Ucraina pentru călătorii de scurtă durată, maximul fiind de 90 de zile. Așadar, cetățenii români pot intra pe teritoriul Ucrainei cu un pașaport valabil minimum 90 de zile. Totodată, străinii trebuie să demonstreze Poliției de Frontieră că dețin resursele financiare necesare pe durata șederii în Ucraina. Summa necesară este de aproximativ 2000 EUR/lună, respectiv 400 EUR/săptămână sau echivalentul în orice altă valută. Mai multe informații pe site-ul oficial MAE.",
         "warning" : "",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Kiev.",
-        "affiliation" : "ONU"
+        "affiliation" : "ONU",
+        "emergency" : "Pericol major! Ministerul Afacerilor Externe solicită cu insistență cetățenilor români să nu se deplaseze în această țară pe fondul conflictului militar în desfășurare și a instaurării legii marțiale. Mai multe detalii pe site-ul oficial MAE.",
     },
     {
         "name": "United Arab Emirates",
