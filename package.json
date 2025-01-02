@@ -1,8 +1,8 @@
 {
   "dependencies": {
-    "i18n-iso-countries": "^6.4.0"
+    "i18n-iso-countries": "^7.13.0"
   },
   "devDependencies": {
-    "bootstrap": "^4.6.0"
+    "bootstrap": "^5.3.3"
   }
 }

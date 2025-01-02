@@ -3,7 +3,7 @@
  * included in this file.
  */
 
-@import '../../node_modules/bootstrap/scss/bootstrap-grid.scss';
+@import '../../node_modules/bootstrap/scss/bootstrap.scss';
 $yellow: #ffd100;
 
 #form-container {
@@ -40,6 +40,10 @@ $yellow: #ffd100;
         display: none;
         margin-top: 30px;
 
+        .block-header {
+            font-weight: bold;
+        }
+
         #info {
             text-align: center;
             font-size: 22px;
@@ -53,69 +57,107 @@ $yellow: #ffd100;
                 }
             }
 
-            .documents {
-                background-color: gray;
-                border-radius: 4px;
-                padding: 0 4px;
-                white-space: nowrap;
+            // .documents {
+            //     background-color: gray;
+            //     border-radius: 4px;
+            //     padding: 0 4px;
+            //     white-space: nowrap;
 
-                //font-weight: 400;
-                &.idcard {
-                    background-color: #4caf50;
-                    color: #fff;
-                }
+            //     //font-weight: 400;
+            //     &.idcard {
+            //         background-color: #4caf50;
+            //         color: #fff;
+            //     }
 
-                &.passport {
-                    background-color: $yellow;
-                }
+            //     &.passport {
+            //         background-color: $yellow;
+            //     }
 
-                &.visa {
-                    background-color: #F44336;
-                    color: #fff;
-                }
-            }
+            //     &.visa {
+            //         background-color: #F44336;
+            //         color: #fff;
+            //     }
+            // }
 
-            .country-name {
-                background-color: $yellow;
-                border-radius: 4px;
-                padding: 0 4px;
-            }
+            // .country-name {
+            //     background-color: $yellow;
+            //     border-radius: 4px;
+            //     padding: 0 4px;
+            // }
         }
 
         #comment {
-            margin: 1em 0;
-            border-color: #4CAF50;
             background-color: #f4faf4;
-        }
+            border: 1px solid #aaa;
 
-        #emergency {
-            border-left-color: #000;
-            background-color: rgba(#000, .5);
-            color: #fff;
-            position: relative;
+            .content {
+                background-color: #fff;
+                color: #000;
+            }
 
-            &:before {
-                content: '';
-                position: absolute;
-                z-index: -1;
-                top: 0;
-                left: 0;
-                width: 100%;
-                height: 100%;
+            &.idcard {
+                background-color: #4caf50;
+                color: #fff;
+            }
 
-                background-image: linear-gradient(45deg, #000000 25%, #e0be34 25%, #e0be34 50%, #000000 50%, #000000 75%, #e0be34 75%, #e0be34 100%);
-                background-size: 56.57px 56.57px;
+            &.passport {
+                background-color: $yellow;
+            }
+
+            &.visa {
+                background-color: #F44336;
+                color: #fff;
             }
         }
 
-        #mission {
-            border-color: #ffeb3b;
-            background-color: hsl(64, 100%, 86%);
+        #emergency {
+            background-color: #000;
+            border: 1px solid #aaa;
+            color: #fff;
+
+            .content {
+                background-color: #fff;
+                color: #000;
+                position: relative;
+
+                // &:before {
+                //     content: '';
+                //     position: absolute;
+                //     z-index: -1;
+                //     top: 0;
+                //     left: 0;
+                //     width: 100%;
+                //     height: 100%;
+    
+                //     background-image: linear-gradient(45deg, #000000 25%, #e0be34 25%, #e0be34 50%, #000000 50%, #000000 75%, #e0be34 75%, #e0be34 100%);
+                //     background-size: 56.57px 56.57px;
+                // }
+            }
+
         }
 
+        // #mission {
+        //     border-color: #ffeb3b;
+        //     background-color: hsl(64, 100%, 86%);
+        // }
+
         #warning {
-            border-left-color: #F44336;
-            background-color: #ffeaea;
+            border: 1px solid #aaa;
+            background-color: #ef940b;
+            color: #fff;
+
+            .content {
+                color: #000;
+                background-color: #fff;
+            }
+        }
+
+        #extra {
+            border: 1px solid #aaa;
+            background: lightblue;
+            .content {
+                background-color: #fff;
+            }
         }
 
         #source {
@@ -135,5 +177,33 @@ $yellow: #ffd100;
                 font-weight: 500;
             }
         }
+    }
+}
+
+#form-container {
+    /* Flag image style */
+    .select2-results__option img.flag {
+        width: 20px;
+        height: 15px;
+        margin-right: 10px;
+    }
+    
+    /* Flag size in the selection box */
+    .select2-selection__rendered img.flag {
+        width: 20px;
+        height: 15px;
+        margin-right: 10px;
+    }
+    
+    .select2-selection {
+        height: 40px; /* Match the height of your default select */
+        padding: 0 10px; /* Match the padding */
+        display: flex;
+        align-items: center; /* Vertically align the selected option */
+        font-family: inherit;
+        font-size: inherit;
+    }
+    .select2-selection--single .select2-selection__arrow {
+        height: 40px;
     }
 }
