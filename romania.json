@@ -610,7 +610,7 @@
         "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Republica Costa Rica, ci doar de pașaport. Perioada maximă de ședere este de 90 de zile într-un interval de 6 luni, scopul călătoriei trebuie să fie turistic sau de afaceri, iar la sosirea la punctul de trecere a frontierei trebuie să prezinți documentele care demonstrează scopul vizitei, precum și mijloace financiare suficiente pentru întreținerea pe perioada șederii și alte documente. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români vigilență sporită pe fondul jafurilor și al infracțiunilor violente în locurile publice la adresa turiștilor. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Ciudad de Mexico, Mexic.",
-        "affiliation" : "ONU"
+        "affiliation" : "ONU",
         "emergency" : "",
         "funfact" : "Este una dintre cele mai 'fericite' țări din lume, cu o populație ce adoptă stilul de viață pura vida. ",
         "vaccine" : ""
@@ -623,7 +623,7 @@
         "comment": "Cetățenii români au nevoie de pașaport și viză pentru a călători în Coasta de Fildeș. Viza se acordă de către misiunile diplomatice și oficiile Consulare ale Republicii Coasta de Fildeș - reprezentarea diplomatică și consulară a Republicii Coasta de Fildeș în România este asigurată de Ambasada Republicii Coasta de Fildeș în Germania. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă vigilență sporită pe fondul insecurității țării, cu focare de tensiune la nivel local. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Dakar, Senegal.",
-        "affiliation" : "ONU"
+        "affiliation" : "ONU",
         "emergency" : "",
         "funfact" : "Coasta de Fildeș are două capitale: Yamoussoukro (cea oficială) și Abidjan (cea administrativă).",
         "vaccine" : "Vaccinul împotriva febrei galbene este obligatoriu pentru intrarea în acest stat. Se recomandă vaccinarea împotriva tetanosului, poliomielitei, difteriei, meningitei, febrei tifoide, hepatitei A și B, precum și pentru alte boli. Mai multe informații utile pe site-ul oficial MAE."
@@ -636,7 +636,7 @@
         "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Croația, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate. Este important de menționat faptul că cetățenii români care doresc să rămână în Croația pentru perioade mai lungi de 90 de zile trebuie să se înregistreze, în funcție de scopul șederii, la autoritățile croate competente. Mai multe informații pe site-ul oficial MAE.",
         "warning" : "",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Zagreb.",
-        "affiliation" : "UE, NATO, ONU"
+        "affiliation" : "UE, NATO, ONU",
         "emergency" : "",
         "funfact" : "Este țara care a dat naștere creionului mecanic. Slavoljub Penkala l-a inventat în 1906 și compania sa există și acum.",
         "vaccine" : ""
@@ -649,7 +649,7 @@
         "comment": "Cetățenii români au nevoie de pașaport și viză sau tarjeta turistica pentru a călători în Cuba. Viza se poate obține de la ambasadele sau consulatele Cubei în străinătate sau de la agențiile de turism sau companiile aeriene de la care s-a achiziționat pachetul turistic sau biletul de călătorie. Începând cu septembrie 2024, autoritățile cubaneze au implementat un sistem online de emitere a vizei turistice, care se eliberează cu o singură intrare și o valabilitate de 90 de zile. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Havana.",
-        "affiliation" : "ONU"
+        "affiliation" : "ONU",
         "emergency" : "",
         "funfact" : "Deși relațiile sale cu Occidentul s-au îmbunătățit, Cuba este în continuare o țară cu regim autoritar. Ca atare, Wi-Fi-ul este greu de găsit - îl vei putea folosi doar în locuri dedicate și contra-cost.",
         "vaccine" : ""
@@ -662,7 +662,7 @@
         "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Cipru, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate.",
         "warning" : "",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Nicosia.",
-        "affiliation" : "UE, ONU"
+        "affiliation" : "UE, ONU",
         "emergency" : "",
         "funfact" : "Cipru se bucură de razele soarelui peste 300 de zile pe an.",
         "vaccine" : ""
@@ -675,7 +675,7 @@
         "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Republica Cehă. Intrarea este permisă cu cartea de identitate sau cu pașaportul, valabile pentru o perioadă de cel puțin 3 luni. Perioada maximă de ședere este de 3 luni, fiind necesară obținerea unui permis de ședere pentru perioade mai lungi. Mai multe informații pe site-ul oficial MAE.",
         "warning" : "",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Praga.",
-        "affiliation" : "UE, NATO, ONU"
+        "affiliation" : "UE, NATO, ONU",
         "emergency" : "",
         "funfact" : "Cehia are cele mai multe castele din Europa: peste 2.000.",
         "vaccine" : ""
@@ -688,7 +688,7 @@
         "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Danemarca, ci doar de cartea de identitate sau de pașaport, valabile cel puțin 3 luni. Perioada maximă de ședere pentru deținătorii acestor documente este de 3 luni.",
         "warning" : "",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Copenhaga.",
-        "affiliation" : "UE, NATO, ONU"
+        "affiliation" : "UE, NATO, ONU",
         "emergency" : "",
         "funfact" : "Danemarca deține cel mai vechi steag din lume. Legenda spune că își are originile în secoulul al XIV-lea, în timpul bătăliei de la Lyndanisse.",
         "vaccine" : ""
@@ -706,10 +706,10 @@
         "code": "DM",
         "documents": "Pașaport",
         "source": "https://www.mae.ro/travel-conditions/48636",
-        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în scop turistic în Dominica, ci doar de pașaport. Perioada de ședere nu trebuie să depășească 90 de zile. Mai multe detalii pe site-ul oficial MAE.",
+        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în scop turistic în Dominica, ci doar de pașaport. Perioada de ședere nu trebuie să depășească 90 de zile și este necesar să îndeplinești mai multe condiții. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Havana, Cuba.",
-        "affiliation" : "ONU"
+        "affiliation" : "ONU",
         "emergency" : "",
         "funfact" : "Aici a fost filmată pelicula 'Pirates of the Caribbean: Dead Man’s Chest'.",
         "vaccine" : "
@@ -719,10 +719,10 @@
         "code": "DO",
         "documents": "Pașaport",
         "source": "https://www.mae.ro/travel-conditions/3738",
-        "comment": "Cetățenii români care vor să călătorească în Republica Dominicană nu au nevoie de viză, ci doar de pașaport și card turistic. Acesta se poate obține de la consulatele Republicii Dominicane sau la punctele de trecere a frontierei. Perioada de ședere nu trebuie să depășească 90 de zile. Mai multe detalii pe site-ul oficial MAE.",
+        "comment": "Cetățenii români care vor să călătorească în Republica Dominicană nu au nevoie de viză, ci doar de pașaport și un card turistic. Acesta se poate obține de la consulatele Republicii Dominicane sau la punctele de trecere a frontierei. Perioada de ședere nu trebuie să depășească 90 de zile. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Bogota, Republica Dominicană.",
-        "affiliation" : "ONU"
+        "affiliation" : "ONU",
         "emergency" : "",
         "funfact" : "Este singura țară din lume cu o biblie pe steagul național.",
         "vaccine" : "
@@ -733,9 +733,9 @@
         "documents": "Pașaport",
         "source": "https://www.mae.ro/travel-conditions/31517",
         "comment": "Cetățenii români care vor să călătorească în Ecuador în scop turistic nu au nevoie de viză, ci doar de pașaport. Acesta trebuie să fie valabil minimum 6 luni, iar perioada de ședere să nu depășească 90 de zile. Mai multe detalii pe site-ul oficial MAE.",
-        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă vigilență maximă pe fondul protestelor și al infracțiunilor frecvente. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă evitarea oricăror deplasări în anumite regiuni pe fondul conflictelor violente, dar și al evadărilor de infractori periculoși din mai multe penitenciare. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Lima, Peru.",
-        "affiliation" : "ONU"
+        "affiliation" : "ONU",
         "emergency" : "",
         "funfact" : "Insulele Galapagos, parte din Ecuador, au stat la baza Teoriei Evoluției a lui Charles Darwin.",
         "vaccine" : "
@@ -745,10 +745,10 @@
         "code": "EG",
         "documents": "Pașaport și Viză",
         "source": "https://www.mae.ro/travel-conditions/3691",
-        "comment": "Cetățenii români care doresc să călătorească în Egipt au nevoie de pașaport și viză. Pașaportul simplu sau temporar trebuie să aibă o valabilitate de minimum 6 luni de la data intrării în Egipt, iar viza se poate obține la aeroport sau la sediul Ambasadei Republicii Arabe Egipt în România. Mai multe detalii pe site-ul oficial MAE.",
-        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe atrage atenția asupra atentatelor teroriste din Peninsula Sinai și la frontiera cu Libia și Sudan. Mai multe detalii pe site-ul oficial MAE.",
+        "comment": "Cetățenii români care doresc să călătorească în Egipt au nevoie de pașaport și viză. Pașaportul simplu sau simplu temporar trebuie să aibă o valabilitate de minimum 6 luni de la data intrării în Egipt, iar viza turistică se poate obține la aeroport sau la sediul Ambasadei Republicii Arabe Egipt în România. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe atrage atenția asupra atentatelor teroriste din Peninsula Sinai și la frontiera cu Libia și Sudan iar, ca atare, recomandă imperativ evitarea oricărei deplasări în aceste zone. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Cairo.",
-        "affiliation" : "ONU"
+        "affiliation" : "ONU",
         "emergency" : "",
         "funfact" : "95% din populația Egiptului trăiește de-a lungul Nilului, cel mai lung râu din lume.",
         "vaccine" : "
@@ -758,10 +758,10 @@
         "code": "SV",
         "documents": "Pașaport",
         "source": "https://www.mae.ro/travel-conditions/33020",
-        "comment": "Cetățenii români care vor să călătorească în El Salvador în scop turistic nu au nevoie de viză, ci doar de pașaport. Adițional, va trebui să prezinți documentele care demonstrează scopul vizitei și faptul că deții suficiente mijloace financiare pentru a te întreține pe perioada șederii. Perioada de ședere nu poate depăși 90 de zile. Mai multe detalii pe site-ul oficial MAE.",
+        "comment": "Cetățenii români care vor să călătorească în El Salvador în scop turistic nu au nevoie de viză, ci doar de pașaport. Adițional, va trebui să prezinți mai multe documente, precum un bilet de călătorie pentru reîntoarcerea în România, asigurare de călătorie/sănătate care să aibă acoperire în acest stat sau traseul turistic. Perioada de ședere nu poate depăși 90 de zile. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Ciudad de Mexico, Mexic.",
-        "affiliation" : "ONU"
+        "affiliation" : "ONU",
         "emergency" : "",
         "funfact" : "Este cea mai mică țară din America Centrală, dar unul dintre cele mai mari centre comerciale din zonă.",
         "vaccine" : "
@@ -790,7 +790,7 @@
         "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Estonia, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate. Cetățenii statelor membre UE, deci și cetățenii români, pot rămâne pe teritoriul Estoniei trei luni fără a îndeplini vreo formalitate, dacă au o carte de identitate sau un pașaport valabil și dețin resurse ecnonomice suficiente pentru a se întreține pe sine și, eventual, membrii familiei. Pentru șederi mai lungi de 3 luni, cetățenii UE trebuie să se înregistreze la administrația locală în care locuiesc. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Tallinn.",
-        "affiliation" : "UE, NATO, ONU"
+        "affiliation" : "UE, NATO, ONU",
         "emergency" : "",
         "funfact" : "În 2005 a devenit prima țară din lume care a introdus votul digital, subliniind poziția sa ca una dintre cele mai avansate digital societăți din Europa.",
         "vaccine" : "
@@ -800,13 +800,13 @@
         "code": "ET",
         "documents": "Pașaport și Viză",
         "source": "https://www.mae.ro/travel-conditions/3695",
-        "comment": "Cetățenii români care doresc să călătorească în Etiopia au nevoie de pașaport și viză. Viza turistică poate fi obținută online, cu cel puțin 3-4 zile înainte de data călătoriei. Mai multe detalii pe site-ul oficial MAE.",
-        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă, pe lângă vigilența sporită, contactarea Ambasadei României la Addis Abeba atât înainte de călătorie, cât și la sosirea în Etiopia pentru semnalarea prezenței. Deși situația de securitate este stabilă, se menține riscul incidentelor și conflictelor locale. Mai multe detalii pe site-ul oficial MAE.",
+        "comment": "Cetățenii români care doresc să călătorească în Etiopia au nevoie de pașaport și viză. Viza turistică poate fi obținută online, cu cel puțin 5 zile înainte de data călătoriei. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandăevitarea oricărei călătorii pe fondul situației de securitate imprevizibile în mai multe zone ale țării. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Addis Abeba.",
-        "affiliation" : "ONU"
+        "affiliation" : "ONU",
         "emergency" : "",
         "funfact" : "Este singura țară din lume cu un sistem de timp în 12 ore: ciclul zilei începe cu răsăritul fiecarei dimineți la ora 06:00 și se încheie pe înserat, la 17:59. Ciclul de noapte începe seara la ora 18:00 și se încheie dimineața, la 05:59.",
-        "vaccine" : "
+        "vaccine" : "Vaccinarea împotriva febrei galbene este obligatorie pentru a intra pe teritoriul acestui stat, iar carnetul de vaccinări trebuie prezentat, la cerere, la sosirea pe Aeroportul Internațional Bole."
     },
     {
         "name": "Falkland Islands (Malvinas)",
@@ -829,10 +829,10 @@
         "code": "FJ",
         "documents": "Pașaport",
         "source": "https://www.mae.ro/travel-conditions/30276",
-        "comment": "Cetățenii români care doresc să călătorească în Fiji nu au nevoie de viză, ci doar de pașaport. Mai multe detalii pe site-ul oficial MAE.",
+        "comment": "Cetățenii români care doresc să călătorească în Fiji nu au nevoie de viză, ci doar de pașaport simplu sau temporar. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Canberra, Australia.",
-        "affiliation" : "ONU"
+        "affiliation" : "ONU",
         "emergency" : "",
         "funfact" : "Fiji reunește 332 de insule, localizate între Hawaii și Noua Zeelandă.",
         "vaccine" : "
@@ -842,10 +842,10 @@
         "code": "FI",
         "documents": "Carte de Identitate sau Pașaport",
         "source": "https://www.mae.ro/travel-conditions/3697",
-        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Finlanda, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate. Cetățenii statelor membre UE, deci și cetățenii români, pot rămâne pe teritoriul Finlandei trei luni fără a îndeplini vreo formalitate, dacă au o carte de identitate sau un pașaport valabil și dețin resurse ecnonomice suficiente pentru a se întreține pe sine și, eventual, membrii familiei. Pentru șederi mai lungi de 3 luni, cetățenii UE trebuie să se înregistreze la secția de poliție din jurisdicția în care locuiesc. Mai multe detalii pe site-ul oficial MAE.",
+        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Finlanda, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Helsinki.",
-        "affiliation" : "UE, ONU"
+        "affiliation" : "UE, ONU",
         "emergency" : "",
         "funfact" : "Finlandezii sunt cei mai mari băutori de cafea din lume. Un finlandez consumă, în medie, 12 kilograme de cafea pe an, așa că 8 cești pe zi reprezintă ceva complet obișnuit pentru finlandezi.",
         "vaccine" : "
@@ -858,7 +858,7 @@
         "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Franța, ci doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate.",
         "warning" : "",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Paris.",
-        "affiliation" : "UE, NATO, ONU"
+        "affiliation" : "UE, NATO, ONU",
         "emergency" : "",
         "funfact" : "Francezii beau 11 milioane de pahare de vin în fiecare an, adică aproape 25 de milioane de hectolitri.",
         "vaccine" : "
