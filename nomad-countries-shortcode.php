@@ -3,7 +3,7 @@
 /**
  *
  * @link              https://cristache.net
- * @since             1.0.3
+ * @since             1.0.4
  * @package           Nomad_Countries_Shortcode
  *
  * @wordpress-plugin
@@ -11,7 +11,7 @@
  * Plugin URI:        https://nomad.expert
  * Description:       
  * Tested up to:      6.7.1
- * Version:           1.0.3
+ * Version:           1.0.4
  * Requires at least: 6.7.1
  * Requires PHP:      7.4
  * Author:            Dragos Cristache
@@ -33,8 +33,8 @@ function utm_user_scripts() {
     $plugin_url = plugin_dir_url( __FILE__ );
     wp_enqueue_style( 'style',  $plugin_url . "assets/css/nomad-countries-shortcode.css", array(), filemtime(plugin_dir_path(__FILE__) . "assets/css/nomad-countries-shortcode.css"), 'all' );
     wp_enqueue_style( 'fontawesome',  "https://fa.leadgap.ro/latest/css/all.min.css" );
-    wp_enqueue_style( 'select2',  "https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" );
-    wp_enqueue_script( 'select2',  "https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js", array('jquery'), null, true  );
+    wp_enqueue_style( 'select2',  $plugin_url . "assets/css/select2.min.css", array(), filemtime(plugin_dir_path(__FILE__) . "assets/css/select2.min.css"), 'all' );
+    wp_enqueue_script( 'select2',  $plugin_url . "assets/js/select2.min.js", array('jquery'), filemtime(plugin_dir_path(__FILE__) . "assets/js/select2.min.js"), true  );
     wp_enqueue_script( 'script',  $plugin_url . "assets/js/nomad-countries-shortcode.min.js", array('jquery'), filemtime(plugin_dir_path(__FILE__) . "assets/js/nomad-countries-shortcode.min.js"), true  );
 }
 add_action( 'wp_enqueue_scripts', 'utm_user_scripts' );
