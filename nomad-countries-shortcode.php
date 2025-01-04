@@ -23,6 +23,12 @@ if ( ! defined( 'WPINC' ) ) {
 	die;
 }
 
+function comment_form_title_reply( $defaults ) {  
+    $defaults['title_reply'] = __( 'Lasă un comentariu' );  
+    return $defaults;
+}
+add_filter( 'comment_form_defaults', 'comment_form_title_reply' );
+
 function utm_user_scripts() {
     $plugin_url = plugin_dir_url( __FILE__ );
     wp_enqueue_style( 'style',  $plugin_url . "assets/css/nomad-countries-shortcode.css", array(), filemtime(plugin_dir_path(__FILE__) . "assets/css/nomad-countries-shortcode.css"), 'all' );
