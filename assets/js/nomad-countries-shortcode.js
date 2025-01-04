@@ -135,29 +135,29 @@ countries.registerLocale(require("i18n-iso-countries/langs/ro.json"));
 
 		if (country.emergency) {
 			result.append(`<div id="emergency" class="d-flex flex-lg-row flex-column mb-4">
-				<p class="col-lg-3 block-header d-flex flex-column justify-content-center align-content-center text-center p-lg-2">Alertă de călătorie!</p>
-				<p class="col-lg-9 content p-lg-2 mb-0"><strong>⚠️ Atenție!</strong> ${country.emergency}</p>
+				<p class="col-lg-3 block-header d-flex flex-column justify-content-center align-content-center text-center p-2 mb-0">Alertă de călătorie!</p>
+				<p class="col-lg-9 content p-2 mb-0"><strong>⚠️ Atenție!</strong> ${country.emergency}</p>
 			</div>`);
 		}
 
 		if (country.warning) {
 			result.append(`<div id="warning" class="d-flex flex-lg-row flex-column mb-4">
-				<p class="col-lg-3 block-header d-flex flex-column justify-content-center align-content-center p-lg-2 text-center">Alertă de călătorie!</p>
-				<p class="col-lg-9 content p-lg-2 mb-0"><strong>⚠️ Atenție!</strong> ${country.warning}</p>
+				<p class="col-lg-3 block-header d-flex flex-column justify-content-center align-content-center p-2 mb-0 text-center">Alertă de călătorie!</p>
+				<p class="col-lg-9 content p-2 mb-0"><strong>⚠️ Atenție!</strong> ${country.warning}</p>
 			</div>`);
 		}
 
 		if (country.comment) {
 			result.append(`<div id="comment" class="${documentclass} d-flex flex-lg-row flex-column mb-4">
-				<p class="col-lg-3 block-header d-flex flex-column justify-content-center align-content-center p-lg-2 text-center">Condiții de intrare</p>
-				<p class="col-lg-9 content p-lg-2 mb-0">${country.comment}</p>
+				<p class="col-lg-3 block-header d-flex flex-column justify-content-center align-content-center p-2 mb-0 text-center">Condiții de intrare</p>
+				<p class="col-lg-9 content p-2 mb-0">${country.comment}</p>
 			</div>`);
 		}
 
 		if (country.misiune || country.vaccine || country.affiliation) {
 			result.append(`<div id="extra" class="d-flex flex-lg-row flex-column">
-				<p class="col-lg-3 block-header d-flex flex-column justify-content-center align-content-center p-lg-2 text-center"></p>
-				<div class="col-lg-9 content p-lg-2"></div>
+				<p class="col-lg-3 block-header d-flex flex-column justify-content-center align-content-center p-2 mb-0 text-center"></p>
+				<div class="col-lg-9 content p-2"></div>
 			</div>`);
 		}
 
