@@ -1285,7 +1285,7 @@
         "comment": "Cetățenii români care doresc să călătorască în Kenya au nevoie de pașaport și viză de intrare. Ministerul Afacerilor Externe recomandă cetățenilor români  să aplice pentru viză online, cu cel puțin o săptămâmî înaintea călătoriei. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă prudență pe fondul cazurilor de holeră și poliomielită, dar și din cauza atentatelor teroriste ce motivează anularea călătoriilor care nu sunt necesare. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Nairobi.",
-        "affiliation" : "ONU"
+        "affiliation" : "ONU",
         "emergency" : "",
         "funfact" : "Deși Kenya are 2 limbi oficiale - Swahili și Engleza - pe teritoriul țării se vorbesc în jur de 68 de limbi.",
         "vaccine" : ""
@@ -1297,7 +1297,7 @@
         "source": "https://www.mae.ro/travel-conditions/30369",
         "comment": "Cetățenii români care doresc să călătorească în Republica Kiribati nu au nevoie de viză, ci doar de papșaport - perioada maximă de ședere este de 90 de zile. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Canberra.",
-        "warning" : ""
+        "warning" : "",
         "emergency" : "",
         "funfact" : "Deși are un teritoriu de numai 811 kilometri pătrați, Kiribati se întinde pe o suprafață de mărimea Indiei.",
         "vaccine" : ""
@@ -1677,7 +1677,7 @@
         "affiliation" : "ONU",
         "emergency" : "",
         "funfact" : "Aproape un milion de turiști vizitează anual Belize, 70% dintre ei fiind americani.",
-        "vaccine" : ""
+        "vaccine" : "",
         "emergency" : "",
         "funfact" : "Mongolezii sunt recunoscuți pentru ospitalitatea lor, mereu vor fi pregătiți cu un bol fierbinte de ceai pentru oaspeți.",
         "vaccine" : ""
@@ -2115,7 +2115,7 @@
         "source": "https://www.mae.ro/travel-conditions/48637",
         "comment": "Cetățenii români care doresc să călătorească în Saint Kitts și Nvis nu au nevoie de viză de intrare, ci doar de pașaport. Scopul călătoriei trebuie să fie turistic, iar perioada de ședere să nu depășească 90 de zile. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Havana, Cuba.",
-        "warning" : ""
+        "warning" : "",
         "emergency" : "",
         "funfact" : "Este cea mai mică țară din Americi, atât ca dimensiune, cât și ca populație: 269 de kilometri pătrați pentru 45.000 de oameni.",
         "vaccine" : ""
@@ -2548,7 +2548,7 @@
         "comment": "Cetățenii români care doresc să călătorească în Republica Tunisiană nu au nevoie de viză, ci doar de pașaport. Perioada de ședere nu poate depăși 90 de zile. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români că riscul atacurilor teroriste este unul ridicat și, astfel, recomandă prudență și vigilență. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Tunis.",
-        "affiliation" : "ONU"
+        "affiliation" : "ONU",
         "emergency" : "",
         "funfact" : "Tunisia a fost prima țară arabă care a interzis poligamia în 1956, fapt surprinzător pentru că are o populație preponderent musulmană.",
         "vaccine" : ""
@@ -2561,7 +2561,7 @@
         "comment": "Cetățenii români care doresc să călătorească în Turcia au nevoie de pașaport. Acesta trebuie să aibă o valabilitate de minimum 150 de zile la momentul intrării în Turcia și să dispună de cel puțin o filă goală. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe avertizează asupra situației de securitate din Turcia și a riscurilor de natură teroristă asociate. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Ankara.",
-        "affiliation" : "NATO, ONU"
+        "affiliation" : "NATO, ONU",
         "emergency" : "",
         "funfact" : "Marele Bazar din Istanbul, considerat drept cel mai vechi mall din lume, se întinde pe 64 de străzi și găzduiește nu mai puțin de 4.000 de magazine.",
         "vaccine" : ""
@@ -2574,7 +2574,7 @@
         "comment": "Cetățenii români care doresc să călătorească în Turkmenistan au nevoie de pașaport și viză, chiar și pentru tranzitarea țării. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Ashgabat.",
-        "affiliation" : "ONU"
+        "affiliation" : "ONU",
         "emergency" : "",
         "funfact" : "Craterul de gaze Darvaza, supranumit și Poarta Iadului, se află în Turkmenistan și nu este un fenomen natural, ci rezultatul unei greșeli umane. Grupul de geologi sovietici care fora aici în 1971 a decis să incendieze echipamentul căzut în șantier, crezând că focul se va domoli după câteva zile - au trecut 48 de aniu de atunci.",
         "vaccine" : ""
@@ -2595,7 +2595,7 @@
         "comment": "Cetățenii români care doresc să călătorească în Tuvalu nu au nevoie de viză, ci doar de pașaport conform Acordului încheiat între Uniunea Europeană și Tuvalu privind scutirea de vize de scurtă ședere. Ca atare, perioada de ședere nu poate depăși 90 de zile. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Canberra, Australia.",
-        "affiliation" : "ONU"
+        "affiliation" : "ONU",
         "emergency" : "",
         "funfact" : "Mica țară din Oceanul Pacific nu are nici măcar un singur ATM pe teritoriul său, așa că toate restaurantele, hotelurile sau cafenelele vor accepta doar cash - dolari australieni, mai exact.",
         "vaccine" : ""
@@ -2619,7 +2619,7 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Kiev.",
         "affiliation" : "ONU",
-        "emergency" : "Pericol major! Ministerul Afacerilor Externe solicită cu insistență cetățenilor români să nu se deplaseze în această țară pe fondul conflictului militar în desfășurare și a instaurării legii marțiale. Mai multe detalii pe site-ul oficial MAE.",
+        "emergency" : "Pericol major! Ministerul Afacerilor Externe solicită cu insistență cetățenilor români să nu se deplaseze în această țară pe fondul conflictului militar în desfășurare și a instaurării legii marțiale. Mai multe detalii pe site-ul oficial MAE."
     },
     {
         "name": "United Arab Emirates",
