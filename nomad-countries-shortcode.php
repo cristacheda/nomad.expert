@@ -23,6 +23,8 @@ if ( ! defined( 'WPINC' ) ) {
 	die;
 }
 
+add_filter( 'litespeed_ucss_per_pagetype', '__return_true' );
+
 function comment_form_title_reply( $defaults ) {  
     $defaults['title_reply'] = __( 'Lasă un comentariu' );  
     return $defaults;
