@@ -33,8 +33,8 @@ countries.registerLocale(require("i18n-iso-countries/langs/ro.json"));
 		if (fileName) {
 			//https://raw.githubusercontent.com/cristacheda/nomad.expert/refs/heads/gh-pages/data/documents/
 			//https://raw.githubusercontent.com/cristacheda/nomad.expert/refs/heads/master/
-			//$.getJSON( "https://raw.githubusercontent.com/cristacheda/nomad.expert/refs/heads/master/" + fileName )
-			$.getJSON( "https://mytravelpapers.com/json.php" )
+			//$.getJSON( "https://mytravelpapers.com/json.php" )
+			$.getJSON( "https://raw.githubusercontent.com/cristacheda/nomad.expert/refs/heads/master/" + fileName )
 			.done(function( json ) {
 				result = json;
 				buildDestinationCountrySelector(result);
