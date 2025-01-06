@@ -43,13 +43,13 @@
         "code": "AS",
         "documents": "Pașaport",
         "source": "https://www.mae.ro/travel-conditions/30372",
-        "comment": "Accesul în țară se face pe baza unui pașaport valabil cel puțin 6 luni, un bilet de întoarcere, dovada existenței fondurilor necesare pentru sejur, precum și adresa unde vei locui pe durata șederii. Mai multe detalii pe site-ul oficial MAE.",
+        "comment": "Nu ai nevoie de viză pentru a intra pe teritoriul acestui stat dacă șederea nu depășește 90 de zile. Vei avea nevoie de un pașaport valabil cel puțin 6 luni, un bilet de întoarcere, dovada existenței fondurilor necesare pentru sejur, precum și adresa unde vei locui pe durata șederii. Toate aceste informații vor fi completate în formularul pe care îl vei primi din partea autorităților la intrarea în Insulele Samoa. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Canberra, Australia.",
         "affiliation" : "ONU",
         "emergency" : "",
         "funfact" : "Samo Americană este considerată un teritoriu neîncorporat, neorganizat al Statelor Unite ale Americii. Beneficiază de protecție diplomatică și militară din partea SUA, dar nu și de restul beneficiilor din Constituția Americană.",
-        "vaccine" : ""
+        "vaccine" : "Nu există vaccinuri obligatorii pentru a intra în Insulele Samoa, însă persoanele care vin din zone unde se înregistrează cazuri de febră galbenă au obligația de a prezenta certificatul de vaccinare împotriva acestei boli."
     },
     {
         "name": "Andorra",
