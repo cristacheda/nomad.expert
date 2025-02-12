@@ -2252,7 +2252,7 @@
         "source": "https://www.mae.ro/travel-conditions/60060",
         "comment": "Cetățenii români care doresc să călătorească în Sierra Leone au nevoie de pașaport și viză de intrare. Perioada de ședere nu poate depăși 90 de zile, iar sejurul efectiv cumulat pe teritoriul acestei țări nu poate depăși 180 de zile de-a lungul unui an. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "Ministerul Afacerilor Externe recomandă cetățenilor români evitarea călătoriilor în această țară pe fondul riscului de infectare cu febră virală hemoragică, produsă de virusul Ebola. Mai multe detalii pe site-ul oficial MAE.",
-        "affiliation" : "ONU"
+        "affiliation" : "ONU",
         "funfact" : "Drapelul țării are o semnificație aparte, cele trei dungi colorate având fiecare importanța sa. Verdele semnifică agricultura și munții, albul a fost ales pentru unitate și dreptate, iar albastrul pentru aspirația de a contribui la pacea globală, în special prin portul Freetown.",
         "vaccine" : "Vaccinarea împotriva febrei galbene este obligatorie pentru a intra pe teritoriul acestei țări. Există, de asemenea, un risc ridicat de îmbolnăvire pentru malarie, febră tifoidă, febră galbenă, meningită cerebro spinală, poliomielită, holeră, febră Lassa sau lepră, boli de piele și alte afecțiuni. Mai multe detalii pe site-ul oficial MAE."
     },
@@ -2553,10 +2553,10 @@
     {
         "name": "Turkey",
         "code": "TR",
-        "documents": "Pașaport",
+        "documents": "Carte de Identitate sau Pașaport",
         "source": "https://www.mae.ro/travel-conditions/3753",
-        "comment": "Cetățenii români care doresc să călătorească în Turcia au nevoie de pașaport. Acesta trebuie să aibă o valabilitate de minimum 150 de zile la momentul intrării în Turcia și să dispună de cel puțin o filă goală. Mai multe detalii pe site-ul oficial MAE.",
-        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe avertizează asupra situației de securitate din Turcia și a riscurilor de natură teroristă asociate. Mai multe detalii pe site-ul oficial MAE.",
+        "comment": "Cetățenii români care doresc să călătorească în Turcia au nevoie de cartea de identitate sau pașaport. În timp ce cartea de identitate poate fi utilizată inclusiv în ultima zi de valabilitate pentru ieșirea din Turcia, pașaportul trebuie să aibă o valabilitate de minimum 150 de zile la momentul intrării în Turcia și să conțină cel puțin o filă goală. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Ministerul Afacerilor Externe recomandă cetățenilor români evitarea călătoriilor în anumite zone din sud-estul țării, dar și să rămână vigilenți din cauza manifestațiilor sau evenimentelor publice cu caracter violent. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Ankara.",
         "affiliation" : "NATO, ONU",
         "emergency" : "",
@@ -2568,8 +2568,8 @@
         "code": "TM",
         "documents": "Pașaport și Viză",
         "source": "https://www.mae.ro/travel-conditions/3754",
-        "comment": "Cetățenii români care doresc să călătorească în Turkmenistan au nevoie de pașaport și viză, chiar și pentru tranzitarea țării. Mai multe detalii pe site-ul oficial MAE.",
-        "warning" : "",
+        "comment": "Cetățenii români care doresc să călătorească în Turkmenistan au nevoie de pașaport și viză, inclusiv pentru tranzitarea țării. Viza turistică poate fi solicitată direct de la Ambasada Turkmenistanului în România, Ministerul Turismului din Turkmenistan sau prin intermediul agențiilor turistice. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Ministerul Afacerilor Externe recomandă cetățenilor români să fie prudenți și să se conformeze regulilor impuse de autoritățile locale, care încă efectuează controale medicale cetățenilor străini în toate punctele de trecere a frontierei în Turkmenistan. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Ashgabat.",
         "affiliation" : "ONU",
         "emergency" : "",
@@ -2589,7 +2589,7 @@
         "code": "TV",
         "documents": "Pașaport",
         "source": "https://www.mae.ro/travel-conditions/30374",
-        "comment": "Cetățenii români care doresc să călătorească în Tuvalu nu au nevoie de viză, ci doar de pașaport conform Acordului încheiat între Uniunea Europeană și Tuvalu privind scutirea de vize de scurtă ședere. Ca atare, perioada de ședere nu poate depăși 90 de zile. Mai multe detalii pe site-ul oficial MAE.",
+        "comment": "Cetățenii români care doresc să călătorească în Tuvalu nu au nevoie de viză, ci doar de pașaport. Acesta trebuie să aibă o valabilitate de cel puțin 6 luni, iar perioada de ședere nu poate depăși 90 de zile în cursul oricărei perioade de 180 de zile. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Canberra, Australia.",
         "affiliation" : "ONU",
@@ -2602,41 +2602,49 @@
         "code": "UG",
         "documents": "Pașaport și Viză",
         "source": "https://www.mae.ro/travel-conditions/30676",
-        "comment": "Cetățenii români care doresc să călătorească în Uganda au nevoie de pașaport și viză, cea din urmă fiind obținută și online. Mai multe detalii pe site-ul oficial MAE.",
-        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români să se informeze în prealabil asupra situației de securitate din zonă. Mai multe detalii pe site-ul oficial MAE.",
+        "comment": "Cetățenii români care doresc să călătorească în Uganda au nevoie de pașaport și viză. Pașaportul trebuie să aibă o valabilitate de cel puțin 6 luni de la data intrării pe teritoriul ugandez și să aibă cel puțin o pagină goală, iar viza turistică se emite cu o singură intrare și se poate obține online. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Ministerul Afacerilor Externe recomandă cetățenilor români să se informeze în prealabil asupra situației de securitate din zonă. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Nairobi, Kenya.",
         "affiliation" : "ONU"
+        "funfact" : "Uganda are cea mai mare densitate de primate și gorile din lume, cu 20 de specii de primate în pădurile sale tropicale.",
+        "vaccine" : "Vaccinarea împotriva febrei galbene este obligatorie pentru a intra pe teritoriul acestei țări. Se recomandă, de asemenea, vaccinarea împotriva febrei tifoide, hepatitei A și B, difteriei și poliomielitei. Mai multe detalii pe site-ul oficial MAE."
     },
     {
         "name": "Ukraine",
         "code": "UA",
         "documents": "Pașaport",
         "source": "https://www.mae.ro/travel-conditions/3755",
-        "comment": "Cetățenii români nu au nevoie de viză de intrare în Ucraina pentru călătorii de scurtă durată, maximul fiind de 90 de zile. Așadar, cetățenii români pot intra pe teritoriul Ucrainei cu un pașaport valabil minimum 90 de zile. Totodată, străinii trebuie să demonstreze Poliției de Frontieră că dețin resursele financiare necesare pe durata șederii în Ucraina. Summa necesară este de aproximativ 2000 EUR/lună, respectiv 400 EUR/săptămână sau echivalentul în orice altă valută. Mai multe informații pe site-ul oficial MAE.",
-        "warning" : "",
+        "comment": "Cetățenii români nu au nevoie de viză de intrare în Ucraina pentru călătorii de scurtă durată, maximul fiind de 90 de zile. Așadar, cetățenii români pot intra pe teritoriul Ucrainei cu un pașaport valabil minimum 90 de zile de la data ieșirii de pe teritoriul Ucrainei. Mai multe informații pe site-ul oficial MAE.",
+        "warning" : "Ministerul Afacerilor Externe recomandă cetățenilor români evitarea oricărei călătorii în Ucraina din cauza conflictului militar în desfășurare și instaurării legii marțiale. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Kiev.",
         "affiliation" : "ONU",
         "emergency" : "Pericol major! Ministerul Afacerilor Externe solicită cu insistență cetățenilor români să nu se deplaseze în această țară pe fondul conflictului militar în desfășurare și a instaurării legii marțiale. Mai multe detalii pe site-ul oficial MAE."
+        "funfact" : "Cea mai veche constituție din lume a fost scrisă și adoptată în Ucraina în 1710.",
+        "vaccine" : ""
     },
     {
         "name": "United Arab Emirates",
         "code": "AE",
         "documents": "Pașaport",
         "source": "https://www.mae.ro/travel-conditions/3693",
-        "comment": "Cetățenii români care doresc să călătorească în Emiratele Arabe Unite nu au nevoie de viză, ci doar de pașaport. Acesta trebuie să aibă o valabilitate de minimum 6 luni de la data intrării pe teritoriul statului. Perioada de ședere nu poate depăși 90 de zile. Mai multe detalii pe site-ul oficial MAE.",
+        "comment": "Cetățenii români care doresc să călătorească în Emiratele Arabe Unite nu au nevoie de viză, ci doar de pașaport. Acesta trebuie să aibă o valabilitate de minimum 6 luni de la data intrării pe teritoriul statului. Perioada de ședere nu poate depăși 90 de zile într-un interval de 180 de zile. Important de notat și faptul că pașaportul temporar românesc nu este recunoscut de autoritățile statului, așa că poliția de frontieră nu va permite intrarea titularului acestui tip de pașaport pe teritoriul Emiratelor Arabe Unite. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Abu Dhabi.",
         "affiliation" : "ONU"
+        "funfact" : "",
+        "vaccine" : "Poliția din Emiratele Arabe Unite este una dintre cele mai bine echipate și luxoase din lume. Flota poliției din Dubai dispune de mașini de lux precum Ferrari, Lamborghini, Aston Martin, Bentley, chiar și Bugatti."
     },
     {
         "name": "United Kingdom",
         "code": "GB",
-        "documents": "Carte de Identitate sau Pașaport",
+        "documents": "Pașaport",
         "source": "https://www.mae.ro/travel-conditions/3725",
-        "comment": "Cetățenii români care doresc să călătorească în Marea Britanie au nevoie de cartea de identitate sau pașaport. Perioada de ședere nu poate depăși 90 de zile. Mai multe detalii pe site-ul oficial MAE.",
+        "comment": "Cetățenii români care doresc să călătorească în Marea Britanie au nevoie de pașaport, iar din 2 aprilie 2025 devine obligatorie și Autorizația Electronică de Călătorie. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Londra.",
         "affiliation" : "NATO, ONU"
+        "funfact" : "",
+        "vaccine" : "Britanicii beau între 100 și 160 de milioane de cești de ceai în fiecare zi, adică aproximativ 36 de miliarde de cești anual."
         
     },
     {
@@ -2644,10 +2652,12 @@
         "code": "US",
         "documents": "Pașaport și Viză",
         "source": "https://www.mae.ro/travel-conditions/3749",
-        "comment": "Cetățenii români care doresc să călătorească în Statele Unite ale Americii au nevoie de pașaport și viză. Viza de intrare se poate obține de la Secția Consulară a Ambasadei SUA la București, însă este important de menționat că aceasta nu garantează intrarea pe teritoriul țării - la punctul de frontieră va avea loc un scurt interviu, în urma căruia ofițerul poliției de frontieră poate returna un cetățean care nu oferă suficiente garanții că nu se va abate de la scopul vizei sau a duratei de ședere. Mai multe detalii pe site-ul oficial MAE.",
+        "comment": "Cetățenii români care doresc să călătorească în Statele Unite ale Americii au nevoie de pașaport și viză. Viza de intrare se poate obține de la Secția Consulară a Ambasadei SUA la București, însă este important de menționat că aceasta nu garantează intrarea pe teritoriul țării - la punctul de frontieră va avea loc un scurt interviu, în urma căruia ofițerul poliției de frontieră poate returna un cetățean care nu oferă suficiente garanții că nu se va abate de la scopul vizei sau a duratei de ședere. Începând cu 31 martie 2025, viza nu mai este obligatorie ca urmare a desemnării României în mod oficial drept stat participant la programul american Visa Waiver, însă va fi necesară autorizația de călătorie emisă online prim Sistemul Electronic de Autorizare a Călătoriei. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Washington.",
         "affiliation" : "NATO, ONU"
+        "funfact" : "Din 1777 și până acum, drapelul american a fost modificat de 26 de ori.",
+        "vaccine" : ""
     },
     {
         "name": "United States Minor Outlying Islands",
@@ -2662,10 +2672,12 @@
         "code": "UY",
         "documents": "Pașaport",
         "source": "https://www.mae.ro/travel-conditions/3757",
-        "comment": "Cetățenii români care doresc să călătorească în Uruguay nu au nevoie de viză, ci doar de pașaport. Acesta trebuie să aibă o valabilitate de cel puțin 6 luni de la data intrării pe teritoriul acestei țări. Mai multe detalii pe site-ul oficial MAE.",
+        "comment": "Cetățenii români care doresc să călătorească în Uruguay în scop turistic sau de afaceri nu au nevoie de viză, ci doar de pașaport. Acesta trebuie să aibă o valabilitate de cel puțin 6 luni de la data intrării pe teritoriul acestei țări. Mai multe detalii despre condițile complete de intrare pe site-ul oficial MAE.",
         "warning" : "",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Montevideo.",
         "affiliation" : "ONU"
+        "funfact" : "Uruguay a devenit în 2009 prima țară din lume care oferă fiecărui elev un laptop grauit și acces Wi-Fi.",
+        "vaccine" : ""
     },
     {
         "name": "Uzbekistan",
@@ -2673,39 +2685,47 @@
         "documents": "Pașaport",
         "source": "https://www.mae.ro/travel-conditions/3758",
         "comment": "Cetățenii români care doresc să călătorească în Uzbekistan nu au nevoie de viză, ci doar de pașaport. Pașapoartele turistice trebuie să aibă o valabilitate de cel puțin 3 luni anterior datei de intrare în țară. Mai multe detalii pe site-ul oficial MAE.",
-        "warning" : "",
+        "warning" : "Ministerul Afacerilor Externe informează cetățenii români că este activ un cod roșu din cauza riscului crescut de incendii forestiere, valabil pentru cea mai mare parte a teritoriului național. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Tașkent.",
         "affiliation" : "ONU"
+        "funfact" : "Uzbekistan este cel mai mare producător de bumbac din lume, ceea ce face ca exporturile sale să impacteze prețurile și aprovizionarea la nivel global.",
+        "vaccine" : ""
     },
     {
         "name": "Vanuatu",
         "code": "VU",
         "documents": "Pașport",
         "source": "https://www.mae.ro/travel-conditions/30373",
-        "comment": "Cetățenii români care doresc să călătorească în Vanuatu nu au nevoie de viză, ci doar de pașaport. Aceștia trebuie, de asemenea, să prezinte dovezi referitoare la cazare, un bilet de întoarcere și bani pentru subzistență. Mai multe detalii pe site-ul oficial MAE.",
+        "comment": "Cetățenii români care doresc să călătorească în Vanuatu nu au nevoie de viză, ci doar de pașaport. Sejurul nu poate depăși 90 de zile și va trebui să prezinți dovezi referitoare la cazare, un bilet de întoarcere și resurse financiare pentru toată durata șederii. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Canberra, Australia.",
         "affiliation" : "ONU"
+        "funfact" : "Bungee jumping-ul a fost inventat în Vanuatu. Timp de secole, bărbații din Vanuatu practicau nagol, plonjarea de pe turnuri de lemn de 30 de metri cu vrejuri legate de glezne.",
+        "vaccine" : ""
     },
     {
         "name": "Venezuela",
         "code": "VE",
         "documents": "Pașaport",
         "source": "https://www.mae.ro/travel-conditions/3759",
-        "comment": "Cetățenii români care doresc să călătorească în Venezuela nu au nevoie de viză, ci doar de pașaport. Perioada de ședere nu poate depăși 90 de zile. Mai multe detalii pe site-ul oficial MAE.",
-        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă cetățenilor români să manifeste anteție sporită în timpul deplasărilor și să evite aglomerările mari de oameni. Mai multe detalii pe site-ul oficial MAE.",
+        "comment": "Cetățenii români care doresc să călătorească în Venezuela nu au nevoie de viză, ci doar de pașaport. Perioada de ședere nu poate depăși 90 de zile. Mai multe detalii despre condițiile complete de intrare pe site-ul oficial MAE.",
+        "warning" : "Ministerul Afacerilor Externe recomandă cetățenilor români să evite orice călătorie în Venezuela pe fondul cotelor alarmante ale criminalității, de la furturi, tâlhării, trafic de droguri la sechestrare de persoane sau ucideri, chiar și în marile orașe. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Caracas.",
         "affiliation" : "ONU"
+        "funfact" : "Cel mai popular sport din Venezuela este baseballul.",
+        "vaccine" : ""
     },
     {
         "name": "Viet Nam",
         "code": "VN",
         "documents": "Pașaport și Viză",
         "source": "https://www.mae.ro/travel-conditions/3760",
-        "comment": "Cetățenii români care doresc să călătorească în Republica Socialistă Vietnam au nevoie de pașaport și viză. Mai multe detalii pe site-ul oficial MAE.",
+        "comment": "Cetățenii români care doresc să călătorească în Republica Socialistă Vietnam au nevoie de pașaport și viză. Exceptați de la necesitatea vizei sunt posesorii de pașapoarte diplomatice și de serviciu. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Hanoi.",
         "affiliation" : "ONU"
+        "funfact" : "Motocicletele sunt extrem de populare în Vietnam: sunt înregistrate 54 de milioane de vehicule, cu aproape 8 milioane doar în Ho Chi Minh City.",
+        "vaccine" : ""
     },
     {
         "name": "Virgin Islands, British",
@@ -2744,10 +2764,12 @@
         "code": "YE",
         "documents": "Pașaport și Viză",
         "source": "https://www.mae.ro/travel-conditions/29174",
-        "comment": "Cetățenii români care doresc să călătorească în Republica Yemen au nevoie de pașaport și viză, deși Ministerul Afacerilor Externe receomandă ferm evitarea oricăror deplasări pe fondul deteriorării situației de securitate. Mai multe detalii pe site-ul oficial MAE.",
-        "emergency" : "Pericol major! Ministerul Afacerilor Externe recomandă cu insistență evitarea deplasărilor în Yemen, iar celor care se mai află la fața locului să părăsească zona de urgență din cauza situației grave de securitate. Mai multe detalii pe site-ul oficial MAE.",
+        "comment": "Cetățenii români care doresc să călătorească în Republica Yemen au nevoie de pașaport și viză, deși Ministerul Afacerilor Externe recomandă ferm evitarea oricăror deplasări pe fondul deteriorării situației de securitate. Mai multe detalii pe site-ul oficial MAE.",
+        "emergency" : "Ministerul Afacerilor Externe recomandă cu insistență evitarea tuturor deplasărilor în Yemen, iar celor care se mai află la fața locului să părăsească zona de urgență din cauza situației grave de securitate. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Abu Dhabi, Emiratele Arabe Unite.",
         "affiliation" : "ONU"
+        "funfact" : "Yemen a fost națiunea-pionier din Peninsula Arabă care a acordat dreptul la vot femeilor.",
+        "vaccine" : ""
     },
     {
         "name": "Zambia",
@@ -2758,15 +2780,19 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică asigurată prin Consulatul Onorific al României la Freetown, Sierra Leone.",
         "affiliation" : "ONU"
+        "funfact" : "Zambia este populată de 73 de triburi, fiecare cu limba sa.",
+        "vaccine" : ""
     },
     {
         "name": "Zimbabwe",
         "code": "ZW",
         "documents": "Pașaport și Viză",
         "source": "https://www.mae.ro/travel-conditions/3761",
-        "comment": "Cetățenii români care doresc să călătorească în Republica Zimbabwe au nevoie de pașaport și viză. Cea din urmă poate fi obținută de la orice punct de intrare în Zimbabwe, terestru sau pe aeroport. Mai multe detalii pe site-ul oficial MAE.",
-        "warning" : "Alertă de călătorie! Pe fondul situației fragile de securitate, Ministerul Afacerilor Externe recomandă atenție sporită în timpul deplasărilor. Mai multe detalii pe site-ul oficial MAE.",
+        "comment": "Cetățenii români care doresc să călătorească în Republica Zimbabwe au nevoie de pașaport și viză. Pașaportul trebuie să fie valabil cel puțin 6 luni de la data intrării în țară și să conțină cel puțin 3 pagini libere, iar viza poate fi obținută online sau la frontieră. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Pe fondul situației fragile de securitate, Ministerul Afacerilor Externe recomandă evitarea călătoriilor neesențiale în acest stat. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Harare.",
         "affiliation" : "ONU"
+        "funfact" : "Zimbabwe are nu mai puțin de 8 valute, într-un efort guvernamental de a preveni hiperinflația.",
+        "vaccine" : ""
     }
 ]
