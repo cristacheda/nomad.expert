@@ -274,13 +274,13 @@
         "code": "BJ",
         "documents": "Pașaport și Viză",
         "source": "https://www.mae.ro/travel-conditions/30215",
-        "comment": "Cetățenii români au nevoie de pașaport și viză pentru a călători în Benin. Perioada de ședere nu poate depăși 90 de zile, iar viza se poate obține de la Ambasada Republicii Benin la Paris. Mai multe detalii pe site-ul oficial MAE.",
-        "warning" : "Ministerul Afacerilor Externe recomandă cetățenilor români să evite deplasările în Republica Benin pe fondul violențelor stradale, a acțiunilor teroriste sau a răpirilor cetățenilor străini. Mai multe detalii pe site-ul oficial MAE.",
+        "comment": "Cetățenii români au nevoie de pașaport și viză pentru a călători în Benin. Perioada de ședere nu poate depăși 90 de zile, iar viza se poate obține de la misiunile diplomatice ale acestui stat - cea mai apropiată misiune diplomatică este Ambasada Republicii Benin la Paris. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Ministerul Afacerilor Externe recomandă cetățenilor români să evite orice deplasare în Republica Benin pe fondul violențelor stradale, acțiunilor teroriste sau a răpirilor cetățenilor străini. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Abuja, Nigeria.",
         "affiliation" : "ONU",
         "emergency" : "",
         "funfact" : "A scris istorie în anii '90, când a devenit prima țară africană ce a făcut tranziția de la dictatură la democrație.",
-        "vaccine" : ""
+        "vaccine" : "Autoritățile din Benin solicită cetățenilor străini care sosesc pe teritoriul acestui stat să facă dovada vaccinării împotriva febrei galbene. Mai multe detalii pe site-ul oficial MAE."
     },
     {
         "name": "Bermuda",
@@ -306,15 +306,15 @@
     {
         "name": "Bolivia",
         "code": "BO",
-        "documents": "Pașaport și Viză",
+        "documents": "Pașaport",
         "source": "https://www.mae.ro/travel-conditions/3674",
-        "comment": "Cetățenii români au nevoie de pașaport și viză pentru a călători în Bolivia, oricare ar fi scopul călătoriei. Pașaportul trebuie să aibă o valabilitate de minimum 6 luni din momentul intrării în acest stat, însă Ministerul Afacerilor Externe recomandă ca valabilitatea documentului să fie cât mai mare. Solicitarea de viză se face în prealabil online. Mai multe detalii pe site-ul oficial MAE.",
+        "comment": "Cetățenii români care doresc să călătorească în Bolivia în scop turistic au nevoie doar de pașaport, nu și de viză. Pașaportul trebuie să aibă o valabilitate de minimum 6 luni de la momentul intrării pe teritoriul acestei țări, însă este recomandat ca acesta să aibă o valabilitate cât mai mare. Va trebui să prezinți, pe lângă pașaport, și următoarele: dovada unui bilet dus-întors sau confirmarea planurilor de plecare din Bolivia, dovada cazării în Bolivia (inclusiv adresa unității de cazare), dar și un certificat internațional de vaccinare pentru febra galbenă. La acestea se mai adaugă și declarația pe propria răspundere pentru bagajul însoțit și pentru introducerea de valută, sau Formularul 250. Călătoria în Bolivia în orice alt scop decât turismul necesită viză de intrare. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "Ministerul Afacerilor Externe informează cetățenii români că trebuie să acorde o atenție deosebită pe teritoriul acestui stat din cauza manifestațiilor de protest ale organizațiilor sindicale, precum și din cauza nivelului crescut de infracțiuni stradale. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Lima, Peru.",
         "affiliation" : "ONU",
          "emergency" : "",
         "funfact" : "În 2014, ceasul de pe clădirea Congresului din La Paz a fost setat să funcționeze invers. Ministrul de Externe, David Choquehuanca, l-a numit 'Ceasul Sudului' și a spus că le va aminti bolivienilor să gândească creativ și să pună la îndoială normele.",
-        "vaccine" : ""
+        "vaccine" : "Este obligatorie vaccinarea împotriva febrei galbene și prezentarea certificatului internațional de vaccinare pentru această afecțiune. Mai multe detalii pe site-ul oficial MAE."
     },
     {
         "name": "Bosnia and Herzegovina",
@@ -350,7 +350,7 @@
         "code": "BR",
         "documents": "Pașaport",
         "source": "https://www.mae.ro/travel-conditions/3676",
-        "comment": "Cetățenii români care doresc să călătorească în Brazilia nu au nevoie de viză, ci doar de pașaport. Perioada legală de ședere este de maximum 90 de zile. Mai multe detalii pe site-ul oficial MAE.",
+        "comment": "Cetățenii români care doresc să călătorească în Brazilia nu au nevoie de viză, ci doar de pașaport. Perioada legală de ședere este de maximum 90 de zile - depășirea acestei perioade necesită obținerea, în prealabil, a unei vize de intrare corespunzătoare. Important: la orice intrare în Brazilia este important să te asiguri că ai în pașaport ștampila aferentă, în caz contrar, la ieșirea din Brazilia vor fi contabilizate ca zile petrecute pe teritoriul brazilian. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "Ministerul Afacerilor Externe recomandă evitarea călătoriilor în Brazilia pe fondul cazurilor de febră Dengue, precum și din cauza nivelului extrem de ridicat al criminalității. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Brasilia.",
         "affiliation" : "ONU",
@@ -372,7 +372,7 @@
         "documents": "Pașaport",
         "source": "https://www.mae.ro/travel-conditions/29494",
         "comment": "Cetățenii care călătoresc în Brunei pentru o perioadă de mai puțin de 90 de zile nu au nevoie de viză de intrare, ci doar de pașaport - acesta trebuie să fie valabil cel puțin 6 luni înainte de a intra în Brunei și să justifice doar scopuri de afaceri sau vizită. Mai multe detalii pe site-ul oficial MAE.",
-        "warning" : "Ministerul Afacerilor Externe avertizează cetățenii români care doresc să călătorească în acest stat că există un risc de atacuri teroriste, dar și de demonstrații sau adunări mari. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Ministerul Afacerilor Externe avertizează cetățenii români care doresc să călătorească în acest stat că nivelul criminalității este unul ridicat, cu riscuri semnificative pentru turiști și rezidenți deopotrivă. De asemenea, Republica Federativă a Braziliei este în prezent considerată o zonă endemică pentru bolile transmise de țânțari - cetățenii români sunt sfătuiți să respecte măsurile de prevenție recomandate de autoritățile sanitare locale și internaționale. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Kuala Lumpur, Malaezia.",
         "affiliation" : "ONU",
         "emergency" : "",
@@ -384,7 +384,7 @@
         "code": "BG",
         "documents": "Carte de Identitate sau Pașaport",
         "source": "https://www.mae.ro/travel-conditions/3677",
-        "comment": "Cetățenii români au nevoie doar de cartea de identitate sau de pașaport pentru a călători în Bulgaria. Acestea trebuie să se afle în termen de valabilitate. Cetățenii români minori nu pot intra în Bulgaria în baza certificatului de naștere.",
+        "comment": "Cetățenii români au nevoie doar de cartea de identitate sau de pașaport pentru a călători în Bulgaria. Acestea trebuie să se afle în termen de valabilitate. Atenție, cetățenii români minori nu pot intra în Bulgaria în baza certificatului de naștere. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Sofia.",
         "affiliation" : "UE, NATO, ONU",
         "emergency" : "",
@@ -396,26 +396,26 @@
         "code": "BF",
         "documents": "Pașaport și Viză",
         "source": "https://www.mae.ro/travel-conditions/29271",
-        "comment": "Cetățenii români care vor să intre pe teritoriul Burkina Faso au nevoie de pașaport și viză. Pașaportul trebuie să fie valabil cel puțin 6 luni de la data depunerii cererii de viză. Aceasta se acordă pentru o perioadă de maximum 90 de zile și poate fi obținută de la Ambasada Republicii Burkina Faso la Bruxelles, care asigură reprezentarea diplomatică și consulară a Republicii Burkina Faso în România. Mai multe detalii pe site-ul oficial MAE.",
-        "warning" : "Ministerul Afacerilor Externe recomandă evitarea călătoriilor în Burkina Faso pe fondul deteriorării grave a situației de securitate și a riscului de anulare a zborurilor internaționale. Mai multe detalii pe site-ul oficial MAE.",
+        "comment": "Cetățenii români care vor să intre pe teritoriul Burkina Faso au nevoie de pașaport și viză. Pașaportul trebuie să fie valabil cel puțin 6 luni de la data depunerii cererii de viză. Viza de intrare poate fi obținută de la Ambasada Republicii Burkina Faso la Bruxelles, care asigură reprezentarea diplomatică și consulară a Republicii Burkina Faso în România. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Ministerul Afacerilor Externe recomandă evitarea oricărei călătorii în Burkina Faso pe fondul deteriorării grave a situației de securitate și a riscului de anulare a zborurilor internaționale. De asemenea, cum România nu are misiune diplomatică sau oficiu consular de carieră în Burkina Faso, MAE recomandă cu fermitate cetățenilor români care încă se află în acest stat să își notifice prezența și să transmită datele de contact Ambasadei României la Dakar. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Dakar, Senegal.",
         "affiliation" : "ONU",
         "emergency" : "",
         "funfact" : "Aproape 80% din populația țării este angajată în agricultură de subzistență, adică toate culturile și animalele crescute de fermieri sunt suficiente exclusiv pentru ei și familiile lor, cu un procent scăzut destinat comerțului.",
-        "vaccine" : "Este obligatorie vaccinarea împotriva febrei galbene. Se recomandă, de asemenea, vaccinarea împotriva tetanosului, poliomielitei, difteriei, meningitei, febrei tifoide și a hepatitei A și B."
+        "vaccine" : "Este obligatorie vaccinarea împotriva febrei galbene. Se recomandă, de asemenea, vaccinarea împotriva tetanosului, poliomielitei, difteriei, meningitei, febrei tifoide și a hepatitei A și B. Mai multe detalii pe site-ul oficial MAE."
     },
     {
         "name": "Burundi",
         "code": "BI",
         "documents": "Pașaport și Viză",
         "source": "https://www.mae.ro/travel-conditions/30844",
-        "comment": "Cetățenii români au nevoie de pașaport și viză pentru a călători în Burundi. Viza se poate obține atât la aterizare, direct pe aeroportul din Bujumbura, cât și la misiunile diplomatice burundeze. Mai multe detalii pe site-ul oficial MAE.",
-        "warning" : "Ministerul Afacerilor Externe recomandă cetățenilor români să evite călătoriile în Burundi pe fondul instabilității politice. De asemenea, MAE recomandă să nu te deplasezi în zonele de frontieră cu Republica Democrată Congo. Mai multe detalii pe site-ul oficial MAE.",
+        "comment": "Cetățenii români au nevoie de pașaport și viză pentru a călători în Burundi. Pașaportul tău trebuie să aibă o valabilitate de cel puțin 6 luni după data de intrare în Burundi și să aibă cel puțin o pagină liberă. În ceea ce privește viza, de afaceri sau turistică, aceasta se poate obține atât la aterizare pe aeroportul din Bujumbura, cât și la misiunile diplomatice burundeze din străinătate. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Ministerul Afacerilor Externe recomandă cetățenilor români să evite călătoriile în Burundi pe fondul instabilității politice, respectiv a prezenței unor miliții armate. De asemenea, MAE recomandă să nu te deplasezi în zonele de frontieră cu Republica Democrată Congo. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Nairobi, Kenya.",
         "affiliation" : "ONU",
         "emergency" : "",
         "funfact" : "Doar 3% din populația țării are acces la internet, ceea ce face Burundi una dintre cele mai slab cotate țări în materie de acces la internet.",
-        "vaccine" : "Pentru intrarea pe teritoriul acestui stat ai nevoie de un certificat care să ateste că te-ai vaccinat împotriva febrei galbene. Se recomandă, de asemenea, vaccinarea împotriva febrei tifoide, a hepatitei A și B, a tuberculozei, difteriei și poliomielitei."
+        "vaccine" : "Pentru intrarea pe teritoriul acestui stat ai nevoie de un certificat care să ateste că te-ai vaccinat împotriva febrei galbene. Se recomandă, de asemenea, vaccinarea împotriva febrei tifoide, a hepatitei A și B, a tuberculozei, difteriei și poliomielitei. Mai multe detalii pe site-ul oficial MAE."
     },
     {
         "name": "Cambodia",
