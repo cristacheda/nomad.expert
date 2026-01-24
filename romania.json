@@ -577,25 +577,25 @@
         "documents": "Pașaport și Viză",
         "source": "https://www.mae.ro/travel-conditions/30130",
         "comment": "Cetățenii români au nevoie de pașaport și viză de intrare pentru a călători în acest stat. Pașaportul trebuie să aibă o valabilitate de cel puțin 1 an de la data intrării pe teritoriul acestui stat și să conțină minimum 4 pagini libere, iar perioada de ședere nu poate depăși 91 de zile. Mai multe detalii pe site-ul oficial MAE.",
-        "warning" : "Ministerul Afacerilor Externe recomandă evitarea deplasărilor în Republica Congo pe fondul situației de securitate din această țară. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Ministerul Afacerilor Externe recomandă evitarea deplasărilor în Republica Congo pe fondul situației de securitate din această țară, care poate degenera în orice moment. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Luanda, Angola.",
         "affiliation" : "ONU",
         "emergency" : "",
         "funfact" : "Este singurul loc din lume care găzduiește cimpanzeul Bonobo, considerat cea mai apropiată legătură a speciei umane.",
-        "vaccine" : "Este obligatorie vaccinarea împotriva febrei galbene. Se recomandă, de asemenea, vaccinarea împotriva hepatitei A, poliomielitei, tetanosului și a febrei tifoide."
+        "vaccine" : "Este obligatorie vaccinarea împotriva febrei galbene! Certificatul internațional de vaccinare împotriva febrei galbene va fi solicitat de autoritățile congoleze, așa că cei care nu-l dețin vor fi returnați imediat în țara de origine. Se recomandă, de asemenea, vaccinarea împotriva hepatitei A, poliomielitei, tetanusului și a febrei tifoide. Mai multe detalii pe site-ul oficial MAE."
     },
     {
         "name": "Congo, The Democratic Republic of the",
         "code": "CD",
         "documents": "Pașaport și Viză",
         "source": "https://www.mae.ro/travel-conditions/30131",
-        "comment": "Cetățenii români au nevoie de pașaport și viză pentru a călători în Republica Democrată Congo. Pașaportul trebuie să aibă o valabilitate de cel puțin 1 an de la data intrării pe teritoriu și să conțină minimum 4 pagini albe. Mai multe detalii pe site-ul oficial MAE.",
-        "warning" : "Ministerul Afacerilor Externe recomandă evitarea oricărei călătorii pe teritoriul acestui stat din cauza riscului de infestare cu febră virală hemoragică, rezultată în urma epidemiei cu care se confruntă în ultima perioadă acest stat. Mai multe detalii pe site-ul oficial MAE.",
+        "comment": "Cetățenii români au nevoie de pașaport și viză pentru a călători în Republica Democrată Congo. Pașaportul trebuie să aibă o valabilitate de cel puțin 1 an de la data intrării pe teritoriu și să conțină minimum 4 pagini albe. Atenție, viza nu se eliberează la sosirea pe aeroport, ci doar la misiunile diplomatice ale Republicii Democrate Congo în străinătate. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Ministerul Afacerilor Externe recomandă evitarea oricărei călătorii pe teritoriul acestui stat din cauza celor mai recente evoluții ale situației de securitate din Republica Democrată Congo, dar și din cauza riscului de infestare cu febră virală hemoragică, rezultată în urma epidemiei cu care se confruntă în ultima perioadă acest stat. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Luanda, Angola.",
         "affiliation" : "ONU",
         "emergency" : "",
         "funfact" : "Populația Republicii Democrate Congo adună peste 200 de grupuri etnice, ce vorbesc 250 de limbi și dialecte în întreaga țară.",
-        "vaccine" : "Este obligatorie vaccinarea împotriva febrei galbene. Se recomandă, de asemenea, vaccinarea împotriva hepatitei A, poliomielitei, tetanosului și a febrei tifoide."
+        "vaccine" : "Este obligatorie vaccinarea împotriva febrei galbene. Certificatul internațional de vaccinare împotriva febrei galbene va fi solicitat de autoritățile locale, așa că cei care nu-l dețin vor fi returnați imediat în țara de origine. Se recomandă, de asemenea, vaccinarea împotriva hepatitei A, poliomielitei, tetanosului și a febrei tifoide. Mai multe detalii pe site-ul oficial MAE."
     },
     {
         "name": "Cook Islands",
@@ -610,26 +610,26 @@
         "code": "CR",
         "documents": "Pașaport",
         "source": "https://www.mae.ro/travel-conditions/3687",
-        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Republica Costa Rica, ci doar de pașaport. Perioada maximă de ședere este de 90 de zile într-un interval de 6 luni, scopul călătoriei trebuie să fie turistic sau de afaceri, iar la sosirea la punctul de trecere a frontierei trebuie să prezinți documentele care demonstrează scopul vizitei, precum și mijloace financiare suficiente pentru întreținerea pe perioada șederii și alte documente. Mai multe detalii pe site-ul oficial MAE.",
-        "warning" : "Ministerul Afacerilor Externe recomandă cetățenilor români vigilență sporită pe fondul jafurilor și al infracțiunilor violente în locurile publice la adresa turiștilor. Mai multe detalii pe site-ul oficial MAE.",
+        "comment": "Cetățenii români nu au nevoie de viză pentru a călători în Republica Costa Rica, ci doar de pașaport. Perioada maximă de ședere este de 180 de zile și, pentru a beneficia de scutirea vizei, va trebui să îndeplinești mai multe condiții. Află toate detaliile pe site-ul oficial MAE.",
+        "warning" : "Ministerul Afacerilor Externe recomandă cetățenilor români să manifeste vigilență sporită pe fondul jafurilor și al infracțiunilor violente în locurile publice la adresa turiștilor. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Ciudad de Mexico, Mexic.",
         "affiliation" : "ONU",
         "emergency" : "",
         "funfact" : "Este una dintre cele mai 'fericite' țări din lume, cu o populație ce adoptă stilul de viață pura vida. ",
-        "vaccine" : ""
+        "vaccine" : "Începând cu 11 martie 2025 este obligatorie prezentarea dovezii vaccinării împotriva febrei galbene pentru persoanele care au călătorit anterior într-o serie de state din America de Sud, Africa și Asia. Mai multe detalii pe site-ul oficial MAE."
     },
     {
         "name": "Cote D'Ivoire",
         "code": "CI",
         "documents": "Pașaport și Viză",
         "source": "https://www.mae.ro/travel-conditions/3683",
-        "comment": "Cetățenii români au nevoie de pașaport și viză pentru a călători în Coasta de Fildeș. Viza se acordă de către misiunile diplomatice și oficiile Consulare ale Republicii Coasta de Fildeș - reprezentarea diplomatică și consulară a Republicii Coasta de Fildeș în România este asigurată de Ambasada Republicii Coasta de Fildeș în Germania. Mai multe detalii pe site-ul oficial MAE.",
-        "warning" : "Alertă de călătorie! Ministerul Afacerilor Externe recomandă vigilență sporită pe fondul insecurității țării, cu focare de tensiune la nivel local. Mai multe detalii pe site-ul oficial MAE.",
+        "comment": "Cetățenii români au nevoie de pașaport și viză pentru a călători în Coasta de Fildeș. Pentru detalii privind condițiile specifice de obținere a vizei va trebui să contactezi Ambasada Republicii Coasta de Fildeș în Germania, acreditată și pentru România. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Ministerul Afacerilor Externe recomandă evitarea călătoriilor neesențiale în zonele de frontieră cu Mali și Burkina Faso, dar și la granița cu Liberia din cauza criminalității sporite de prezența armelor ilegale. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Dakar, Senegal.",
         "affiliation" : "ONU",
         "emergency" : "",
         "funfact" : "Coasta de Fildeș are două capitale: Yamoussoukro (cea oficială) și Abidjan (cea administrativă).",
-        "vaccine" : "Vaccinul împotriva febrei galbene este obligatoriu pentru intrarea în acest stat. Se recomandă vaccinarea împotriva tetanosului, poliomielitei, difteriei, meningitei, febrei tifoide, hepatitei A și B, precum și pentru alte boli. Mai multe informații utile pe site-ul oficial MAE."
+        "vaccine" : "Vaccinul împotriva febrei galbene este obligatoriu pentru intrarea în acest stat - verificarea carnetului internațional de vaccinare este efectuată sistematic la sosirea în țară. Se recomandă, de asemenea, vaccinarea împotriva tetanosului, poliomielitei, difteriei, meningitei, febrei tifoide și hepatitei A și B.. Mai multe informații utile pe site-ul oficial MAE."
     },
     {
         "name": "Croatia",
@@ -649,7 +649,7 @@
         "code": "CU",
         "documents": "Pașaport și Viză",
         "source": "https://www.mae.ro/travel-conditions/3689",
-        "comment": "Cetățenii români au nevoie de pașaport și viză sau tarjeta turistica pentru a călători în Cuba. Viza se poate obține de la ambasadele sau consulatele Cubei în străinătate sau de la agențiile de turism sau companiile aeriene de la care s-a achiziționat pachetul turistic sau biletul de călătorie. Începând cu septembrie 2024, autoritățile cubaneze au implementat un sistem online de emitere a vizei turistice, care se eliberează cu o singură intrare și o valabilitate de 90 de zile. Mai multe detalii pe site-ul oficial MAE.",
+        "comment": "Cetățenii români au nevoie de pașaport și viză pentru a călători în Cuba. Viza de intrare se poate obține atât de la ambasadele sau consulatele Cubei în străinătate, cât și prin intermediul agențiilor de turism sau companiilor aeriene de la care a fost achiziționat pachetul turistic sau biletul de călătorie. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Havana.",
         "affiliation" : "ONU",
