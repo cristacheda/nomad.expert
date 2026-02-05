@@ -1835,7 +1835,7 @@
         "documents": "Pașaport",
         "source": "https://www.mae.ro/travel-conditions/33016",
         "comment": "Cetățenii români care doresc să călătorească în Republica Nicaragua nu au nevoie de viză, ci doar de pașaport. Călătoria trebuie să fie efectuată doar în scopuri turistice sau de afaceri, iar perioada de ședere nu poate depăși 90 de zile într-un interval de 6 luni. Mai multe detalii pe site-ul oficial MAE.",
-        "warning" : "Ministerul Afacerilor Externe recomandă cetățenilor români să fie extrem de vigilenți pe fondul situației de securitate precare. rezultată din manifestațiile anti-guvernamentale și confruntările cu forțele de ordine. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Ministerul Afacerilor Externe recomandă cetățenilor români să fie extrem de vigilenți pe fondul situației de securitate precare, rezultată din manifestațiile anti-guvernamentale și confruntările cu forțele de ordine. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Ciudad de Mexico, Mexic.",
         "affiliation" : "ONU",
         "emergency" : "",
@@ -1848,13 +1848,13 @@
         "code": "NE",
         "documents": "Pașaport și Viză",
         "source": "https://www.mae.ro/travel-conditions/30216",
-        "comment": "Cetățenii români care doresc să călătorească în Republica Niger au nevoie de pașaport și viză, care nu se poate elibera la sosirea în aeroport. Cea din urmă se poate obține de la Secția Consulară a Ambasadei Nigerului în Germania. Mai multe detalii pe site-ul oficial MAE.",
-        "warning" : "Ministerul Afacerilor Externe recomandă cetățenilor români evitarea oricărei deplasări pe teritoriul Nigerului pe fondul loviturii de stat a Juntei Militare din Niger. Mai multe detalii pe site-ul oficial MAE.",
+        "comment": "Cetățenii români care doresc să călătorească în Republica Niger au nevoie de pașaport și viză, iar cea din urmă nu se poate elibera la sosirea în aeroport. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Ministerul Afacerilor Externe recomandă cetățenilor români evitarea oricărei deplasări pe teritoriul acestui stat pe fondul loviturii de stat a Juntei Militare din Niger. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Alger, Algeria.",
         "affiliation" : "ONU",
         "emergency" : "",
         "funfact" : "Niger face parte din proiectul Marele Zid Verde al Africii, cea mai ambițioasă inițiativă de împădurire din lume. Conceput în 2007, proiectul propune o barieră verde intercontinentală de 7000 de kilometri, din Senegal și până în Djibouti. Procentul de finalizare este momentan la 15%.",
-        "vaccine" : "Este obligatorie deținerea unui certificat de vaccinare împotriva febrei galbene. De asemenea, este recomandată vaccinarea împotriva DTP la zi (difterie, tetanos, tusă convulsivă) și vaccinarea ROR (rubeolă-oreion-rujeolă)."
+        "vaccine" : "Este obligatorie deținerea unui certificat de vaccinare împotriva febrei galbene. De asemenea, este recomandată vaccinarea împotriva DTP la zi (difterie, tetanos, tusă convulsivă) și vaccinarea ROR (rubeolă-oreion-rujeolă). Mai multe detalii pe site-ul oficial MAE."
         
     },
     {
@@ -1862,13 +1862,13 @@
         "code": "NG",
         "documents": "Pașaport și Viză",
         "source": "https://www.mae.ro/travel-conditions/30217",
-        "comment": "Cetățenii români care doresc să călătorească în Nigeria au nevoie de pașaport și viză, care nu se poate elibera la fontieră. Cea din urmă se poate obține de la Secția Consulară a Ambasadei Republicii Federale Nigeria din București. Mai multe detalii pe site-ul oficial MAE.",
+        "comment": "Cetățenii români care doresc să călătorească în Nigeria au nevoie de pașaport și viză, iar cea din urmă nu se poate elibera la fontieră. Viza de intrare se poate obține numai în format electronic începând cu 1 mai 2025. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "Ministerul Afacerilor Externe recomandă cetățenilor români evitarea oricărei călătorii în Nigeria din cauza situației de securitate precare pe teritoriul acestui stat. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Abuja.",
         "affiliation" : "ONU",
         "emergency" : "",
         "funfact" : "În Nigeria, precum și în alte părți ale Africii, este considerat nepoliticos să privești pe cineva în ochi atunci când îi vorbești. Acest gest este interpretat ca o postură agresivă, în special dacă este inițiată de un tânăr aflat în conversație cu cineva în vârstă.",
-        "vaccine" : "Este obligatorie prezentarea dovezii vaccinării împotriva febrei galbene. De asemenea, în contextul epidemiei recente de MPOX, cetățenii străini trebuie să completeze o declarație de sănătate la intrarea în țară. Nu în ultimul rând, cetățenii români care călătoresc în Nigeria și nu au fost vaccinați antipolio în ultimele 12 luni trebuie să se vaccineze cu 4 săptămâni înaintea călătoriei sau, în cazuri de urgență, chiar înaintea acesteia. Mai multe detalii pe site-ul oficial MAE."
+        "vaccine" : "Este obligatorie prezentarea dovezii vaccinării împotriva febrei galbene. De asemenea, în contextul epidemiei recente de MPOX din regiunea Africii Centrale, cetățenii străini trebuie să completeze o declarație de sănătate la intrarea în țară. Nu în ultimul rând, cetățenii români care călătoresc în Nigeria și nu au fost vaccinați antipolio în ultimele 12 luni trebuie să se vaccineze cu 4 săptămâni înaintea călătoriei sau, în cazuri de urgență, chiar înaintea acesteia. Mai multe detalii pe site-ul oficial MAE."
         
     },
     {
@@ -1914,7 +1914,7 @@
         "documents": "Pașaport",
         "source": "https://www.mae.ro/travel-conditions/25188",
         "comment": "Cetățenii români, posesori de pașapoarte biometrice, pot călători în Sultanatul Oman în scop turistic fără necesitatea unei vize de intrare dacă șederea nu depășește 14 zile. Totuși, va trebui să prezinți la intrarea în țară o rezervare confirmată la un hotel, o asigurare medicală și un bilet de călătorie dus-întors. Pentru șederile de 15-30 de zile este necesară o viză turistică, ce se poate obține la sosire pe Aeroportul Internațional Muscat, Aeroportul Internațional Salalah și la punctele de frontieră terestre și maritime, dar și online. Mai multe detalii pe site-ul oficial MAE.",
-        "warning" : "Ministerul Afacerilor Externe recomandă cetățenilor români să manifeste prudență pe durata călătoriei în acest stat pe fondul eventualelor demonstrații publice din captala Muscat. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Ministerul Afacerilor Externe recomandă cetățenilor români să manifeste prudență pe durata călătoriei în acest stat pe fondul eventualelor demonstrații publice din capitala Muscat. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Muscat.",
         "affiliation" : "ONU",
         "emergency" : "",
