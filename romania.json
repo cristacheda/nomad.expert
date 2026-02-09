@@ -2259,9 +2259,9 @@
         "code": "SC",
         "documents": "Pașaport",
         "source": "https://www.mae.ro/travel-conditions/12441",
-        "comment": "Cetățenii români care doresc să călătorească în Insulele Seychelles nu au nevoie de viză de intrare, ci doar de pașaport. Perioada de ședere nu poate depăși 90 de zile, iar chiar dacă viza nu este necesară pentru cei care folosesc un pașaport simplu electronic valabil, trebuie solicitată o autorizație de călătorie (ITA) online. Mai multe detalii pe site-ul oficial MAE.",
+        "comment": "Cetățenii români care doresc să călătorească în Insulele Seychelles nu au nevoie de viză de intrare, ci doar de pașaport. Perioada de ședere nu poate depăși 90 de zile, iar chiar dacă viza nu este necesară pentru cei care folosesc un pașaport simplu electronic valabil, trebuie solicitată o autorizație de călătorie (ITA) în format online. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "",
-        "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Pretoria, Africa de Sud.",
+        "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Pretoria și Consulatul General al României la Cape Town.",
         "affiliation" : "ONU",
         "emergency" : "",
         "funfact" : "Fructul arborelui de pâine este foarte popular în Seychelles, se spune chiar că cine îl mănâncă pe insulă se va întoarce într-o zi aici.",
@@ -2273,10 +2273,11 @@
         "documents": " Pașaport și Viză",
         "source": "https://www.mae.ro/travel-conditions/60060",
         "comment": "Cetățenii români care doresc să călătorească în Sierra Leone au nevoie de pașaport și viză de intrare. Perioada de ședere nu poate depăși 90 de zile, iar sejurul efectiv cumulat pe teritoriul acestei țări nu poate depăși 180 de zile de-a lungul unui an. Mai multe detalii pe site-ul oficial MAE.",
-        "warning" : "Ministerul Afacerilor Externe recomandă cetățenilor români evitarea călătoriilor în această țară pe fondul riscului de infectare cu febră virală hemoragică, produsă de virusul Ebola. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Ministerul Afacerilor Externe recomandă cetățenilor români evitarea călătoriilor neesențiale în această țară din cauza demonstrațiilor, protestelor și adunărilor publice care pot duce la escaladări rapide. Mai multe detalii pe site-ul oficial MAE.",
+        "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Abuja, Nigeria.",
         "affiliation" : "ONU",
         "funfact" : "Drapelul țării are o semnificație aparte, cele trei dungi colorate având fiecare importanța sa. Verdele semnifică agricultura și munții, albul a fost ales pentru unitate și dreptate, iar albastrul pentru aspirația de a contribui la pacea globală, în special prin portul Freetown.",
-        "vaccine" : "Vaccinarea împotriva febrei galbene este obligatorie pentru a intra pe teritoriul acestei țări. Există, de asemenea, un risc ridicat de îmbolnăvire pentru malarie, febră tifoidă, febră galbenă, meningită cerebro spinală, poliomielită, holeră, febră Lassa sau lepră, boli de piele și alte afecțiuni. Mai multe detalii pe site-ul oficial MAE."
+        "vaccine" : "Vaccinarea împotriva febrei galbene este obligatorie pentru a intra pe teritoriul acestei țări. așa că este necesară prezentarea documentației în acest sens la graniță. Există, de asemenea, un risc ridicat de îmbolnăvire pentru malarie, febră tifoidă, meningită cerebro spinală, poliomielită, holeră, febră Lassa sau lepră, boli de piele și alte afecțiuni. Mai multe detalii pe site-ul oficial MAE."
     },
     {
         "name": "Singapore",
@@ -2289,7 +2290,7 @@
         "affiliation" : "ONU",
         "emergency" : "",
         "funfact" : "Deschisă în 1994, grădina zoologică din Singapore este prima din lume deschisă pe timpul nopții. Pe parcursul celor 40 de minute de Night Safari vei putea descoperi peste 1000 de animale din 120 de specii diferite.",
-        "vaccine" : ""
+        "vaccine" : "Deși nu există vaccinuri obligatorii pentru intrarea în Singapore, Ministerul Afacerilor Externe recomandă vaccinarea împotriva febrei dengue. Mai multe detalii pe site-ul oficial MAE."
     },
     {
         "name": "Slovakia",
@@ -2310,7 +2311,7 @@
         "documents": "Carte de Identitate sau Pașaport",
         "source": "https://www.mae.ro/travel-conditions/3746",
         "comment": "Cetățenii români care doresc să călătorească în Slovenia au nevoie doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate pentru o perioadă de cel puțin 3 luni. Toți cetățenii străini, inclusiv cetățenii UE, au obligația să se înregistreze la secția de poliție pe raza căreia locuiesc în termen de 3 zile de la sosirea în Slovenia. Această formalitate nu este necesară pentru cei care se cazează la hotel. Mai multe detalii pe site-ul oficial MAE.",
-        "warning" : "",
+        "warning" : "Ministerul Afacerilor Externe informează cetățenii români care intenționează să tranziteze sau să călătorească în Slovenia că autoritățile locale au extins cu șase luni controalele la punctele de trecere a frontierei terestre cu Ungaria și Croația, până la data de 21 iunie 2026. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Ljubljana.",
         "affiliation" : "UE, NATO, ONU",
         "emergency" : "",
@@ -2330,24 +2331,25 @@
         "code": "SO",
         "documents": "Pașaport și Viză",
         "source": "https://www.mae.ro/travel-conditions/29373",
-        "comment": "Cetățenii români care doresc să călătorească în Somalia au nevoie de pașaport și viză. Chiar și așa, Ministerul Afacerilor Externe recomandă cu fermitate evitarea oricărei călătorii în Somalia ca urmare a situației de securitate actuale. Mai multe detalii pe site-ul oficial MAE.",
+        "comment": "Cetățenii români care doresc să călătorească în Somalia au nevoie de pașaport și viză de intrare. Cea din urmă se poate obține online sau de la Ambasada Republicii Federale Somalia în Federația Rusă, care asigură reprezentarea diplomatică a acestui stat în România. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Addis Abeba, Etiopia.",
-        "emergency" : "Ministerul Afacerilor Externe recomandă insistent cetățenilor români să evite orice călătorie în Somalia, iar persoanelor care tranzitează zona sau se află pe teritoriul țării să părăsească imediat statul. Situația de securitate este puternic afectată de acțiunile de piraterie la scară largă, dar și de luptele dintre forțele guvernamentale și grupările afiliale AL Qaeda. Mai multe detalii pe site-ul oficial MAE.",
+        "emergency" : "Ministerul Afacerilor Externe recomandă insistent cetățenilor români să evite orice călătorie în Somalia, iar persoanelor care tranzitează zona sau se află pe teritoriul țării să părăsească imediat statul! Situația de securitate este puternic afectată de acțiunile de piraterie la scară largă, dar și de luptele dintre forțele guvernamentale și grupările afiliate Al Qaeda. Mai multe detalii pe site-ul oficial MAE.",
         "affiliation" : "ONU",
         "funfact" : "Mic-dejun, prânz sau cină, somalezii mănâncă banane la fiecare masă - o adaugă la orice preparat, chiar și la paste, pentru care au o cultură bogată datorită colonizării italiene.",
-        "vaccine" : ""
+        "vaccine" : "Vaccinarea antipoliomielită este obligatorie pentru cei care doresc să intre pe teritoriul acestui stat. Mai multe detalii pe site-ul oficial MAE."
     },
     {
         "name": "South Africa",
         "code": "ZA",
-        "documents": "Pașaport și Viză",
+        "documents": "Pașaport",
         "source": "https://www.mae.ro/travel-conditions/3663",
-        "comment": "Cetățenii români care doresc să călătorească în Africa de Sud au nevoie de pașaport și viză. Intrarea în acest stat este permisă cu pașaportul electronic, care trebuie să aibă o valabilitate de minimum 30 de zile de la data planificată a ieșirii de pe teritoriul țării și să aibă cel puțin 2 file albe pentru avize. Mai multe detalii despre restul condițiilor de intrare pe site-ul oficial MAE.",
-        "warning" : "Pe fondul nivelului de criminalitate foarte ridicat din Africa de Sud, Ministerul Afacerilor Externe recomandă cetățenilor români să fie extrem de prudenți. Cetățenii români care doresc să călătorească în Africa de Sud sau se află deja pe teritoriul acestui stat sunt sfătuiți să se adreseze Ambasadei României la Pretoria sau Consulatului General de la Cape Town pentru a-și anunța prezența în regiune. Mai multe detalii pe site-ul oficial MAE.",
+        "comment": "Cetățenii români care doresc să călătorească în Africa de Sud au nevoie doar de pașaport începând cu data de 3 septembrie 2025. Intrarea în acest stat este permisă cu pașaportul electronic, care trebuie să aibă o valabilitate de minimum 30 de zile de la data planificată a ieșirii de pe teritoriul țării și cel puțin 2 file albe pentru avize. De asemenea, perioada maximă de ședere este de 90 de zile, inclusiv datele de intrare și ieșire din acest stat. Mai multe detalii pe site-ul oficial MAE.",
+        "misiune" : "Misiune diplomatică activă prin Ambasada României la Pretoria și Consulatul General al României la Cape Town.",
+        "warning" : "Pe fondul nivelului de criminalitate foarte ridicat din Africa de Sud, Ministerul Afacerilor Externe recomandă cetățenilor români să fie extrem de prudenți și să evite călătoriile neesențiale. Cetățenii români care doresc să călătorească în Africa de Sud sau se află deja pe teritoriul acestui stat sunt sfătuiți să se adreseze Ambasadei României la Pretoria sau Consulatului General de la Cape Town pentru a-și anunța prezența în regiune. Mai multe detalii pe site-ul oficial MAE.",
         "affiliation" : "ONU",
         "emergency" : "",
         "funfact" : "Africa de Sud are nu mai puțin de trei capitale: Cape Town, capitala legislativă unde se află și Parlamentul, Bloemfontein, capitala juridică unde se află Curtea Supremă de Apel și Pretoria, capitala executivă ce găzduiește clădirile sindicatelor și ale serviciilor publice.",
-        "vaccine" : ""
+        "vaccine" : "Ministerul Afacerilor Externe recomandă vaccinarea împotriva hepatitei A, poliomielitei, tetanosului, febrei tifoide și febrei galbene. Mai multe detalii pe site-ul oficial MAE."
     },
     {
         "name": "South Georgia and the South Sandwich Islands",
@@ -2362,9 +2364,9 @@
         "code": "ES",
         "documents": "Carte de Identitate sau Pașaport",
         "source": "https://www.mae.ro/travel-conditions/3747",
-        "comment": "Cetățenii români care doresc să călătorească în Spania au nevoie doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate.",
+        "comment": "Cetățenii români care doresc să călătorească în Spania au nevoie doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate. Pentru cetățenii români care intenționează să rămână pentru o perioadă îndelungată în această țară, Ministerul Afacerilor Externe recomandă adresarea către ambasada sau oficiile consulare ale României și anunțarea prezenței în regiune. De asemenea, site-ul Ambasadei României în Regatul Spaniei conține informații utile pentru cetățenii români care doresc să se angajeze în câmpul muncii în acest stat. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "",
-        "misiune" : "Misiune diplomatică activă prin Ambasada României la Madrid.",
+        "misiune" : "Misiune diplomatică activă prin Ambasada României la Madrid, Consulatul General al României la Madrid, Consulatul General al României la Barcelona, Consulatul General al României la Sevilla, Consulatul General al României la Bilbao, Consulatul României la Zaragoza, Consulatul României la Castellón de la Plana, Consulatul României la Ciudad Real și ConsulatuL României la Almeria.",
         "affiliation" : "UE, NATO, ONU",
         "emergency" : "",
         "funfact" : "Imnul Național al Spaniei nu are versuri. Se numește Marca Real și a fost compus în 1761, fiind unul dintre cele mai vechi imnuri din lume.",
