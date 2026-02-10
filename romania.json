@@ -2377,13 +2377,13 @@
         "code": "LK",
         "documents": "Pașaport și Viză",
         "source": "https://www.mae.ro/travel-conditions/3748",
-        "comment": "Cetățenii români care doresc să călătorească în Sri Lanka au nevoie de pașaport și viză. Pașaportul trebuie să aibă o valabilitate de cel puțin 6 luni de la data intrării în această țară. Mai multe detalii pe site-ul oficial MAE.",
-        "warning" : "Ministerul Afacerilor Externe recomandă cetățenilor români evitarea zonelor aglomerate, cu demonstrații și adunări publice. Mai multe detalii pe site-ul oficial MAE.",
+        "comment": "Cetățenii români care doresc să călătorească în Sri Lanka au nevoie de pașaport și viză. Pașaportul trebuie să aibă o valabilitate de cel puțin 6 luni de la data intrării în această țară. În ceea ce privește viza, aceasta se poate obține fie de la misiunile diplomatice ale acestei țări în străinătate, fie online. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Ministerul Afacerilor Externe recomandă cetățenilor români evitarea zonelor aglomerate, cu demonstrații și adunări publice, pentru că există riscul apariției de violență. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Colombo.",
         "affiliation" : "ONU",
         "emergency" : "",
         "funfact" : "Deși nu se cunoaște motivul nici printre localnici, multe restaurante, cafenele și baruri din Sri Lanka afișează semnul Hotel, deși nu oferă cazare - așa că trebuie să ai grijă atunci când vrei să înoptezi.",
-        "vaccine" : ""
+        "vaccine" : "Nu există vaccinuri obligatorii pentru accesul pe teritoriul acestui stat, însă Ministerul Afacerilor Externe recomandă vaccinarea împotriva hepatitei A și B, febrei tifoide, difteriei și tetanosului. Mai multe detalii pe site-ul oficial MAE."
     },
     {
         "name": "Sudan",
@@ -2392,24 +2392,24 @@
         "source": "https://www.mae.ro/travel-conditions/29372",
         "comment": "Cetățenii români care doresc să călătorească în Republica Sudan au nevoie de pașaport și viză de intrare. Este recomandată evitarea folosirii pașaportului temporar, iar toate tipurile de documente de călătorie ar trebui să aibă o valabilitate de minimum 6 luni. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "Ministerul Afacerilor Externe recomandă cetățenilor români evitarea oricărei călătorii în Sudan pe fondul recentelor confruntări armate violente între armata națională și gruparea paramilitară a Forțelor de Sprijin Rapid. Mai multe detalii pe site-ul oficial MAE.",
-        "misiune" : "Misiune diplomatică activă prin Ambasada României la Khartoum.",
+        "misiune" : "Misiune diplomatică asigurată de Ambasada României la Addis Abeba, Etiopia.",
         "affiliation" : "ONU",
         "emergency" : "",
         "funfact" : "Este una dintre cele mai diverse țări din lume: se vorbesc 114 limbi native în Sudan și există peste 500 de accente diferite.",
-        "vaccine" : "Vaccinarea împotriva febrei galbene este obligatorie. Este recomandată, de asemenea, vaccinarea împotriva virusului poliomelitic. Mai multe detalii pe site-ul oficial MAE."
+        "vaccine" : "Vaccinarea împotriva febrei galbene este obligatorie pentru a călători în această țară. Este recomandată, de asemenea, vaccinarea împotriva virusului poliomelitic. Mai multe detalii pe site-ul oficial MAE."
     },
     {
         "name": "Suriname",
         "code": "SR",
         "documents": "Pașaport și Viză",
         "source": "https://www.mae.ro/travel-conditions/44722",
-        "comment": "Cetățenii români care doresc să călătorească în Republica Surinam au nevoie de pașaport și viză, cea din urmă fiind necesară pentru toate categoriile de pașapoarte. Documentele de călătorie trebuie să aibă o valabilitate de minimum 6 luni de la intrarea pe teritoriul acestui stat. Mai multe detalii pe site-ul oficial MAE.",
+        "comment": "Cetățenii români care doresc să călătorească în Republica Surinam au nevoie de pașaport și viză, cea din urmă fiind necesară pentru toate categoriile de pașapoarte. De asemenea, documentele de călătorie trebuie să aibă o valabilitate de minimum 6 luni de la intrarea pe teritoriul acestui stat. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Brasilia, Brazilia.",
         "affiliation" : "ONU",
         "emergency" : "",
         "funfact" : "Este cea mai mică țară independentă din America de Sud, atât în termeni de mărime, cât și de populație.",
-        "vaccine" : ""
+        "vaccine" : "Vaccinarea contra febrei galbene este obligatoriu pentru călătorii care sosesc în Republica Surinam dintr-o țară în care există o incidență crescută a acestei boli. De asemenea, este recomandată vaccinarea împotriva hepatitei A și B, difteriei, tetanosului și malariei, în funcție de regiunile pe care dorești să le vizitezi. Mai multe detalii pe site-ul oficial MAE."
     },
     {
         "name": "Svalbard and Jan Mayen",
@@ -2424,21 +2424,21 @@
         "code": "SZ",
         "documents": "Pașaport și Viză",
         "source": "https://www.mae.ro/travel-conditions/12609",
-        "comment": "Cetățenii români care doresc să călătorească în Regatul Eswatini au nevoie de pașaport și viză. Cea din urmă poate fi obținută de la Înaltul Comisariat al Regatului Eswatini la Londra. Mai multe detalii pe site-ul oficial MAE.",
+        "comment": "Cetățenii români care doresc să călătorească în Regatul Eswatini au nevoie de pașaport și viză. Cea din urmă nu se acordă la frontieră, ci poate fi obținută de la Înaltul Comisariat al Regatului Eswatini la Londra. De asemenea, pașaportul trebuie să aibă o valabilitate de cel puțin 3 luni ulterior intrării pe teritoriul regatului și să conțină cel puțin 2 pagini libere. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "",
         "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Pretoria, Africa de Sud.",
         "affiliation" : "",
         "emergency" : "",
         "funfact" : "Este ultima monarhie absolută a Africii și una dintre puținele încă existente în lume.",
-        "vaccine" : "Vaccinarea împotriva febrei galbene este obligatorie în cazul în care călătorești dintr-un stat în care există riscul transmiterii acestei boli. Certificatul de vaccinare va trebui prezentat autorităților în acest sens."
+        "vaccine" : "Vaccinarea împotriva febrei galbene este obligatorie în cazul în care călătorești dintr-un stat în care există riscul transmiterii acestei boli. Certificatul de vaccinare va trebui prezentat autorităților în acest sens. Mai multe detalii pe site-ul oficial MAE."
     },
     {
         "name": "Sweden",
         "code": "SE",
         "documents": "Carte de Identitate sau Pașaport",
         "source": "http://www.mae.ro/travel-conditions/3750",
-        "comment": "Cetățenii români care doresc să călătorească în Suedia au nevoie doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate.",
-        "warning" : "Ministerul Afacerilor Externe informează cetățenii români că autoritățile suedeze au decis reintroducerea controlului la frontiera internă de stat în perioada 12 noiembrie 2024 - 11 mai 2025. Mai multe detalii pe site-ul oficial MAE.",
+        "comment": "Cetățenii români care doresc să călătorească în Suedia au nevoie doar de cartea de identitate sau de pașaport, aflate în termen de valabilitate. Perioada maximă de ședere este de 90 de zile. Pentru cei care doresc să se stabilească pe teritoriul Suediei sau să lucreze în acest stat, site-ul Ambasadei României în Regatul Suediei conține informații utile în acest sens. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Ministerul Afacerilor Externe informează cetățenii români că autoritățile suedeze au decis prelungrirea controalelor la frontierele interne de stat până la data de 11 mai 2026. Mai multe detalii pe site-ul oficial MAE.",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Stockholm.",
         "affiliation" : "UE, ONU",
         "emergency" : "",
@@ -2450,7 +2450,7 @@
         "code": "CH",
         "documents": "Carte de Identitate sau Pașaport",
         "source": "https://www.mae.ro/travel-conditions/3692",
-        "comment": "Cetățenii români care doresc să călătorească în Elveția au nevoie doar de cartea de identitate sau de pașaport în curs de valabilitate. Mai multe detalii pe site-ul oficial MAE.",
+        "comment": "Cetățenii români care doresc să călătorească în Elveția au nevoie doar de cartea de identitate sau de pașaport în curs de valabilitate. Cetățenii români care intenționează să rămână pe teritoriul Elveției mai mult de 90 de zile (fără să desfășoare o activitate lucrativă) au nevoie de o autorizație de ședere, eliberată de autoritatea locală compententă. Mai multe detalii pe site-ul oficial MAE.",
         "warning" : "",
         "misiune" : "Misiune diplomatică activă prin Ambasada României la Berna.",
         "affiliation" : "ONU",
@@ -2463,9 +2463,11 @@
         "code": "SY",
         "documents": "Pașaport și Viză",
         "source": "https://www.mae.ro/travel-conditions/3744#788",
-        "comment": "Cetățenii români care doresc să călătorească în Siria au nevoie de pașaport și viză, cea din urmă fiind obținută de la ambasadele siriene din străinătate. Mai multe detalii pe site-ul oficial MAE.",
+        "comment": "Cetățenii români care doresc să călătorească în Siria au nevoie de pașaport și viză de intrare, cea din urmă fiind obținută de la ambasadele siriene din străinătate. Orice ședere mai mare de 10 zile se înregistrează la poliția departamentală, iar orice ieșire din această țară, după o ședere mai mare de 10 zile, se aprobă de poliția locală. Atenție! Este refuzată intrarea în Siria persoanelor care dețin o viză israeliană în pașaport, dar și persoanelor infectate cu virusul HIV. Mai multe detalii pe site-ul oficial MAE.",
+        "misiune" : "Misiune diplomatică activă prin Ambasada României la Damasc.",
         "emergency" : "Ministerul Afacerilor Externe recomandă cetățenilor români evitarea oricărei călătorii în Siria, iar celor care se află deja în țară să o părăsească de urgență! Riscurile de securitate sunt majore, fiind posibile declanșările de violențe extreme. Mai multe detalii pe site-ul oficial MAE.",
         "affiliation" : "ONU",
+        "emergency" : "Ministerul Afacerilor Externe recomandă cetățenilor români care se află în Siria să părăsească imediat țara pe orice rută sigură existentă! Situația de securitate este deteriorată și resimțită pe întreg teritoriul Siriei - au loc conflicte interconfesionale, răpiri prin răscumpărare, tâlhării, dar și lovituri punctuale executate de forțele artamte israeliene. Mai multe detalii pe site-ul oficial MAE.",
         "funfact" : "Damascul este cea mai veche capitală din lume, fiind menționată chiar și în Biblie.",
         "vaccine" : ""
     },
