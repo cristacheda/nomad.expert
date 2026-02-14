@@ -332,10 +332,13 @@
     {
         "name": "Botswana",
         "code": "BW",
-        "documents": "",
-        "source": "",
-        "comment": "",
-        "warning" : ""
+        "documents": "Pașaport",
+        "source": "https://www.mae.ro/travel-conditions/12187",
+        "comment": "Cetățenii români care doresc să călătorească în Botswana au nevoie doar de pașaport. Ministerul Afacerilor Externe recomandă evitarea utilizării pașaportului temporar, cum poliția de frontieră locală nu permite titularilor acestui tip de pașaport intrarea pe teritoriul acestui stat. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "",
+        "misiune" : "Misiune diplomatică asigurată de Ambasada României la Pretoria și Consulatul General al României la Cape Town.",
+        "affiliation" : "ONU",
+        "funfact" : "Botswana are cea mai mare populație de elefanți din lume, cu un număr de aproximativ 130.000 din cei aproape jumătate de milion încă rămași în Africa.",
     },
     {
         "name": "Bouvet Island",
@@ -699,10 +702,13 @@
     {
         "name": "Djibouti",
         "code": "DJ",
-        "documents": "",
-        "source": "",
-        "comment": "",
-        "warning" : ""
+        "documents": "Pașaport și Viză",
+        "source": "https://mae.ro/travel-conditions/31501",
+        "comment": "Cetățenii români care doresc să călătorească pe teritoriul Djibouti au nevoie de pașaport și viză. Cea din urmă poate fi obținută de la misiunile diplomatice ale acestui stat sau online. Atenție! În cazul călătoriei cu un vas de croazieră ce are escală în Djibouti, cetățenii români nu pot folosi viza obținută electronic pentru intrarea pe teritoriul acestei țări. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Ministerul Afacerilor Externe recomandă cu fermitate evitarea tuturor călătoriilor la frontiera dintre Republica Djibouti și Eritreea din cauza situației precare de securitate. Se recomandă, de asemenea, prudență sporită și în zone izolate precum frontiera Republicii Djibouti cu Somalia. Mai multe detalii pe site-ul oficial MAE."
+        "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Cairo.",
+        "affiliation" : "ONU",
+        "funfact" : "Djibouti este a treia cea mai mică țară de pe continentul african, cu o suprafață de doar 23.200 de kilometri pătrați."
     },
     {
         "name": "Dominica",
