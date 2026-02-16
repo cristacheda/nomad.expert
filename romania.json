@@ -1006,7 +1006,7 @@
         "warning" : "",
         "misiune" : "Misiune diplomatică asigurată de Ambadasada României la Havana, Cuba.",
         "affiliation" : "ONU",
-        "funfact" : "Vei găsi în Grenada un lac în formă de inimă, ce se află în centrul unui fost vulcan.",
+        "funfact" : "Vei găsi în Grenada un lac în formă de inimă, ce se află în centrul unui fost vulcan."
     },
     {
         "name": "Guadeloupe",
@@ -1056,18 +1056,26 @@
     {
         "name": "Guinea-Bissau",
         "code": "GW",
-        "documents": "",
-        "source": "",
-        "comment": "",
-        "warning" : ""
+        "documents": "Pașaport și Viză",
+        "source": "https://www.mae.ro/travel-conditions/26162",
+        "comment": "Pașaportul și viza sunt documente de călătorie obligatorii pentru cetățenii români care doresc să intre pe teritoriul Republicii Guineea Bissau. Valabilitatea pașaportului trebuie să fie de cel puțin 6 luni de la momentul intrării pe teritoriul acestei țări. Detalii suplimentare pe site-ul oficial MAE.",
+        "warning" : "Ministerul Afacerilor Externe recomandă cetățenilor români evitarea deplasărilor în această țară din cauza situației de securitate, încă volatilă după cea mai recentă lovitură de stat. Mai multe detalii pe site-ul oficial MAE.",
+        "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Dakar, Senegal.",
+        "affiliation" : "ONU",
+        "funfact" : "Drapelul țării este colorat în roșu, galben și verde. Galbenul simbolizează savanele din nordul țării, verdele denotă pădurile din sud, iar roșul reprezintă lupta pentru independență - în timp ce steaua neagră reprezintă populația Africii.",
+        "vaccine" : "Vaccinul împotriva febrei galbene este obligatoriu pentru a intra pe teritoriul acestei țări, întrucât această boală este endemică în Guineea Bissau. Vaccinul trebuie efectuat cu cel puțin 10 zile înainte de intrarea în țară. Se recomandă, de asemenea, vaccinarea împotriva tuberculozei, a meningitei bacteriene A + C + Y + W135 și actualizarea vaccinării difterie-tetanos-poliomielită. În funcție de condițiile locale de călătorie, pot fi necesare vaccinuri împotriva febrei tifoide și a hepatitei A și B. Mai multe detalii pe site-ul oficial MAE."
     },
     {
         "name": "Guyana",
         "code": "GY",
-        "documents": "",
-        "source": "",
-        "comment": "",
-        "warning" : ""
+        "documents": "Pașaport și Viză",
+        "source": "https://www.mae.ro/travel-conditions/44723",
+        "comment": "Cetățenii români au nevoie de pașaport și viză pentru a intra în Guyana. Viza este necesară pentru toate categoriile de pașapoarte și se poate obține inclusiv la graniță pentru o perioadă de cel mult 30 de zile. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "",
+        "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Brasilia, Brazilia.",
+        "affiliation" : "ONU",
+        "funfact" : "Descoperirea zăcămintelor de petrol de pe teritoriul ei a transformat Guyana din una dintre cele mai sărace țări din America Latină în a unsprezecea cea mai bogată țară din lume din punct de vedere al PIB-ului.",
+        "vaccine" : "Ministerul Afacerilor Externe recomandă vaccinarea preventivă împotriva febrei tifoide, dar și împotriva hepatitei A și B, difteriei, tetanosului, malariei și tuberculozei, în funcție de zonele vizitate. Detalii amănunțite pe site-ul oficial MAE."
     },
     {
         "name": "Haiti",
@@ -1101,10 +1109,14 @@
     {
         "name": "Honduras",
         "code": "HN",
-        "documents": "",
-        "source": "",
-        "comment": "",
-        "warning" : ""
+        "documents": "Pașaport",
+        "source": "https://www.mae.ro/travel-conditions/33007",
+        "comment": "Cetățenii români care doresc să călătorească în Honduras au nevoie doar de pașaport, nu și de viză. Scopul călătoriei trebuie să fie turistic sau de afaceri, iar perioada de ședere nu poate depăși 90 de zile într-un interval de 6 luni. Mai sunt necesare, totuși, și alte condiții pentru exceptarea de la obligativitatea deținerii vizei. Mai multe detalii pe site-ul oficial MAE.",
+        "warning" : "Ministerul Afacerilor Externe recomandă cetățenilor români să manifeste o atenție sporită pentru deplasările în această țară din cauza extinderii delicvenței comune și deținerii unui mare număr de arme de foc de către populație. Mai multe detalii pe site-ul oficial MAE.",
+        "misiune" : "Misiune diplomatică asigurată prin Ambasada României la Ciudad de Mexico, Mexic.",
+        "affiliation" : "ONU",
+        "funfact" : "Hondurienii sunt atât de microbiști încât, în 1969, au atacat El Salvador în ceea ce avea să se numească Războiul Fotbalului, care a durat doar 100 de ore. Războiul a început la câteva săptămâni după ce El Salvador a eliminat Honduras din preliminariile Cupei Mondiale la Fotbal din 1970.",
+        "vaccine" : ""
     },
     {
         "name": "Hong Kong",
